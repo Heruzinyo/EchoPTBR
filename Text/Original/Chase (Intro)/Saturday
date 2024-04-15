@@ -1,0 +1,910 @@
+﻿stop music fadeout 3.0
+scene bg black
+with slow_dissolve
+window show
+"{cps=15}{font=Daubmark.ttf}I knew you'd be back..."
+"{cps=15}{font=Daubmark.ttf}You all come back eventually..."
+"{cps=15}{font=Daubmark.ttf}Why do you try to run away in the first place...?"
+"{cps=15}{font=Daubmark.ttf}It doesn't matter..."
+"{cps=15}{font=Daubmark.ttf}Even though you're here you're going to try and run again..."
+"{cps=15}{font=Daubmark.ttf}Just stop..."
+"{cps=15}{font=Daubmark.ttf}Because just like this town..."
+"{cps=15}{font=Daubmark.ttf}You're only moving in circles..."
+
+stop music fadeout 10.0
+$ renpy.pause(2.0, hard=True)
+scene bg route93 with opening_fade
+play background "highway.mp3" fadein 2.5
+
+
+m "\"Yeah mom, I brought it.\""  
+m "\"No, no I've got everything.\""
+m "\"No, TJ's with us, we picked him up yesterday...\""
+m "\"No I...I {i}did{/i} call you yesterday, there was no answer.\""
+m "\"Fine. Yeah, I'll try more than once next time.\""
+m "\"So I'm...Of course they're clean!\""
+m "\"Listen, I'm driving right now, so—\""
+m "\"Yeah, so I shouldn't be on the phone, should I? I'm gonna hang up.\""
+m "\"Okay, love you, too...bye.\""
+"I sigh and finally hang up the phone, dropping it on my lap."
+"TJ, next to me in the passenger seat, stretches back and scratches behind his ear."
+t "\"Aww, that's cute. It's been a while since I've seen your mom. How is she?\""
+"I shrug."
+m "\"Fine, I think. She wouldn't tell me if she wasn't, anyway.\""
+"TJ taps a foot against the dashboard before yawning."
+t "\"Wow, it feels like we've been driving for daaays.\""
+"Normally TJ wasn't one to whine, but the long drive was obviously getting to him."
+"It was getting to all of us, honestly."
+"I look over at him."
+m "\"We're almost there. Why don't you listen to some music, or something?"
+t "\"My phone's been dead for the past two hours. I didn't know it would take us eight hours to get there.\""
+"I sigh."
+"Whether that dig was purposeful or not, I still feel a little embarrassed."  
+"I'll admit, I got us lost for a few hours. Route 93 is hard to find, even with the GPS."
+"It's no wonder that Echo's in the state it's in."
+j "\"You should have brought a book, those don't run out of batteries.\""
+"I look up into the rearview mirror and see Jenna hold up a hefty book titled 'Cognition'."
+"TJ sighs."
+t "\"All of my books are on my phone...\""
+m "\"Why don't you listen to the radio?\""
+"TJ starts to reach for the dial."
+j "\"Don't bother, all we get out here are hick stations. I have some music on my phone, though."
+j "\"Do you have an AUX cable, Chase?\""
+m "\"In this clunker? No, but like I said, we're almost there.\""
+"Just having the three of us here is a little awkward...unbalanced."  
+"I wonder if completing our little group will bring back that old chemistry."
+"Thinking about seeing Carl, Flynn, and Leo again makes my heart skip a beat."
+play sound "gps.wav"
+"GPS" "\"Take exit 127 onto Flint Road.\""
+"I jerk back to the present and press on the brakes as I swerve onto the exit ramp."
+
+scene bg flint with dissolve
+
+t "\"Whoa!\""
+m "\"Sorry! Sorry...\""
+# Swerve sound and image change
+t "\"Chase! Come on, pay attention.\""
+"TJ adds a little giggle to lighten the chastisement, but my face gets hot anyway."
+m "\"Hey, me and Jenna went three hours out of our way to pick you up from CCU, you could have taken the bus.\""
+t "\"No, no, I'm grateful. I'd just rather this not be the place I die, haha.\""
+"We continue down Flint road for about fifteen minutes in silence while I avoid the ever-increasing number of potholes in the road."
+"I think we're all a little nervous now as we get closer to our destination."
+"Unsurprisingly, there isn't another car in sight."
+j "\"You guys excited?\""
+"I look in my rearview mirror again and see that Jenna has put down her book, staring out the window."
+"I actually haven't given a whole lot of thought as to how I feel about the whole thing"
+menu:
+    "\"Yeah\"":
+            m "\"It'll be great to see everyone again. It's been way too long.\""
+    "\"Not really.\"":
+            m "\"Meh, I'm assuming we'll all just pick up where we left off.\""
+    "\"I'm nervous.\"":
+            m "\"I dunno, it's been a while since we've all been together. Think things will be the same?\""
+j "\"I meant Echo. Are you excited to go back?\""
+m "\"Oh.\""
+"I didn't really know how to answer that."
+"Is excited the right word?"
+"It's sure as hell stressful."
+t "\"As long as we can go for a hike.\""
+t "\"I don't wanna be sitting around in the motel all day.\""
+j "\"Well it beats having a heat stroke in the desert. Are you seriously hiking the trail?\""
+t "\"Oh come on, it'll be fun! At least I know Chase'll come.\""
+"TJ smiles at me, raising his brows."
+"It's too hard to say no to such an eager face...at least right now."
+m "\"Yeah, yeah, of course.\""
+j "\"Anyway, it sounds like you've only got the boys on your mind, Chase.\""
+j "\"...Leo, maybe?\""
+play sound "gps.wav"
+"GPS" "\"Make a slight right onto Lake Emma Road.\""
+"I ignore Jenna, pretending to be distracted with adjusting the GPS."
+"A few more minutes of silence pass before Jenna speaks up again."
+j "\"Soo, this news thing you're making, what's it about, exactly?\""
+"I swerve a little to avoid another pothole."
+m "\"A news packet.\""
+m "\"If you remember there was that one crazy thing that happened here in the 1920s. I read a little bit about it and it's pretty fucked up.\""
+t "\"Come on, Chase, language.\""
+m "\"Just thought I'd do a little more digging.\""
+m "\"Honestly, though, I just need to make something that looks good enough to pass with.\""
+j "\"Well that sounds kinda fun.  Are you going to have enough time to hang out? I know Leo made some plans.\""
+"This whole thing was Leo's idea, actually.  When I told him that I'd be coming down to Echo for spring break he suggested we all use it as an excuse to have a reunion."
+"He says it hasn't been the same since the three of us left."  
+m "\"Yeah, I should. I just need some b-roll and shots of the old, creepy locations.\""
+m "\"Shouldn't take too long.\""
+"I catch a flash of blue and see the lake to our right."
+"The conversation dies down a bit and pretty soon we're all lost in our own thoughts."
+"Finally, we round a bend and I start to catch some glimpses of the town."
+"The tall, rusted signs for the gas station and motel loom over the rest of the old community."
+"Lake Emma Road merges right onto Main Street, where the motel is at."
+"Soon enough we're turning into the parking lot."
+
+scene bg parkinglotday with dissolve
+
+"There are only a few other cars in the parking lot."
+stop background fadeout 3.0
+play sound "engineoff.mp3"
+"I park in the closest spot next to the door and switch off the ignition, relieved to be done with the driving."
+"I sit back for a moment, rubbing my eyes."
+m "\"Uuugh, Hope you're grateful TJ. I never wanna drive that long again.\""
+t "\"Thaaaanks, Chase!\""
+play sound "cardoor.mp3"
+"TJ hops out of the car, clearly happy to be out."
+play music "neutral.ogg"
+show TJ with dissolve
+t "\"Eeeuuuuugghhh!\""
+"TJ puts his paws to his back and stretches out from toes to ear tufts, and I hear a few cracks."
+t "\"Gosh, it feels good to be out of there.\""
+"I smile as I follow him out and stretch as well, though less flamboyantly. It's good to see TJ reverting back to his old, cheerful self."
+show Jenna at right
+with moveinright
+j "\"Alright, I made the reservations, so I'll check us in.\""
+j "\"You boys wanna bring in our stuff?\""
+t "\"Sure!\""
+hide Jenna
+hide TJ 
+with dissolve
+"Me and TJ head around to the trunk of the car, getting our bags and camera equipment while Jenna heads inside."
+
+scene bg motelfull with fade
+
+"I'm pleasantly surprised."
+"While it's a bit musty, the room is spacious and generally clean, a lot more than I was expecting from a town like Echo."
+"Although I've lived in the town for most of my life, I've never actually been in the motel."
+show TJ at left with dissolve
+t "\"Hey, this is nice! And two double beds?\""
+show Jenna at right with dissolve
+j "\"Yeah, thought I'd get one of the nicer rooms, since everything here is dirt cheap.\""
+"TJ sets his bags down on the bed."
+t "\"So I guess this'll be me and Chase's bed.\""
+t "\"Jenna can have her own, obviously.\""
+j "\"That's...nice of you, TJ. Anyway, here are your keycards.\""
+"She hands us both our keycards, which I slip into my back pocket."
+t "\"So, when we gonna eat? I'm starving!\""
+"My stomach grumbles. We haven't eaten since breakfast and it's late afternoon at this point."
+"I pull out my phone, checking over my texts with Leo."
+m "\"Leo said he's gonna get us some sandwiches from the diner.\""
+t "\"Did you tell—\""
+m "\"Yes, I told him to substitute the bread with lettuce for yours, TJ.\""
+t "\"Nice!\""
+j "\"Alright, well, I've texted everyone that we're here. Let's at least unpack.\""
+j "\"It's going to get crowded and I don't want all our stuff in the way.\""
+hide Jenna
+hide TJ
+with dissolve
+scene bg motelbeds
+with fade
+"Half-an-hour later we've got all our stuff packed away in the hotel drawers."
+"Now, I'm sitting on the bed, toying with my camera equipment while TJ watches TV and Jenna organizes her school work."
+t "\"You know you're on vacation, right?\""
+t "\"And didn't you already get into grad school?  You should relax.\""
+j "\"That's exactly why I need to be keeping up.\""
+play sound "doorknock.mp3"
+"There's a knock at the door and, being the closest, I get up to answer it."
+m "\"I'll get it!\""
+scene bg moteldoor with dissolve
+"I look through the peephole excitedly and see a beanie cap with a pair of some very familiar horns poking through it."
+"I grin as I unlock the door and swing it open."
+show Carl at center with dissolve
+m "\"Carl!\""
+c "\"Chase!\""
+"I slap paws with him and pull him into a hug"
+"...and immediately get a whiff of the pungent scent of pot."
+"Despite that, his embrace is warm and plush, and his belly squishes against my body like a pillow through his jacket."
+"There is an underlying sturdiness, though, and I feel his biceps bulge around my shoulders."
+"Had he been working out?"
+"I put my paws on his shoulders and push him back, looking him over."
+"He's changed a bit since I've last seen him. He's definitely bulkier, and the fur on his face is a bit shaggier."
+"His eyes are a little red, and his expression is a little glazed, like he's daydreaming about someplace far away from here."
+m "\"Still getting blazed, huh?\""
+c "\"You know it.\""
+"His jokey nature drops a bit as he gives me a genuine smile."
+c "\"It's good to see you again.\""
+"I feel warm inside as I smile back."
+m "\"You too.\""
+j "\"Is that Carl I hear?\""
+hide Carl with dissolve
+"Carl and I step back into the room, the ram remaining slouched as we do."
+scene bg motelfull
+show Carl at right with dissolve
+show Jenna at center with moveinleft
+c "\"Hey Jenna.\""
+j "\"Carl! How've you been?\""
+c "\"Not bad, just livin' life, like I'mma be...\""
+"It sounds like he's starting to sing the lyrics to a song, but he trails off as we all look at him expectantly."
+"He just smiles back."
+m "\"Huh?\""
+show TJ at left
+with moveinleft
+c "\"Hey, is that TJ?\""
+t "\"Hi!\""
+"Though he's smiling happily, TJ is outright crinkling his nose."
+t "\"Still up to your old habits, huh?\""
+"Carl shrugs."
+"I'm starting to remember that it's something he does a lot. It's his answer to almost everything."
+"It gets quiet for a moment, then I clap my paws together."
+m "\"So, what have you been up to, Carl?\""
+m "\"You're not online that often.\""
+"Carl shrugs."
+c "\"Oh, you know...just hangin' out.\""
+j "\"Must be kinda boring, considering it's Echo.\""
+c "\"Not going outside helps, haha.\""
+t "\"You been able to find a job? I know they closed the old Corner Market you used to work at.\""
+c "\"Yeaah, been kinda hard since pretty much everything's closing around here.\""
+c "\"On top of that I still don't have a car that can get me to Payton.\""
+t "\"Oof, that's right.\""
+t "\"You crashed the one your parents got you.\""
+"TJ's grinning sympathetically, but Carl hunches further into himself, looking sulky."
+c "\"Man, don't kill my vibe.\""
+j "\"What about school, been thinking about going back?\""
+c "\"N-not really, maybe...\""
+"Carl's starting to lose that faraway look as he narrows his eyes."
+j "\"You should! You went for what, a semester?\""
+j "\"That's not really enough time to tell if you're really cut out for college.\""
+j "\"Classes get easier to handle once you get used to it.\""
+c "\"Yeah, well, it wasn't exactly the school work that was the problem.\""
+t "\"You cooouuld try smoking less weed, that might help.\""
+c "\"Wh—wha…?\""
+c "\"Is this—was I set up for an intervention, or something?\""
+"Carl looks over at me, as if asking for help."
+m "\"Hey, don't look at me. I had to deal with them for the past ten hours.\""
+c "\"Yeah, guess I just forgot how naggy they can be.\""
+t "\"That's because we care about you, Carl!\""
+j "\"Anyway, I'm pretty sure Chase has been missing you ever since you left school.\""
+"Carl and I were in the same class throughout school. As a result, we entered college together."
+"We even roomed together for that one semester, which was a lot of fun. Of course I had missed him."
+"Carl seems pretty eager to get off the topic, though."
+c "\"Speaking of school, didn't you get accepted into Weston, Jenna?\""
+j "\"Yep! Going into experimental psych. I start in the fall.\""
+c "\"That's pretty cool, congrats.\""
+"Carl turns back to me."
+c "\"And you're into...journalism, right?\""
+"He looks over the equipment, looking confused."
+c "\"What's all this?\""
+#pic of cam equipment on bed?
+m "\"Oh! Yeah, one of the reasons why I'm out here.\""
+m "\"I'm doing a news segment on Echo.\""
+c "\"Sounds like the feel-good movie of the year, Chase.\""
+m "\"That's what you get out of the feel-good town of the century, Carl.\""
+c "\"Hehe, yeah.\""
+"Carl scratches his muzzle before turning to TJ."
+c "\"And you're doing...what again?\""
+c "\"Sports...something...Bible olympics?\""
+t "\"Athletic training, but yes, it's a Christian school.\""
+"Carl gives a thumbs up."
+c "\"Super. So we gonna eat? I'm hungry as hell.\""
+t "\"Hell is a little extreme, there, Carl.\""
+t "\"Not even YOU can be that hungry, hehe.\""
+c "\"Mhm, sure. Where's Leo, he's bringing the sandwiches, right?\""
+j "\"He actually just texted me that he's here. He was picking up Flynn.\""
+t "\"So we're all gonna be here! Just like old times.\""
+"TJ almost looks like that little kid lynx again, his ears twitching around with excitement."
+play sound "doorknock.mp3"
+stop music fadeout 2.0
+c "\"Ooh, there they are.\""
+hide Carl
+with moveoutright
+scene bg motelbeds
+with dissolve
+"I grip the bedspread and watch as Carl moves around the corner to open the door."
+"I hear it open, followed by the distinctive deep, brassy voice of Flynn."
+play music "comeover.ogg" fadein 3.0
+f "\"Hey, why are YOU getting the door, fatty?\""
+c "\"To get my sandwiches, dickface. I've got the munchies like a mother.\""
+c "\"Er...where are they?\""
+f "\"Leo has them...here he is.\""
+l "\"Hey, they all in there?\""
+"My heart skips a beat and my tail thumps the bed as I hear Leo's high baritone."
+"There's some bustling before they start coming around the corner, bringing me face-to-face with the rest of my childhood friends."
+show Flynn at center
+with dissolve
+"Flynn comes first, slinking in casually, his posture loose and relaxed, slouching."
+"Unlike Carl, though, his slouch makes him look like he just doesn't give a fuck, as opposed to just trying to make himself seem smaller."
+"He wasn't a shy guy, as evidenced by his open shirt."
+f "\"And who you callin' a dickface?\""
+"Flynn knocks Carl on the head, which made a loud thunking sound, but Carl just grins throughout."
+f "\"Hey Jenna, TJ, Chase.\""
+"He nods to each of us in turn, rubbing his knuckles."
+hide Flynn
+with moveoutleft
+show Leo at center
+with moveinright
+"Immediately following him, his arms wrapped around two big, brown, paper bags, is Leo."
+"He smiles over the tops of the bags, sweeping the room with his eyes along with his tall rectangular ears."
+"He pauses on Jenna, then TJ, before finding me."
+"His face immediately breaks into a full-on grin as he walks over to the bed I'm sitting on, setting down the bags."
+"As he comes to a stop in front of me I reach out my paw to slap his, like I did with Carl."
+"Instead, he grabs it to yank me up right into a tight bearhug, nearly squeezing the air out of me."
+l "\"Chase!\""
+l "\"Man, I missed you...\""
+"Just like Carl, it seems like Leo's gotten bigger, and stronger. He lifted me up without even trying."
+"The tension I've been feeling in my chest melts away like an ice cube on an Echo sidewalk."
+"Everything's fine."
+"All of that worry about how he was going to react was for nothing."
+"...The hug IS lasting kinda long, though."
+"I can feel everyone else looking at us."
+j "\"And just like that he forgets we exist.\""
+"Leo finally does pull back, then, smacking me on the shoulder before turning to greet Jenna and TJ."
+hide Leo with dissolve
+"I shakily sit back down, feeling a whole lot better now that the introductions are out of the way."
+scene bg motelcouch with dissolve
+show Flynn at left with dissolve
+f "\"Fuck, leave Carl in a room for five seconds and it smells like a goddamn skunk sauna. The weed is just oozin' out of your pores at this point.\""
+"Flynn theatrical plugs his nostrils as he pulls the window open a crack."
+show Carl at right with dissolve
+"Carl rolls his eyes, slouching further and jamming his paws in his pockets."
+c "\"Oh shut up. I think everyone here agrees that my smell is a lot better than your shedding.\""
+c "\"Nothing like leaving a big pile of lizard dust on the couch for the next person.\""
+c "\"And by the way, dude, that skunk comment was speciesist.\""
+f "\"And that lizard comment wasn't?\""
+"Flynn turns to me while at the same time fanning air in from the outside with a hand."
+f "\"What's worse, Chase; Carl's smell, or my...dustin' off?\""
+c "\"Ha! Dusting off? That's not a thing!\""
+c "\"Try saying 'white flakes that chip off of me with every step I take...except when I scratch my ass, then it's like a fucking blizzard of dead skin...and some of it might land in your mouth.'\""
+c "\"That's what you should call it!\""
+f "\"Hey, you furballs do it too...it's just less noticeable.\""
+f "\"Either way, it's hot in here!\""
+c "\"Aren't you cold-blooded?\""
+f "\"Someone turn down the goddamn thermostat!\""
+show TJ at center
+with dissolve
+t "\"Somebody turn down your language, haha!\""
+"TJ says it to him like a cheerful kindergarten teacher pep-talking a student into using his words."
+f "\"...\""
+t "\"...\""
+"They stare at each other for about five seconds, Flynn's expression like a stone, while TJ slowly loses his smile."
+t "\"Uh...\""
+f "\"Well Jesus butt-fucking Christ, I'll be sure to watch that.\""
+t "\"Flynn!\""
+"TJ actually looks pretty outraged, but Flynn just reaches out and yanks him into a choke-hold, the much shorter lynx easily dwarfed by the lizard."
+f "\"Ah, shut up ya priss, I'm just kiddin'!\""
+"TJ half-heartedly fights the hold."
+"I guess TJ thought he'd get some respect, now that we're all adults."
+t "\"Hey, ow!\""
+t "\"Y—you still said it!\""
+"Normally I might step in to help, but its been a while since I've seen Flynn and TJ go at it."
+"It's just too funny to stop."
+f "\"Look, no lightnin'! So much for your almighty go—OOF!\""
+"TJ jabs his elbow back into Flynn's stomach, doubling the lizard over for a second."
+t "\"Ha! See? God works in mysterious wa—OW!\""
+"Flynn reaches up and grabs at one of the tufts on TJ's ears and yanks, earning a yowl from the feline."
+c "\"Foul! Species features!\""
+"Species features was something we made up to make our tussels a little more fair."
+"It involved any distinct physical difference between our species that might pose as a disadvantage like my tail, Jenna's ears, or TJ's ear tufts."
+"Carl was especially keen on it. Being a ram his horns were often used as leverage against him."
+j "\"TJ! Come get your sandwich.\""
+"TJ finally yanks himself out of Flynn's grasp, smoothing down his fur as he tries to look as dignified as possible."
+t "\"Well, I can see things haven't changed...\""
+"With that, TJ walks over to the table to get his food."
+hide TJ with dissolve
+"I can't help but laugh."
+m "\"Hehe, I think TJ won that one by technicality.\""
+c "\"Or did he? He might have fouled, too.\""
+c "\"Flynn's got a soft lizard belly, haha.\""
+f "Flynn snorts, rubbing his stomach."
+f "\"Oh, don't even try to tell me about soft, asshole. It looks like you swallowed a beach ball.\""
+c "\"Speaking of which, food!\""
+stop music fadeout 3.0
+scene bg motelbeds with fade
+"We all pass the bags around to get our food: a chicken sandwich for Jenna and TJ, roast beef for me and Leo, and three large veggie burgers that almost take up their own bag for Carl."
+play music "neutral.ogg" fadein 3.0
+"Flynn, as usual, isn't eating anything. I think it's a lizard thing."
+"I keep my seat on the bed as I unwrap the foil around my sandwich. The smell wafts up from the beef, making my mouth water, and bringing some memories up with it."
+"We'd all spent many nights at the old diner. I can remember the night me and Carl graduated."
+"Leo took us all straight from Payton High to the diner, skipping out on the all-night graduation party for sandwiches and milkshakes."
+"I take a huge bite and a yellow bell pepper slips out the other end, landing back in the foil."
+l "\"Whoah! Slow down, you're going to choke.\""
+"Suddenly, I'm almost falling over to the side as something heavy plants itself next to me on the bed."
+show Leo at center with dissolve
+"I quickly grab a napkin and bring it to my muzzle, wiping away the grease."
+m "\"Ey, Leo...\""
+"Leo chuckles at my embarrassment and unwraps his own sandwich."
+l "\"Sorry if the bread is a little soggy. {i}Garrobo{/i} over here took his sweet time getting to the car.\""
+scene bg motelcouch
+show Flynn at left
+with dissolve
+f "\"Hey! Working in the town hall is serious business.\""
+f "\"I don't have a family business I can just waltz out of, like you.\""
+show Carl at right with dissolve
+c "\"Hey, Flynn. I'll bet you that I can eat this whole burger in one minute.\""
+f "\"...\""
+f "\"Is that a fucking joke? Of course you can.\""
+c "\"Hahahahaha! Yeah...But what about TWO burgers?\""
+scene bg motelbeds
+show Leo
+with dissolve
+l "\"Don't choke, Carl.\""
+"I decide to keep the conversation on Leo's job, since that's the whole reason why he's still here."
+m "\"Is business still pretty good?\""
+l "\"Yes! Payton's getting bigger, so is the number of customers.\""
+m "\"I guess it's a good thing your dad moved it out of Echo, huh?\""
+l "\"For sure. The place is turning into a ghost town.\""
+l "\"It probably will be in another decade or two.\""
+m "\"By some standards it already is.\""
+"I take another bite of my sandwich, biting right into another bell pepper."
+"I'd forgotten how good the diner food is."
+scene bg moteltable
+show Jenna at left
+show TJ at center
+with dissolve
+"I notice TJ sitting next to Jenna at the table, picking unhappily at his lettuce wrapped chicken."
+"Jenna seems to as well as she leans towards him."
+j "\"What's wrong, TJ?\""
+t "\"It's just...nevermind, it doesn't matter.\""
+j "\"Are you sure?\""
+t "\"It's just the mayo, I forget they put it on everything here, hehe.\""
+"Jenna lifts up the bun on her sandwich, inspecting its contents."
+j "\"Hmm, none of the mayo really got on my chicken. Here—\""
+t "\"No, you don't have—\""
+"Jenna picks up TJ's sandwich and swaps out his grilled chicken, ripping off the layer of mayo-tainted lettuce from his lettuce bun before swapping her chicken in.\""
+j "\"There! How's that?\""
+t "\"Th—thanks...\""
+"It's then that TJ looks up and sees Leo and I staring at him. I see his ears flatten in embarrassment."
+t "\"What!?\""
+l "\"Hehe, nothing TJ, nothing.\""
+scene bg motelbeds
+show Leo at center
+with dissolve
+m "\"So are your parents still letting you live in the house here in Echo?\""
+l "\"Yes, we actually tried to sell it last year, but of course no one bought. I think two people came to look, but took off once they saw the town.\""
+l "\"Anyway, my parents are living in Payton in a house twice as big as the old one.\""
+m "\"Well, it must be pretty cool living in your own house.\""
+l "\"My parents aren't constantly breathing down my neck so that's, you know, nice. \""
+"Leo's already finished his first sandwich, and now he's unwrapping the second."
+"He sure could eat a lot."
+m "\"How many people are still here, anyway? In the town, I mean.\""
+"Leo takes another bite and I hear the crunch of the peppers through his muzzle. He chews thoughtfully for a moment before swallowing.\""
+l "\"Hmm, not too sure.  Of course I know almost everyone here, but most don't actually live here anymore.\""
+l "\"Most everyone's turned their old house into a sort of vacation home, now.\""
+m "\"Really, why?\""
+"I can't imagine anyone coming here for a vacation..."
+"...unless your hobbies are meth or dying of heat stroke."
+l "\"Well, they've all got their old houses here, and it's cheap to build.\""
+l "\"And the town is actually trying to turn that old lake into a recreational thing.\""
+m "\"Lake Emma?\""
+l "\"Yeah. They're putting in docks and stuff.\""
+m "\"Huh...\""
+"Lake Emma is the old reservoir just a few minutes outside of town. As kids, we used to play around there all the time."
+"It was generally an ugly place; dead fish on the banks, a terrible smell, and mosquitoes everywhere."
+"Then again, it could have changed since then. I haven't been there in...twelve years now. None of us have."
+"Thinking about the lake is making my stomach tighten again, forcing away my appetite in the process."
+"It's been so long at this point, I need to learn to get over things..."
+"Actually, that reminds me."
+"The others are pretty deep in their own conversations, but I lower my voice anyway, leaning into Leo."
+m "\"Hey, Leo.\""
+l "\"Mmmh?\""
+"Leo turns to me. He had been in the middle of a massive bite and now he has a bell pepper half hanging out of his muzzle."
+"That throws off my train of thought for a second."
+m "\"Uuuh...oh yeah. So I wanted to get some shots of the lake for my project.\""
+"Leo ducks his head to pull out the pepper from his muzzle, only to shove it back in a second later."
+"He chews for a while, but his ears are still tipped towards me, so I go on."
+m "\"It's kind of important to Echo's history. Anyway, you told me that on Monday everyone's free during lunch.\""
+"I can tell by the set of Leo's ears that he knows where I'm going, and he's not too into the idea."
+"I quickly go on."
+m "\"Of course, we don't have to, but it's been a long time, and if the town is making it look better, it could be fun...\""
+l "\"Listen, Chase...\""
+"I feel my face burn a little under the fur."
+m "\"Sorry, it was a dumb idea...\""
+l "\"No no, Chase, if it were up to me, I'd definitely do it, it's just...\""
+"Leo looks towards Flynn, and I do as well, finding him still bantering with Carl."
+scene bg motelcouch
+show Flynn at left
+show Carl at right
+with dissolve
+f "\"It doesn't matter how fucking fast you eat, I'm not gonna be impressed.\""
+"He's got that classic Flynn look on his face where he's pressing his lips together, trying not to smile."
+c "\"What if I ate all THREE?\""
+f "\"You've already eaten most of the first one, so that's not gonna happen now, is it?"
+scene bg motelbeds
+show Leo at center
+with dissolve
+"I look back down at my sandwich."
+"I suddenly feel really guilty. Here I am, back after three years, just assuming that I know how everyone feels."
+"Now I'm kinda feeling like an impostor."
+"Leo notices, like he always did, and he nudges me with his shoulder."
+l "\"Hey, don't worry about it, it's not your fault.\""
+"Suddenly, Leo's ears perk up, and I know he's suddenly had an idea."
+"His ears made him easily readable, just as reading people came easily to him."
+"It made it all the more impressive that he was able to tell what most of us were thinking, considering my short stubby ears...or Flynn's lack thereof."
+l "\"Listen, there's a cool little spot by the river that's actually pretty close to the lake. We could have lunch and you could walk over and get your shots!\""
+"The idea makes me feel a bit better."
+m "\"Alright, that could be fun. Also, this motel doesn't have a pool, so it'll be really nice to swim in something.\""
+l "\"Heh, otters and their waters. Anyway, I'll have to ask Flynn, but I think he'll be okay with it.\""
+scene bg motelcouch
+show Flynn at left
+show Carl at right
+with dissolve
+f "\"What would REALLY impress me is if you didn't eat the rest.\""
+c "\"...\""
+c "\"You're a funny guy, Flynn.\""
+"Carl goes right back to shoving the next burger into his mouth as Flynn looks on in mild disgust."
+"He suddenly notices us watching him and he gives us an odd look, but that slowly morphs into a smirk as he focuses on Leo."
+f "\"You're lookin' pretty happy there, Leo. Not like you've been for the past three years.\""
+scene bg motelbeds
+show Leo at center
+with dissolve
+"I furrow my brow in confusion and look up at Leo. I see him shift and he's giving Flynn a look that I don't quite understand."
+l "\"Well of course I'm happy to see us all back together again.\""
+"I look from Leo to Flynn, and it's pretty easy to imagine a bolt of electricity between them."
+scene bg motelcouch
+show Flynn at left
+show Carl at right
+with dissolve
+f "\"You should have seen him, Chase. He'd go days without smiling.\""
+c "\"Agreed, Leo's been kind of a dick ever since you guys left.\""
+f "\"Isn't Jenna a counselor? Hey, you should have a session with Leo.\""
+scene bg moteltable
+show Jenna at left
+show TJ at center
+with dissolve
+j "\"Um, I'm still an undergrad. I'm not going into counseling, anyway.\""
+j "\"That would just make me sad.\""
+"TJ is busy trying to hold his sandwich together and eat it at the same time, not very successfully, but he looks up as well."
+t "\"Leo depressed? It's hard to imagine you NOT smiling. You seemed fine online.\""
+j "\"Has something been going on, Leo?\""
+scene bg motelbeds
+show Leo at center
+with dissolve
+"For the first time since he's arrived, Leo looks truly uncomfortable."
+"You didn't seem him like that very often."
+"Flynn, on the other hand, has his trying-not-to-smirk face on."
+l "\"Wh-...I-I...\""
+"Leo pauses, pinned down by everyone's eyes in the room, then he takes a frustrated breath."
+l "\"Can't people be sad sometimes? Yes, things have been more...have been harder, but I'm fine.\""
+l "\"I think it's pretty clear that FLYNN-\""
+"-Leo flicks his long muzzle at the lizard."
+l "\"Is just trying to get some reactions.\""
+scene bg motelcouch
+show Flynn at center
+with dissolve
+f "\"Suuure, I'm just sayin' you're back to your old self. But seriously, it's great...\""
+scene bg motelbeds
+show Leo at center
+with dissolve
+"Leo makes a snorting sound."
+"I'm about to ask Leo what's so stressful when he lifts his paw up again to take a bite of his almost-finished sandwich."
+stop music fadeout 2.0
+"I go quiet as I look at his paw."
+"A silver anchor, tied around his wrist with leather. The word otter is etched into the shank of the anchor, the name Chase is engraved into the stock."
+"Why was he still..."
+t "\"CHASE!\""
+"I jump as TJ's voice breaks through my trance, bouncing on the bed once I come down."
+"Leo looks at me as the bed wobbles, an eyebrow raised."
+scene bg moteltable
+show TJ at center
+with dissolve
+"TJ puts a paw to his muzzle."
+t "\"Oops! Sorry, you were just kinda staring off into space.\""
+m "\"Yeah, uh, just thinkin' about stuff. What's up?\""
+t "\"I just remembered you saying you wanted to get some shots of Echo during sunset.  It's getting pretty late.\""
+scene bg motelwindow
+with dissolve
+"I look out the window."
+"The sunlight is fading pretty fast. The sky around the mountain peaks is already turning pink."
+scene bg motelbeds
+show Leo at center
+with dissolve
+m "\"Yeah, right, I'll go do that.\""
+"I shove the rest of the sandwich into my muzzle before hopping off the bed nd grabbing my camera, trying to ignore the feeling of Leo's eyes on me."
+
+play music "comeover.ogg" fadein 3.0
+"I take my equipment and set it up next to the sidewalk outside."
+"The weather is actually pretty nice today, being in the low seventies."
+"I remember how uncomfortable the summers would get here, when the temperature would rarely dip below a hundred degrees."
+"Poor TJ could hardly stand it, being from up North. We always had to figure out ways to play without letting the lynx get overheated."
+"I look towards the setting sun. One thing I do miss about Echo are the sunsets. We just don't get the spectacular oranges and reds in the city."
+"Sighing, I pull out the camera, setting it up on the tripod. I get a few shots of the mostly empty roads, the rusting metal signs, and the cracked asphalt."
+m "\"What a dump.\""
+j "\"I'll say.\""
+"It's then that I hear footsteps and talking behind me. I pause my recording and turn around."
+show Leo at left
+show Jenna at right
+with dissolve
+l "\"How's the filming?\""  
+m "\"It's alright.\""
+m "\"Kinda ran out of sun, but it's okay; Echo looks like crap no matter what kind of light you shoot it in.\""
+j "\"Do you need us to keep quiet?\""
+m "\"Naw, I'm just shooting b-rolls. Was about to come back in.\""
+l "\"Let's stay out here a minute. Carl and Flynn are...getting a little loud.\""  
+l "\"Besides, I want to talk to you two!\""
+show Leo at center with moveinright
+"He wraps an arm around Jenna, and reaches out the other one to pull me in so that we're both flanking him."
+"I feel my shoulder press into the warm bulk of his side and chest."
+"He'd always been taller than me (my eyes barely came up to his chin) but now it seemed like he was almost twice as wide. He'd definitely put on more muscle since I last saw him."
+"While he was always pretty muscular, he'd been more on the lean side. Now his chest and biceps pulled his shirt tight."
+"It felt...nice, though, like something very sturdy wrapped in velvet. I suppose it was a mixture of adding on both muscle and fat."
+l "\"Look at us, the OG crew!\""
+"Leo's strong voice vibrates from his body into mine. The effect is tranquilizing, and I feel myself relax."
+j "\"Together again.\""
+m "\"The only thing I miss about this town.\""
+"Leo was referring to the fact that he, Jenna, and I were the original three in our group of six to become friends."
+"Later we would add TJ, then Carl, and finally Flynn and Sydney. Leo had really been the one to unite us all."
+j "\"I remember when you first got here everyone was afraid of you, haha!"
+l "\"I remember when I first got here. Bunch of {i}gringos{/i} who wouldn't even talk to each other."
+"We all went to the same schools in Payton and had had our different friends there, but when Leo moved in he thought it was strange that the kids in Echo didn't hang out together."  
+"As I entered middle school and high school I cycled through a ton of different friends, but the ones in Echo always stayed the same."
+l "\"Remember when we'd always have sleepovers at Chase's place?\""
+j "\"Of course, I'd kick your ass at Claws of Fury all the time.\""
+m "\"I remember. I used to think you guys were only friends with me for my video games.\""
+"There had been many nights where I had fallen asleep to the flickering of the old CRT Television set, watching the outlines of Jenna and Leo twist side to side as they played."
+"I would wake up hours later only to find them still playing."
+"It was weird; Jenna and Leo get along really well, but there is a bit of a competitive streak between the two."
+"Actually, it's one of the few things that gets Leo genuinely angry."
+"I think he even broke one of my controllers once..."
+l "\"How long has it been since we first met?\""
+j "\"Well, when did you move in?\""
+l "\"Uh, I think it was in 2000?\""
+m "\"So take 2015 and subtract 2000. What does that leave you with, Leo?\""
+"Leo looks sideways at me, and smirks. There's a flash of a white canine as it appears from under his lip for a moment."
+l "\"You think yourself a real hotshot now that you're in college, eh?\""
+"I smirk back, though I know my canines aren't as impressive."
+m "\"Pretty much, yeah.\""
+l "\"Well, you'll always be those little brats to me.\""
+"I feel Leo's wagging tail swat me in the butt."
+"I'm not really sure how I feel about that."
+l "\"Speaking of which, are you two getting along over there?\""
+"Jenna looks at me around Leo's broad chest."
+j "\"Yeah, sort of.\""
+m "\"Yeah, we haven't had many chances to hang out.\""
+#Leo surprised.
+l "\"Eh? Why not?\""
+j "\"Well, it's college. It's also a pretty large university.\""
+j "\"I don't even think we've ever seen each other in passing.\""
+m "\"Yeah, things are different. But Jenna, we should do something together soon, before you graduate.\""
+j "\"Definitely.\""
+"Leo still looks a little disappointed that me and Jenna aren't keeping up at the university, but I don't know why."
+"She had her friends, I had mine, and we did talk sometimes..."
+"Jenna nudges into Leo, causing us all to sway."
+j "\"And speaking of that, when are you going back to Mesa?\""
+"Mesa is the community college in Payton. Leo went there for a few semesters before taking a break..."
+"And by break, I mean he quit."
+l "\"We'll see, I'll have to talk to my parents.\""
+l "\"It's just...starting to get really busy.\""
+j "\"Why don't they hire more people?  You know, you would have graduated by now...you would have had your MASTERS by now.\""
+l "*Sigh*"
+l "\"It's about committing to the family business, not the help he needs.\""
+"Jenna rolls her eyes, blowing out some air and ruffling the tuft of fur on her head."
+j "\"Wolves and their families. You should try thinking and speaking for yourself sometime.\""
+j "\"If I hadn't done that I'd still be stuck in that crank house.\""
+"Jenna flicks her head vaguely in the direction of where she used to live."
+"Jenna is the only one, aside from Carl, who has family still living in Echo."
+"I wonder if she's going to visit them, even though I'm pretty sure I already know the answer to that."
+"I see Leo tighten his arm around her shoulder, but she goes on without missing a beat."
+j "\"And you can start with our otter, here.\""
+stop music fadeout 3.0
+"I look up, caught unawares."
+m "\"Huh, what?\""
+l "\"Jenna...\""
+j "\"I'm serious.\""
+"Jenna puts her paw up in Leo's face, cutting him off."
+j "\"I am NOT going to spend this entire week with you asking me when or how you should do it.  Let's rip off the band-aid now. Chase—\""
+l "\"Jenna.\""
+"There's a warning tone in Leo's voice as he pins back his ears and drops his arms from our shoulders."
+"I already know what's happening. It's been a long time coming...I take a step back and fold my arms, looking to the side."
+j "\"Chase, Leo has some things to say to you, and yes, it's about THAT. Now I'm going to head back in and make sure Carl didn't light up in the bathroom.\""
+l "\"Jenna!\""
+hide Jenna with dissolve
+show Leo at center with moveinright
+"His tone changes to exasperation as Jenna turns on her heel and leaves. Judging by the curl in her tail, I can tell that she's pretty satisfied with what she's just done."
+"I return my attention to the road; I couldn't really bring myself to look at him right now."
+"We both stand there for a minute, three feet apart. I hear Leo scuff the ground with his foot, then sniff as dust rises up from the ground."
+"I hear him draw in a breath a few times, as if he's going to say something, but ends up blowing it out with a sigh."
+"We were never good at this, probably why it ended up failing like it did." 
+m "\"Leo...\""
+l "\"I'm sorry, Chase.\""
+play music "intimate.ogg" fadein 10.0
+m "\"F—for what?\""
+l "\"Not talking to you about this when I should have. Talking to Jenna about it when I should have been talking to you...\""
+"He reaches out and sets a paw on my shoulder, the silver anchor on his wrist glinting just a bit in the fading light."
+"He's smiling at me, but I grit my teeth."
+m "\"Why are you still wearing that?\""
+l "\"I...\""
+"His eyes flick from the bracelet then back to my face, expression turning defensive."
+l "\"Why aren't you still wearing yours? Don't you remember what we said?\""
+"I sigh, looking at the scattering of clouds behind Leo's head. They're tinged a soft pink from the fading sun."
+"The sunset is almost the same color as Leo's fur..."
+m "\"Leo, we were teenagers...\""
+l "\"That's not an answer.\""
+"He cuts me off and I look back at him."
+l "\"I told you, they weren't...love bracelets.\""
+l "\"They weren't just about our relationship, they were about everything; our friends, family, memories-\""
+m "\"Echo.\""
+"I raise my voice above his, cutting him off this time."
+m "\"They were about Echo, Leo...\""
+"We stand there a while, and Leo's looking closely at me, expectantly, his ears tipped forward."
+"His eyes pierce me like amber shards. It was always hard to look him in the eye during our...arguments."
+scene apology
+with slow_dissolve
+m "\"What, do I have to say it?\""
+l "\"...\""
+m "\"Alright, fine...\""
+m "\"I fucking hate this place, everything about it. It's the most miserable goddamn place I've ever been.\""
+l "\"How many places have you even been?\""
+m "\"Enough to know that it's miserable. Most everyone here's old, obese, on welfare...half of them are probably on meth.\""
+"Leo pulls in a deep breath and blows it over my head. I can smell the bell peppers on his breath."
+l "\"No one likes it here, Chase.\""
+m "\"I mean, it was an anchor.\""
+"I'm half laughing."
+m "\"Just looking at it made me feel like I was still tied to this town. I didn't need it reminding me of all that awful stuff.\""
+m "\"I know it was supposed to symbolize our being each other's...rocks, or whatever, but it stands for a lot more than that.\""
+l "\"But a lot of good things happened here, too! No one should forget where they come from.\""
+m "\"Sometimes I wish I could.\""
+"At this point Leo's deflated a bit, going into a slouch, his ears lowered."
+l "\"Wait, you said 'was'. You didn't...you didn't get rid-\""
+m "\"No...no I still have it. It's just in a drawer in my dorm room.\""
+m "\"Honestly, If it was anything else, like one of those infinity bracelets we saw, I wouldn't have trouble wearing it...\""
+l "\"Well fuck, why didn't you say anything when we were buying them?\""
+m "\"I didn't know it was gonna be a problem!\""
+"Leo takes in a deep breath again before blowing it out, puffing out his cheeks this time."
+l "\"{i}Puchica{/i}, otter.\""
+"He puts a paw to his eyes and holds it there for a few seconds. It's a pose I'm pretty familiar with."
+"Even though I haven't seen it in a few years, I'm hit with a wave of memories, mostly of me frustrating, or embarassing Leo somehow."
+"We'd decided on the anchors mostly because they looked pretty."
+"Leo had referenced some wolf metaphor about roots and how we're always drawn back to them, and also some bullshit about how otters were great sailors, but really, it was just the aesthetic."
+"For some reason over the years I'd begun to associate the anchor with being stuck in Echo. It was when I started connecting the anchor to Sydney that I'd taken it off."
+"It was too much."
+l "\"{i}Anyway{/i}—\""
+"Leo brings me back to the present, and I focus back on him."
+l "\"What I was trying to say was that I'm still not okay with how you left.\""
+m "\"Leo, I said I was sorry, and I still am—\""
+l "\"Or how you stopped talking to me for a while.\""
+m "\"I—okay, I was a {i}kid{/i}.\""
+m "\"I thought I had a good tactic. Like Jenna said; rip off the band-aid, you know? We did start talking again...\""
+l "\"It was more like you punching me in the gut, then kicking me in the balls.\""
+l "\"The problem was that you didn't even give me a chance to say anything, or at least tell me why before you broke it off...\""
+"I stay silent for a while, then finally look up, setting my jaw."
+m "\"Like I said, I was young and dumb, I didn't know how to handle it.\""
+m "\"I can keep apologizing, or...we can move on and make the most of this.\""
+m "\"We only have one week, and I wanna have fun.\""
+scene bg parkingloteve
+show Leo at center
+with slow_dissolve
+"Leo looks to the side, paws on hips, as if contemplating, then looks back at me with a smile."
+l "\"Alright, fine...but don't think you're off the hook! I still want to talk soon.\""
+m"\"Soon, just not right now.\""
+"I stand there awkwardly for a few moments, then, because it feels appropriate, I step in to give him a hug."
+"He takes it willingly and he's warm and strong. For a moment I wonder why the hell I dumped this guy."
+stop music
+play sound "horn.wav"
+queue sound "driveby.mp3"
+"Just then, someone lays on the horn as they drive past us, pulling me out of my reverie."
+"???" "\"FAAAAAAAGS!!!\""
+"I lean back so I can watch the car speed down the empty road. Leo keeps holding me, though, and he just chuckles."
+l "\"Hehe, Echo hasn't changed much, has it?\""
+m "\"No, it hasn't.\""
+
+label endofday:
+scene bg motelcouch
+with fade
+"As I come back into the room, I'm happy to see everyone in a seemingly friendly conversation."
+play music "banter.ogg" fadein 3.0
+show Carl at center with dissolve
+c "\"TJ, I can't believe you're siding with him...{i}End Game{/i} was the WORST Lion's Brigade movie!\""
+scene bg moteltable
+show Flynn at center
+with dissolve
+f "\"You're just mad 'cuz they didn't follow the comics.\""
+scene bg motelcouch
+show Carl at center
+with dissolve
+show TJ at left
+with dissolve
+t "\"Yeah, Carl, as a movie it was just better...I'm sure the comics are great too, though, hehe.\""
+scene bg moteltable
+show Flynn at center
+with dissolve
+f "\"Naw, the comics are shit. Carl tried showin' 'em to me once.\""
+scene bg motelcouch
+show Carl at center
+show TJ at left
+with dissolve
+c "\"Bwah!!??\""
+c "\"See?  This is the problem.  They never follow the source material and no one cares because they have no respect for the originals, man.\""
+scene bg motelbeds
+show Leo at center
+with dissolve
+l "\"You're waaay too picky, Carl. {i}End Game{/i} was a great movie!\""
+c "\"Not you too, Leo!\""
+scene bg motelcouch
+show TJ at left
+show Carl at center
+with dissolve
+t "\"I don't know, I think Lion's Brigade was always a bit too violent for me, what with all the shooting and punching.\""
+t "\"I've always liked the Trinity Weasel.  She's the thinking man's superheroine.\""
+"The other three apparently haven't noticed our little squabble and continue talking."
+"Carl waves his paw dismissively."
+c "\"The Trinity comics have always been pretty lame.\""
+c "\"They're jerk-off fodder for lonely nerds...and so's the movie.\""
+l "\"Ha! You mean like yourself?\""
+c "\"Hey...\""
+show Flynn at right
+with dissolve
+f "\"Hold up, we're talking about Trinity now?\""
+f "\"Julia Blasco...She's hella fine!\""
+f "\"Never seen an ass like hers on a weasel before.\""
+scene bg motelbeds
+show Leo at center
+show Jenna at left
+with dissolve
+j "\"That's because it's fake.\""
+scene bg motelcouch
+show TJ at left
+show Carl at center
+show Flynn at right
+with dissolve
+t "\"N—no, I just like the story.\""
+t "\"It's really kind of deep, if you think about it.\""
+f "\"It was hard to think about when half the shots are slo-mo and she's doing all these flips and backbends and shit.\""
+scene bg motelbeds
+show Leo at center
+show Jenna at left
+with dissolve
+j "\"Come on, Trinity DOES have more story going on than your average superhero movie.\""
+"Looks like Jenna's coming to TJ's defense."
+j "\"I think it's great that you like her character over all the meat-heads.\""
+l "\"Yeah, they just stuck in all the boob shots to reel in the dummies like you, Flynn.\""
+scene bg motelcouch
+show TJ at left
+show Carl at center
+show Flynn at right
+with dissolve
+f "\"Of course that's easy for someone like {i}you{/i} to say. Besides, I see what's going on here.\""
+f "\"Maybe you should watch {i}Luche Lobo{/i}, TJ. He's shirtless the whole time.\""
+"TJ's ears go flat, tufts pointed at the ground."
+f "\"I'd better stop it with all this saucy talk. The only way this could get any more awkward is if ya got sprung!\""
+"We all groan in unison, but TJ shoots right back:"
+t "\"And knowing you, that's {i}exactly{/i} what you want to happen, isn't it, Flynn?\""
+"That gets a few surprised chuckles."
+c "\"Daaaamn TJ, where'd that come from?\""
+"It isn't that it is a particularly good joke. It's that it came from TJ that makes it so funny."
+"I don't think I've ever heard him talk like that."
+"Even Flynn can't keep from grinning a little bit."
+scene bg motelbeds
+show Leo at center
+with dissolve
+l "\"Alright, alright.\""
+"Leo steps forward, indicating that we should all shut up."
+l "\"Now, we all need to remember that Chase is here to do his school project, so that comes first.\""
+l "\"But! I did make a few other plans for things that we can do on his off time.\""
+l "\"I'm pretty sure all of us know that we're going to Southwest Adventures tomorrow, so I'll pick these two up—\""
+"He jerks his head towards Flynn and Carl."
+l "\"—then swing by the motel to get you guys at 9, alright?\""
+j "\"Sounds good.\""
+l "\"Then I was thinking about doing some stuff in Payton towards the end of the week, but we'll make those plans later.\""
+l "\"In between those times we should find time to hang out as well, make the most of this.\""
+"Leo looks about done, but suddenly snaps his fingers, as if remembering something."
+l "\"Oh yeah! Chase, I saw you had a camera.\""
+l "\"Think you could get a pic of us? It would be nice for all of us to have something that isn't camera phone quality.\""
+m "\"Oh, sure. I was messing with the self-timer earlier.\""
+m "\"Should be able to get it to work.\""
+scene bg motelfull
+with fade
+"After a few minutes of me adjusting the tripod, and Leo adjusting everyone at the end of one of the beds, we manage to get into position."
+m "\"Aaaalright, here goes...\""
+"I set the timer and fast-walk to the spot Leo saved for me."
+play sound "camera.mp3"
+m "\"I think that was a good one!\""
+stop music fadeout 3.0
+"For the next two hours we watch a movie on TV, not really paying attention, mostly catching up with each other on how we'd been."
+"It's good to be back and it feels like we're all just picking up where we left off three years ago."
+"It's really nice."
+"Finally, at about 10, Leo, Carl, and Flynn head out."
+"I spend the next twenty minutes tinkering with the equipment, making sure it's all in order for shooting the next day."
+"Once TJ finishes getting ready for bed in the bathroom, I do as well before getting into bed, head-to-toe with TJ."
+"There's a soft glow from the corner as Jenna sits at the table reading something."
+"I lay in bed, staring at the ceiling, waiting for her to go to sleep..."
+scene bg creepylake
+with opening_fade
+play music "meeting1.mp3" fadein 10.0
+"There's a chain attached to my ankle as I walk away from the lake, my legs and feet caked in mud."
+"I look back, seeing the chain snaking back around the rocks and reeds before disappearing into the water."
+"Looking ahead again, I see Leo. He's smiling, waving at me."
+"I walk towards him and the chain stays slack, pulling easily out of the water."
+"\"There's an anchor in the lake,\" I say."
+"I stare at him, but he doesn't say anything and just keeps on smiling."
+"I crouch on the rocks, wrapping the chain around my wrist a few times."
+"Leo kneels next to me, rubbing my back and sticking out his arm to compare our \"bracelets\", saying that everyone gets one."
+"He seems happy, but now I'm stuck here. I can't even stand up to walk."
+stop music fadeout 3.0
+scene bg sunday
+with transition_fade
+$ renpy.pause(3.0, hard=True)
+jump wideshot

@@ -1,0 +1,178 @@
+<html>
+<head>
+<title>README</title>
+<style>
+BODY {
+	background: #fff;
+	color: #444;
+	padding-left: 20%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-right: 20%;
+	font-family: sans-serif;
+	line-height: 1.6em;
+}
+
+DT {
+	font-weight: bold;
+	margin-top: .33em;
+}
+
+H2 {
+	color: #000;
+	margin-left: -2.5em;
+}
+
+H3 {
+	color: #000;
+	margin-left: -1.5em;
+}
+
+.editsection {
+	display: none;
+}
+</style>
+</head>
+<body>
+
+  <h2>Ajuda Básica</h2>
+  <p>
+    Para avançar no jogo, clique com o <tt>botão esquerdo do mouse</tt> ou pressione <tt>Espaço</tt> ou <tt>Enter</tt>. Quando estiver em um menu,
+    clique com o <tt>botão esquerdo do mouse</tt> para fazer uma escolha, ou use as setas do teclado para selecionar uma escolha e pressione <tt>Enter</tt> para ativá-la..
+  </p>
+
+  <h3>Menu do Jogo</h3>
+  <p>
+    Enquanto estiver jogando, clique com o <tt>botão esquerdo do mouse</tt> ou pressione <tt>ESC</tt> para acessar o menu do jogo. O menu do jogo
+    apresenta as seguintes opções:
+  </p>
+
+  <dl>
+    <dt>Voltar</dt>
+    <dd>Volta ao jogo.</dd>
+    <dt>Salvar</dt>
+    <dd>Permite que você salve o jogo clicando em um arquivo de salvamento.</dd>
+    <dt>Carregar</dt>
+    <dd>Permite que você carregue um jogo salvo clicando no arquivo de salvamento. Clicar em "Auto" acessa os arquivos de salvamento automático.</dd>
+    <dt>Opções</dt>
+    <dd>
+      Acessa o menu para alterar as opções do jogo:
+      <dl>
+        <dt>Modo de Tela</dt>
+        <dd>Alterna entre Tela Cheia e Janela.</dd>
+        <dt>Transições</dt>
+        <dd>Controla a exibição de transições de cenas no jogo.</dd>
+        <dt>Velocidade do Texto (Vel. do Texto)</dt>
+        <dd>Controla a velocidade de exibição do texto. Quanto mais à direita estiver, mais rápido o texto
+          será exibido. Se estiver totalmente à direita, o texto será exibido instantaneamente.</dd>
+        <dt>Controle</dt>
+        <dd>Permite que você jogue usando um controle.</dd>
+        <dt>Pular</dt>
+        <dd>Escolha entre pular diálogos que já foram vistas (em qualquer momento jogado), e
+          pular todos os diálogos.</dd>
+        <dt>Começar a Pular</dt>
+        <dd>Volta ao jogo, enquanto pula.</dd>
+        <dt>Após Escolha</dt>
+        <dd>Controla se pular é interrompido ao chegar em um menu.</dd>
+        <dt>Duração do Avance-Auto</dt>
+        <dd>Controla o avanço automático. Quanto mais à esquerda estiver, menor será o tempo
+          antes do jogo avançar. Se estiver totalmente à direita, significa que o texto nunca avançará automaticamente.</dd>
+        <dt>Volume da Música, do Som e da Voz</dt>
+        <dd>Controla o volume da Música, do Efeito Sonoro e da Voz, respectivamente. Quanto mais
+          à direita eles estiverem, mais alto será o volume.</dd>
+      </dl>
+    </dd>
+    <dt>Título</dt>
+    <dd>Volta ao menu principal, encerrando o jogo atual.</dd>
+    <dt>Ajuda</dt>
+    <dd>Mostra essa tela de ajuda.</dd>
+    <dt>Sair</dt>
+    <dd>Sai do jogo; o jogo será fechado e encerrado.</dd>
+  </dl>
+
+  <h3>Vinculação de Teclado e Mouse</h3>
+  <dl>
+    <dt>Botão esquerdo do mouse, Enter</dt>
+    <dd>Avança no jogo, ativa escolhas, botões e configurações em menus.</dd>
+    <dt>Espaço</dt>
+    <dd>Avança no jogo, mas não ativa escolhas.</dd>
+    <dt>Setas do Teclado</dt>
+    <dd>Navega entre as escolhas, botões e configurações.</dd>
+    <dt>Ctrl</dt>
+    <dd>Pula os diálogos enquanto a tecla Ctrl estiver pressionada.</dd>
+    <dt>Tab</dt>
+    <dd>Pula os diálogos, e continua pulando até a tecla Tab seja pressionada novamente.</dd>
+    <dt>Scroll do Mouse Para Cima, PageUp</dt>
+    <dd>Faz com que os diálogos e eventos vistos voltem, mostrando o diálogo anterior e até mesmo permitindo
+      que as escolhas sejam alteradas.</dd>
+    <dt>Scroll do Mouse Para Baixo, PageDown</dt>
+    <dd>Faz com que os diálogos e eventos vistos que foram voltados avancem.</dd>
+    <dt>Botão direito do mouse, Esc</dt>
+    <dd>Abre o menu do jogo. Quando estiver no menu do jogo, volta ao jogo.</dd>
+    <dt>Botão do meio do mouse, H</dt>
+    <dd>Oculta a janela de texto e outras exibições transitórias.</dd>
+    <dt>F</dt>
+    <dd>Ativa o modo Tela Cheia</dd>
+    <dt>S</dt>
+    <dd>Tira uma print, salvando-a em um arquivo chamado screenshotxxxx.png, sendo xxxx um número de série.</dd>
+    <dt>Alt-M, Command-H</dt>
+    <dd>Esconde a janela do jogo.</dd>
+    <dt>Alt-F4, Command-Q</dt>
+    <dd>Sai do jogo.</dd>
+    <dt>Delete</dt>
+    <dd>Quando um arquivo de salvamento estiver selecionado, exclui esse arquivo de salvamento.</dd>
+    <dt>V</dt>
+    <dd>
+      Habilita a Narração Assistente, que lê o texto para o usuário usando um sintetizador de voz fornecido pelo sistema operacional. Para obter
+      mais informações, leia a documentação sobre a
+      <a href="http://www.renpy.org/doc/html/self_voicing.html">Narração Assistente</a>.
+    </dd>
+    <dt>Shift+C</dt>
+    <dd>Habilita a Narração de Área de Transferência, que copia o texto para a área de transferência para que possa ser lido por um leitor de tela.</dd>
+  </dl>
+
+  <h3>Suporte a Controles e Vinculações</h3>
+
+  <p>
+    Esse jogo deve detectar e usar automaticamente os controles compatíveis com o
+    SDL2. Outros controles podem ser configurados usando ferramentas de configuração de terceiros
+    como o <a href="http://www.generalarcade.com/gamepadtool/">SDL2 Gampad Tool</a>
+  </p>
+
+  <p>
+    Alguns sistemas podem ter problemas para usar os controles detectados. Se
+    isso acontecer, mantenha pressionada a tecla Shift quando o jogo for iniciado e desative o suporte a controle.
+  </p>
+
+  <p>As seguintes vinculações são usadas:</p>
+
+  <dl>
+    <dt>Gatilho Direito, A (Botão Inferior)</dt>
+    <dd>Avança no jogo, ativa escolhas, botões e configurações em menus.</dd>
+
+    <dt>Painel (Guide), HOME, Start</dt>
+    <dd>Abre o menu do jogo. Quando estiver no menu do jogo, volta ao jogo.</dd>
+
+    <dt>Botão Direcional (D-Pad), Direcional Analógico </dt>
+    <dd>Navega entre as escolhas, botões e configurações.</dd>
+
+    <dt>Gatilho Esquerdo, Botão Superior Esquerdo, Voltar (Back), Select</dt>
+    <dd>Faz com que os diálogos e eventos vistos voltem, mostrando o diálogo anterior e até mesmo permitindo
+      que as escolhas sejam alteradas.</dd>
+
+    <dt>Botão Superior Direito</dt>
+    <dd>Faz com que os diálogos e eventos vistos que foram voltados avancem.</dd>
+
+    <dt>Y (Botão Superior)</dt>
+    <dd>Oculta a janela de texto e outras exibições transitórias.</dd>
+
+  </dl>
+
+  <h2>Aviso Legal</h2>
+  <p>
+    Este programa contém software gratuito licenciado sob várias licenças, incluindo a Licença Pública Geral Menor GNU. Uma
+    lista completa de softwares está disponível em <a href="http://www.renpy.org/doc/html/license.html">http://www.renpy.org/doc/html/license.html</a>.
+  </p>
+
+</body>
+</html>

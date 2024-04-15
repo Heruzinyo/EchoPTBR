@@ -1,0 +1,7 @@
+label findtj
+stop music 5.0
+play background "river.ogg" fadein 5.0
+"I'm really worried about TJ."
+"He's a sensitive guy and, after a tongue-lashing like that from someone like Flynn...I couldn't imagine what state he'd be in."
+
+return
