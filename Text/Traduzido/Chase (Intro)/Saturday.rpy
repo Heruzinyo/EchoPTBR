@@ -560,31 +560,31 @@ with dissolve
 f "— O que REALMENTE me impressionaria é se tu não comesse o resto."
 c "— ..."
 c "— Cê é um comédia, Flynn."
-"Carl goes right back to shoving the next burger into his mouth as Flynn looks on in mild disgust."
-"He suddenly notices us watching him and he gives us an odd look, but that slowly morphs into a smirk as he focuses on Leo."
-f "\"You're lookin' pretty happy there, Leo. Not like you've been for the past three years.\""
+"Carl volta a enfiar o próximo hambúrguer na boca enquanto Flynn olha para ele com um leve desgosto."
+"Ele de repente percebe que estamos o observando e nos olha de forma estranha, mas isso lentamente se transforma em um sorriso quando ele foca no Leo." # smirk (sorriso) = ?
+f "— Parece que tu tá bem feliz, Leo. Diferente de como você tem sido nos últimos três anos."
 scene bg motelbeds
 show Leo at center
 with dissolve
-"I furrow my brow in confusion and look up at Leo. I see him shift and he's giving Flynn a look that I don't quite understand."
-l "\"Well of course I'm happy to see us all back together again.\""
-"I look from Leo to Flynn, and it's pretty easy to imagine a bolt of electricity between them."
+"Fico confuso e franzo a testa olhando para o Leo. Vejo sua expressão mudando e olhando para o Flynn de uma forma que não entendo muito bem."
+l "— Bem é claro que eu tô feliz por ver todos nós juntos de novo."
+"Olho do Leo para o Flynn, e é muito fácil imaginar um raio de eletricidade entre eles."
 scene bg motelcouch
 show Flynn at left
 show Carl at right
 with dissolve
-f "\"You should have seen him, Chase. He'd go days without smiling.\""
-c "\"Agreed, Leo's been kind of a dick ever since you guys left.\""
-f "\"Isn't Jenna a counselor? Hey, you should have a session with Leo.\""
+f "— Tu deveria ter visto ele, Chase. Ele passava dias sem sorrir."
+c "— Aham, o Leo tem sido meio chato desde que vocês foram."
+f "— A Jenna não é uma conselheira? Ei, cê deveria ter uma sessão com o Leo."
 scene bg moteltable
 show Jenna at left
 show TJ Neutral at center
 with dissolve
-j "\"Um, I'm still an undergrad. I'm not going into counseling, anyway.\""
-j "\"That would just make me sad.\""
-"TJ is busy trying to hold his sandwich together and eat it at the same time, not very successfully, but he looks up as well."
-t "\"Leo depressed? It's hard to imagine you NOT smiling. You seemed fine online.\""
-j "\"Has something been going on, Leo?\""
+j "— Uhm, eu ainda tô me formando. E eu não vou trabalhar com terapia."
+j "— Isso só me deixaria triste."
+"O TJ está ocupado tentando segurar seu sanduíche e comê-lo ao mesmo tempo, sem muito sucesso, mas ele também olha para cima." # olha para cima tá correto mas fica estranho
+t "— Leo com depressão? É difícil imaginar você NÃO sorrindo. Parecia estar tudo bem com você na internet."
+j "— Há algo de errado acontecendo, Leo?"
 scene bg motelbeds
 show Leo Rejected at center
 with dissolve
