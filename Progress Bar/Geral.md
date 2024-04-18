@@ -1,6 +1,8 @@
-|    **Rota**   |  **Tradução**  |                                                      |  **Revisão** |                                                     |
+|   **Pasta**   |  **Tradução**  |                                                      |  **Revisão** |                                                     |
 |:-------------:|:--------------:|:----------------------------------------------------:|:------------:|:---------------------------------------------------:|
-| Chase (Intro) | 587/2145 (27%) | ![Progress](https://progress-bar.dev/27/?&width=150) |  0/2145 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    Gráficos   |  86/111 (77%)  | ![Progress](https://progress-bar.dev/77/?&width=150) |  0/111 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    **Rota**   |  **Tradução**  |                                                      |  **Revisão** |                                                     |
+| Chase (Intro) | 886/2145 (41%) | ![Progress](https://progress-bar.dev/41/?&width=150) |  0/2145 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |       TJ      |   0/6782 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150) |  0/6782 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Carl     |   0/9642 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150) |  0/9642 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Leo      |  0/10498 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150) | 0/10498 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |

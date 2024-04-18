@@ -386,7 +386,7 @@ f "— ..."
 t "— ..."
 "Eles se encaram por cerca de cinco segundos, a expressão do Flynn como uma pedra, enquanto TJ perde lentamente o sorriso."
 show TJ Sheepish with dis
-t "— Uhm..."
+t "— Hum..."
 f "— Bem, o caralhão de Jesus Cristo, podexá que eu vou diminuir ele." # "Jesus butt-fucking Christ" traduzir melhor
 t "— Flynn!"
 show Flynn Happy
@@ -504,7 +504,7 @@ l "— Bem, todos eles têm suas casas antigas aqui, e é barato construir."
 l "— E a cidade tá tentando transformar aquele antigo lago em um local pra turismo."
 m "— O Lago Emma?"
 l "— É. Eles tão instalando docas e tals."
-m "— Uhm..."
+m "— Hum..."
 "O Lago Emma é a antiga represa que fica a poucos minutos da cidade. Quando éramos crianças, brincávamos lá o tempo todo."
 "Geralmente era um lugar feio: peixes mortos nas margens, um cheiro horrível e mosquitos por toda parte."
 "Contudo, pode ter mudado desde então. Eu não vou lá há... doze anos agora. Nenhum de nós foi."
@@ -580,7 +580,7 @@ scene bg moteltable
 show Jenna at left
 show TJ Neutral at center
 with dissolve
-j "— Uhm, eu ainda tô me formando. E eu não vou trabalhar com terapia."
+j "— Hum, eu ainda tô me formando. E eu não vou trabalhar com terapia."
 j "— Isso só me deixaria triste."
 "O TJ está ocupado tentando segurar seu sanduíche e comê-lo ao mesmo tempo, sem muito sucesso, mas ele também olha para cima." # olha para cima tá correto mas fica estranho
 t "— Leo com depressão? É difícil imaginar você NÃO sorrindo. Parecia estar tudo bem com você na internet."
@@ -588,157 +588,157 @@ j "— Há algo de errado acontecendo, Leo?"
 scene bg motelbeds
 show Leo Rejected at center
 with dissolve
-"For the first time since he's arrived, Leo looks truly uncomfortable."
-"You don't see him like that very often."
-"Flynn, on the other hand, has his trying-not-to-smirk face on."
+"Pela primeira vez desde que ele chegou, o Leo parece realmente desconfortável."
+"Você não o vê assim com frequência."
+"Flynn, por outro lado, está com sua cara \"tentando-não-sorrir\"."
 show Leo Embarassed with dis
-l "\"Wh-I-I...\""
-"Leo pauses, pinned down by everyone's eyes in the room, then he takes a frustrated breath."
-l "\"Can't people be sad sometimes? Yes, things have been more...have been harder, but I'm fine.\""
-l "\"I think it's pretty clear that FLYNN-\""
-"Leo flicks his long muzzle at the lizard."
-l "\"-Is just trying to get some reactions.\""
+l "— Que-E-Eu..."
+"Leo hesita, pressionado pelos olhares de todos na sala, e então ele suspira frustrado."
+l "— As pessoas não podem ficar tristes às vezes? Sim, as coisas têm sido mais... têm sido mais difíceis, mas tô bem."
+l "— Eu acho que tá bem claro que o FLYNN —"
+"Leo aponta seu longo focinho ao lagarto."
+l "—, só tá tentando causar confusão."
 scene bg motelcouch
 show Flynn Teasing1 at center
 with dissolve
-f "\"Suuure, I'm just sayin' you're back to your old self. But seriously, it's great...\""
+f "— Claaaro, só tô falando que você voltou a ser como era. Mas sério, é ótimo..."
 scene bg motelbeds
 show Leo Neutral at center
 with dissolve
-"Leo makes a snorting sound."
-"I'm about to ask Leo what's so stressful when he lifts his paw up again to take a bite of his almost-finished sandwich."
+"Leo faz um som de rosnado." # snort = rosnado?
+"Estou prestes a perguntar ao Leo o que está o estressando quando ele levanta sua pata novamente para dar uma mordida no seu sanduíche quase acabado."
 stop music fadeout 2.0
-"I go quiet as I look at his paw."
-"A silver anchor, tied around his wrist with leather. The word otter is etched into the shank of the anchor, the name Chase is engraved into the stock."
-"Why was he still..."
-t "\"CHASE!\""
-"I jump as TJ's voice breaks through my trance, bouncing on the bed once I come down."
-"Leo looks at me as the bed wobbles, an eyebrow raised."
+"Eu fico quieto enquanto olho para sua pata."
+"Uma âncora de prata, amarrada em seu pulso com couro. A palavra lontra está gravada na haste da âncora, e o nome Chase está gravado na chaveta."
+"Por que ele ainda..."
+t "— CHASE!"
+"Eu pulo quando a voz do TJ quebra meu transe, quicando na cama quando eu desço."
+"Leo olha para mim enquanto a cama balança, com uma sobrancelha levantada."
 scene bg moteltable
 show TJ at center
 with dissolve
-"TJ puts a paw to his muzzle."
-t "\"Oops! Sorry, you were just kinda staring off into space.\""
-m "\"Yeah, uh, just thinkin' about stuff. What's up?\""
-t "\"We were just talking about {i}The Last Game{/i}. Didn't you tell me that you saw that movie on the drive here?.\""
+"TJ coloca uma pata no focinho."
+t "— Oopa! Desculpa, você meio que tava olhando pro espaço."
+m "— É, hum, só pensando em algumas coisas. O que foi?"
+t "— Estávamos conversando sobre {i}The Last Game{/i}. Você não me disse que viu esse filme no caminho pra cá?."
 stop music fadeout 3.0
 scene bg motelcouch
 show Carl Annoyed at center
 with fade
 play music "banter.ogg" fadein 3.0
-c "\"I really don't get you right now, TJ...{i}The Last Game{/i} was the WORST Lion's Brigade movie!\""
+c "— Eu realmente não te entendendo agora, TJ... {i}The Last Game{/i} foi o PIOR filme da Lion's Brigade!"
 scene bg moteltable
 show Flynn at center
 with dissolve
-f "\"You're just mad 'cuz they didn't follow the comics.\""
+f "— Tu só tá bravo porque eles não seguiram os quadrinhos."
 scene bg motelcouch
 show Carl Neutral at center
 show TJ at farleft
 with dissolve
-t "\"Yeah, Carl, as a movie it was just better...I'm sure the comics are great too, though, hehe.\""
+t "— É, Carl, como um filme foi melhor... Mas eu tenho certeza de que os quadrinhos também são ótimos, hehe."
 scene bg moteltable
 show Flynn at center
 with dissolve
-f "\"Naw, the comics are shit. Carl tried showin' 'em to me once.\""
+f "— Nah, os quadrinhos são uma merda. O Carl tentou me mostrar uma vez."
 scene bg motelcouch
 show Carl Annoyed at center
 show TJ at farleft
 with dissolve
-c "\"Bwah!!??\""
-c "\"See?  This is the problem.  They never follow the source material and no one cares because they have no respect for the originals, man.\""
+c "— Bwah!!??"
+c "— Viu? Esse é o problema. Eles nunca seguem a obra original e ninguém se importa porque eles não têm respeito pelos originais, cara."
 scene bg motelbeds
 show Leo at center
 with dissolve
-l "\"You're waaay too picky, Carl. {i}The Last Game{/i} was a great movie!\""
-c "\"Not you too, Leo!\""
+l "— Você é muuuito exigente, Carl. {i}The Last Game{/i} foi um ótimo filme!"
+c "— Você também não, Leo!"
 scene bg motelcouch
 show Carl Annoyed at center
 show TJ at farleft
 with dissolve
-t "\"I don't know, I think Lion's Brigade was always a bit too violent for me, what with all the shooting and punching.\""
-t "\"I've always liked the Trinity Weasel.  She's the thinking man's superheroine.\""
-"Carl waves his paw dismissively."
-c "\"The Trinity comics have always been pretty lame. They're jerk-off fodder for lonely nerds...and so's the movie.\""
-l "\"Ha! You mean like yourself?\""
+t "— Não sei, acho que a Lion's Brigade sempre foi um pouco violento demais pra mim, com todos os tiros e socos."
+t "— Eu sempre gostei da Trinity Weasel. Ela é a super-heroína ideal." # thinking man's superheroine?
+"Carl agita a pata com desprezo." # waves = agita?
+c "— Os quadrinhos da Trinity sempre foram horríveis. Eles são feitos pra saciar a vontade de nerdolas punheteiros... e o filme também."
+l "— Ha! Tá falando de você mesmo?"
 show Carl Rejected with dis
-c "\"Hey...\""
+c "— Ei..."
 scene bg moteltable
 show Flynn Teasing1 at right
 with dissolve
-f "\"Hold up, we're talking about Trinity now? Julia Blasco...She's hella fine!\""
-f "\"Never seen an ass like hers on a weasel before.\""
+f "— Calma aí, tamo falando da Trinity agora? Julia Blasco... Ela é fantástica!"
+f "— Nunca vi uma doninha com uma bunda daquelas antes."
 scene bg motelbeds
 show Leo at center
 show Jenna at farleft
 with dissolve
-j "\"That's because it's fake.\""
+j "— Deve ser porque é falsa."
 scene bg motelcouch
 show Carl Neutral at center
 show Flynn at farright
 show TJ at farleft
 with dissolve
-t "\"N—no, I just like the story.\""
-t "\"It's really kind of deep, if you think about it.\""
-f "\"It was hard to think about when half the shots are slo-mo and she's doing all these flips and backbends and shit.\""
+t "— N-não, eu só gosto da história."
+t "— É realmente meio profundo, se você pensar bem."
+f "— Era difícil pensar nisso quando metade das cenas eram em câmera lenta e ela tava dando saltos pra lá e pra cá."
 scene bg motelbeds
 show Leo at center
 show Jenna at farleft
 with dissolve
-j "\"Hmm? I didn't think that was your sort of thing anyway, Flynn?\""
-"Flynn doesn't have time to retort before Jenna shifts her attention, seemingly coming to TJ's defense."
-j "\"Come on, Trinity DOES have more story going on than your average superhero movie.\""
-j "\"I think it's great that you like her character over all the meat-heads.\""
-l "\"Yeah, they just stuck in all the boob shots to reel in the dummies.\""
+j "— Hmm? Eu não achava que você gostasse disso afinal, Flynn?"
+"Flynn não tem tempo de retrucar antes de Jenna desviar sua atenção, parecendo vir em defesa do TJ."
+j "— Pela mor, a Trinity TEM mais história do que um filme de super-herói comum."
+j "— Eu acho incrível que você gosta da personagem mesmo com todas aquelas idiotices."
+l "— É, eles só encheram de cenas dos peitos pra atrair os imbecis."
 scene bg motelcouch
 show Carl Neutral at center
 show Flynn at farright
 show TJ at farleft
 with dissolve
-f "\"Of course that's easy for someone like {i}you{/i} to say. Besides, I see what's going on here.\""
-f "\"Maybe you should watch {i}Luche Lobo{/i}, TJ. He's shirtless the whole time.\""
+f "— É claro que é fácil pra alguém como {i}você{/i} dizer isso. Além disso, eu já tô vendo o que tá rolando aqui."
+f "— Talvez você devesse assistir {i}Luche Lobo{/i}, TJ. Ele fica sem camisa o tempo todo."
 show TJ Sheepish with dis
-"TJ's ears go flat, tufts pointed at the ground."
+"As orelhas de TJ abaixam, com os tufos apontados para o chão."
 show Flynn Teasing1 with dis
-f "\"I'd better stop it with all this saucy talk. The only way this could get any more awkward is if ya got sprung!\""
-"We all groan in unison, but TJ shoots right back:"
+f "— É melhor eu parar de falar merda. O único jeito disso ficar ainda mais constrangedor é se tu começasse a sentir algo nas calças!" # saucy talk?
+"Todos nós murmuramos ao mesmo tempo, mas o TJ rebate imediatamente:"
 show TJ Annoyed with dis
-t "\"And knowing you, that's {i}exactly{/i} what you want to happen, isn't it, Flynn?\""
+t "— E te conhecendo, isso é {i}exatamente{/i} o que você quer que aconteça, não é, Flynn?"
 show Carl 
 show Flynn Surprised
 with dis
-"That gets a few surprised chuckles."
-c "\"Daaaamn TJ, where'd that come from?\""
-"It isn't that it is a particularly good joke. It's that it came from TJ that makes it so funny."
-"I don't think I've ever heard him talk like that."
+"Isso causa algumas risadas inesperadas."
+c "— Caaaaralho TJ, de onde veio isso?"
+"Não é o fato de ser uma piada particularmente boa. Mas sim dela ter vindo do TJ que a torna tão engraçada."
+"Eu acho que nunca ouvi ele falar assim."
 show Flynn Happy with dis
-"Even Flynn can't keep from grinning a little bit."
+"Nem mesmo o Flynn consegue deixar de sorrir um pouco."
 scene bg motelwindow with slow_dissolve
-"We talk late into the afternoon."
-"At this point all of my worries have disappeared, leaving a happy, warm feeling in its place."
-"It seems silly that I'd been so nervous earlier. In fact, I'm starting to look forward to the rest of the week."
+"Conversamos até o final da tarde."
+"A essa altura todas as minhas preocupações desapareceram, deixando um sentimento feliz e caloroso em seu lugar."
+"Parece bobo que eu tenha ficado tão nervoso antes. Na verdade, estou começando a ficar empolgado pelo resto da semana."
 scene bg motelbeds
 show Leo at center
 with dissolve
-l "\"Alright, alright.\""
-"Leo steps forward, indicating that we should all shut up."
-l "\"Now, we all need to remember that Chase is here to do his school project, so that comes first.\""
-l "\"But! I did make a few other plans for things that we can do on his off time.\""
-l "\"I'm pretty sure all of us know that we're going to Southwest Adventures tomorrow, so I'll pick these two up—\""
-"He jerks his head towards Flynn and Carl."
-l "\"—then swing by the motel to get you guys at 9, alright?\""
-j "\"Sounds good.\""
-l "\"Then I was thinking about doing some stuff in Payton towards the end of the week, but we'll make those plans later.\""
-l "\"In between those times we should find time to hang out as well, make the most of this.\""
-"Leo looks about done, but suddenly snaps his fingers, as if remembering something."
-l "\"Oh yeah! Chase, I saw you had a camera.\""
-l "\"Think you could get a pic of us? It would be nice for all of us to have something that isn't camera phone quality.\""
-m "\"Oh, sure. I was messing with the self-timer earlier.\""
-m "\"Should be able to get it to work.\""
+l "— Certo, certo."
+"Leo dá um passo à frente, indicando que todos nós devemos nos calar."
+l "— Agora, todos nós precisamos nos lembrar de que o Chase tá aqui pra fazer seu projeto, então isso vem em primeiro lugar."
+l "— Mas! Eu fiz alguns outros planos de coisas que podemos fazer em seu tempo livre."
+l "— Tenho certeza de que todos nós sabemos que vamos no Aventuras Sudoeste amanhã, então eu vou pegar esses dois —"
+"Ele aponta com a cabeça para o Flynn e o Carl."
+l "—, e depois venho passar no hotel pra pegar vocês às 9, beleza?"
+j "— Por mim tudo bem."
+l "— Depois disso eu tava pensando em fazer algumas coisas em Payton no final da semana, mas faremos esses planos depois."
+l "— Entre tudo isso devemos encontrar tempo pra sair também, pra aproveitar ao máximo."
+"O Leo parece ter terminado, mas de repente estala os dedos, como se estivesse se lembrando de algo."
+l "— Ah é! Chase, eu vi que cê tinha uma câmera."
+l "— Você pode tirar uma foto nossa? Seria bom pra todos nós termos algo que não seja da qualidade da câmera do celular."
+m "— Ah, claro. Eu tava mexendo no temporizador automático mais cedo."
+m "— Devo conseguir fazer com que ela funcione."
 scene bg motelfull
 with dissolve
-"After a few minutes of me adjusting the tripod, and Leo adjusting everyone at the end of one of the beds, we manage to get into position."
-m "\"Aaaalright, here goes...\""
-"I set the timer and fast-walk to the spot Leo saved for me."
+"Depois de alguns minutos em que eu ajustava o tripé, e o Leo ajustava todos na ponta de uma das camas, conseguimos nos posicionar."
+m "— Ceeeerto, lá vai..."
+"Aciono o temporizador e vou rapidamente para o lugar que o Leo guardou para mim."
 play sound "camera.mp3"
 window hide
 scene groupphoto with transition_fade
@@ -748,25 +748,25 @@ scene black with slow_dissolve
 $ renpy.pause(1.0, hard=False)
 play loop "crickets.ogg" fadein 1.0
 window show
-"For the next two hours we watch a movie on TV, not really paying attention, mostly catching up with each other on how we'd been."
-"It's good to be back and it feels like we're all just picking up where we left off three years ago."
-"It's really nice."
-"Finally, at about 10, Leo, Carl, and Flynn head out."
-"I spend the next twenty minutes tinkering with the equipment, making sure it's all in order for shooting the next day."
-"Once TJ finishes getting ready for bed in the bathroom, I do as well before getting into bed, head-to-toe with TJ."
-"There's a soft glow from the corner as Jenna sits at the table reading something."
-"I lay in bed, staring at the ceiling, waiting for her to go to sleep..."
+"Nas duas horas seguintes assistimos um filme na TV, sem realmente prestar atenção, na maior parte do tempo conversando uns com os outros sobre como estávamos."
+"É bom estar de volta e parece que estamos continuando de onde paramos há três anos."
+"É bem bom."
+"Finalmente, por volta das 22:00, Leo, Carl e Flynn vão embora."
+"Eu passo os próximos vinte minutos mexendo no equipamento, garantindo que tudo esteja em ordem para as filmagens do dia seguinte."
+"Quando o TJ termina de se arrumar para dormir no banheiro, eu também me arrumo antes de ir para a cama, da cabeça aos pés com o TJ."
+"Há um brilho suave no canto enquanto a Jenna está sentada à mesa lendo alguma coisa."
+"Deito na cama, olhando para o teto, esperando ela ir dormir..."
 stop loop fadeout 10.0
 scene bg creepylake
 with opening_fade
 play music "meeting1.mp3" fadein 10.0
-"There's a chain attached to my ankle as I walk away from the lake, my legs and feet caked in mud."
-"I look back, seeing the chain snaking back around the rocks and reeds before disappearing into the water."
-"Looking ahead again, I see Leo. He's smiling, waving at me."
-"I walk towards him and the chain stays slack, pulling easily out of the water."
-"\"There's an anchor in the lake,\" I say."
-"I stare at him, but he doesn't say anything and just keeps on smiling."
-"I crouch on the rocks, wrapping the chain around my wrist a few times."
-"Leo kneels next to me, rubbing my back and sticking out his arm to compare our \"bracelets\", saying that everyone gets one."
-"He seems happy, but now I'm stuck here. I can't even stand up to walk."
+"Há uma corrente presa ao meu tornozelo enquanto me distancio do lago, minhas pernas e pés cobertos de lama."
+"Olho para trás, vendo uma corrente serpenteando ao redor das rochas e dos juncos antes de desaparecer na água."
+"Olhando para frente novamente, vejo Leo. Ele está sorrindo, acenando para mim."
+"Vou em direção a ele e a corrente fica frouxa, saindo facilmente da água."
+"— Há uma âncora no lago. — Eu digo."
+"Fico olhando para ele, mas ele não diz nada e continua sorrindo."
+"Ajoelho-me nas pedras, enrolando a corrente em meu pulso algumas vezes."
+"Leo se ajoelha ao meu lado, acariciando minhas costas e esticando o braço para comparar nossas \"pulseiras\", dizendo que todos recebem uma."
+"Ele parece feliz, mas agora estou preso aqui. Não consigo nem me levantar para andar."
 jump wideshot
