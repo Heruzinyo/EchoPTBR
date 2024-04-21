@@ -9,56 +9,56 @@ with slow_dissolve
 window show
 play background "river.ogg" fadein 2.5
 "O Rio Yeeyah abastece o Lago Emma pelo norte."
-"It's a farther drive than the lake itself, but it does have a few nice clearings along its edge."
-"One of them has a few benches and a rusted-to-hell public grill that I'm sure no one has used in decades."
-"This is the place that we go."
-"As we're unloading Leo's van, I decide to get the b-roll of the lake right away."
-"It won't have much of a presence in the packet, so I think I'm just gonna narrate over it later."
-"The actual lake is only a few minutes walk from here."
-"It's a bit difficult navigating around the sage brush, and I know I'm gonna have to check for ticks later."
+"É mais difícil de chegar do que no próprio lago, mas ele tem algumas clareiras agradáveis ao longo de sua margem."
+"Uma delas tem alguns bancos e uma churrasqueira pública enferrujada-pra-caramba que eu tenho certeza que ninguém a usa há décadas."
+"Esse é o lugar para onde vamos."
+"Ao sairmos da van do Leo, eu decido fazer algumas filmagens do lago imediatamente."
+"Ela não terá muita presença no final, então acho que vou narrar sobre ela mais tarde." # no final?
+"O verdadeiro lago fica a apenas alguns minutos a pé daqui."
+"É um pouco difícil navegar entre os arbustos de sálvia, e eu sei que terei que verificar por carrapatos mais tarde."
 stop background fadeout 2.0
 scene bg lakeemma
 with dissolve
-"By the time I reach the lake, my friends are pretty far behind me, hidden behind a few bends and hills."
+"Quando chego ao lago, meus amigos estão bem atrás de mim, escondidos atrás de algumas curvas e colinas." # curvas?
 play background "reststop.ogg" fadein 2.5
-"I'm getting uncomfortable with the idea of me holding this camera while I navigate this terrain."
-"It probably would have been better if Leo had just parked the car next to the reservoir while I got out to film, but I guess even that still wasn't okay."
-"There's a large square of paved ground next to the parking lot, now, several benches, and a row of brand new grills."
-"Several lamps have been erected around the area, too."
-"Leo was right about the town trying to turn the reservoir into a recreational spot."
-"I can actually see a few jet boats skimming through the water, leaving long trails of white behind them."
-"There's even what looks like a feline of some sort fishing in the shallows."
-"It would explain why the motel is still in business."
-"Lake Emma is fairly small, only about twelve miles long and five wide."
-"I look around before climbing to the top of a nearby hill and get my shots."
-"Even with a few people there, it's still pretty quiet, aside from the train horns, and it's kind of eerie."
-"I wrap up and start to quickly make my way back."
-"It's hard to explain why I'm getting freaked out in broad daylight with people around."
-"Either it's because of what happened all those years ago, or I'm just psyching myself out."
+"Estou ficando desconfortável com a ideia de segurar essa câmera enquanto navego por esse terreno."
+"Provavelmente teria sido melhor se o Leo tivesse estacionado o carro ao lado do reservatório enquanto eu saía para filmar, mas acho que mesmo assim isso não estaria tudo bem."
+"Agora, há uma grande praça pavimentada ao lado do estacionamento, vários bancos, e uma fileira de churrasqueiras novas."
+"Várias lâmpadas também foram instaladas na área."
+"Leo tinha razão sobre a tentativa da cidade de transformar o reservatório em um local de recreação."
+"De fato eu vejo alguns jatinhos passando pela água, deixando longos rastros de branco atrás deles."
+"Há até o que parece ser um tipo de felino pescando nas águas rasas."
+"Isso explicaria como o hotel ainda está funcionando."
+"O Lago Emma é relativamente pequeno, com apenas dezenove quilômetros de comprimento e oito de largura."
+"Eu olho em volta antes de subir ao topo de uma colina próxima para fazer minhas filmagens."
+"Mesmo com algumas pessoas lá, ainda é bem quieto, além das buzinas dos trens, e é um pouco assustador."
+"Eu termino e começo a voltar rapidamente."
+"É difícil explicar por que estou com medo em plena luz do dia com pessoas ao redor."
+"Deve ser por causa do que aconteceu há muitos anos atrás, ou eu só estou delirando."
 stop background fadeout 2.0
-"I'm glad to hear my friend's voices again as I get closer...Then again, it sounds like they're fighting."
+"Fico feliz em ouvir as vozes dos meus amigos novamente à medida que me aproximo... Mas então, parece que eles estão brigando."
 play background "river.ogg" fadein 3.0
 scene bg yeeyaw
 with dissolve
-l "\"-been acting like a dick all day.\""
-f "\"Be glad I came here at all.\""
-j "\"Apparently it would have been better if you hadn't.\""
-f "\"Maybe I should just fuckin' leave, then?\""
-"It sounds a lot more serious than our usual squabbles, so I quicken my pace."
-"They seem to quiet down a bit once they see me coming."
-"TJ's off to the side, looking out over the river, occasionally throwing a rock into it."
-"Carl sits in a lawn chair, one of six that have been set out in a semi-circle."
-"He has his chin on a fist as he lazily stares at me."
-"Jenna and Leo both stand next to each other, looking at Flynn who's got his back turned, rummaging through the cooler."
-m "\"Hey, what's wrong?\""
+l "— -tá sendo insuportável o dia todo."
+f "— Só fica feliz por eu ter aceitado vir aqui."
+j "— Aparentemente teria sido melhor se você não tivesse."
+f "— Então eu deveria ir embora, porra?"
+"Parece muito mais sério do que nossos bate-bocas comuns, então eu acelero o passo."
+"Eles parecem se aquietar um pouco quando me veem chegando."
+"TJ está ao lado, olhando para o rio, e ocasionalmente jogando uma pedra nele."
+"Carl se senta em uma cadeira, uma das seis que foram colocadas em um semicírculo."
+"Ele está com o queixo apoiado em uma das mãos enquanto me encara descontraidamente."
+"A Jenna e o Leo estão um ao lado do outro, olhando para o Flynn que está de costas, vasculhando o cooler."
+m "— Ei, O que foi?"
 show Leo Annoyed at left
 with dissolve
 "Leo sighs."
-l "\"Nothing, you get your film?\""
-m "\"Uh, yeah, got it...\""
-"The silence is still awkward, and I have no idea what the hell to do with myself."
-"I finally realize that I'm still holding the camera and decide to put that away."
-m "\"Hey, uh, I'm gonna go for a quick swim. Haven't been in water in a while.\""
+l "— Nada, já terminou com a filmagem?"
+m "— Hum, sim, já..."
+"O silêncio ainda é constrangedor, e eu não tenho ideia do que fazer comigo mesmo."
+"Finalmente percebo que ainda estou segurando a câmera e decido guardá-la."
+m "— Ei, hum, eu vou ir dar um mergulho. Faz um tempo que eu não entro na água."
 "When we first got here I was completely disappointed to find that the motel didn't have its own swimming pool."
 "Being an otter, I usually like to swim at LEAST once a day, if not more."
 "It's been three days, and I'm feeling antsy as hell for it.."
@@ -75,7 +75,7 @@ f "\"So enjoy that swim while I set everything out.\""
 m "\"Yeah, I will. Make my soda a diet, while you're at it.\""
 "I've had it with Flynn.  He's souring the trip with his need to be an asshole."
 show Flynn Annoyed with dis
-f "\"Go fuck yourself.\""
+f "— Vai te fuder."
 "I ignore him as I strip off my shirt and head to the river bank."
 hide Leo
 hide Flynn
@@ -289,11 +289,11 @@ scene bg yeeyaw
 with dissolve
 
 menu:
-    "Find TJ.":
+    "Encontrar o TJ.":
         jump findtj
-    "Go after Flynn.":
+    "Ir atrás do Flynn.":
         jump goafterflynn
-    "Follow Jenna and Leo":
+    "Seguir a Jenna e o Leo":
         jump leoandjenna
-    "Sit with Carl.":
+    "Sentar com o Carl.":
         jump sitwithcarl

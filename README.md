@@ -1,5 +1,11 @@
 
-# Esse projeto visa traduzir o jogo Echo criado por Echo Project para Português Brasileiro.
+# Esse projeto visa traduzir o jogo [Echo](https://echoproject.itch.io/echo) criado por [Echo Project](https://echoproject.itch.io) para Português Brasileiro.
+
+# É necessário baixar o [jogo original](https://echoproject.itch.io/echo) na versão 1.01 (1 Year Anniversary Version) antes de aplicar esse Patch.
+
+# Você pode criar um fork ou utilizar os arquivos no qual traduzi (os arquivos PSD ou a fonte corrigida para o português, por exemplo) como base para outros projetos, mas por favor não esqueça de me creditar.
+
+# Foi tomada a decisão da utilização do travessão já que o texto original usa aspas para descrever falas, e como Visual Novels são "novels" (livros), e mídias como Light Novels quando traduzidas para o português são tratadas como livros e usam o travessão, para mim, fez sentido utilizá-lo também em uma Visual Novel.
 
 ## Progresso:<br><br>Geral
 
@@ -7,7 +13,7 @@
 |:-------------:|:---------------:|:----------------------------------------------------:|:------------:|:---------------------------------------------------:|
 |    Gráficos   |   86/111 (77%)  | ![Progress](https://progress-bar.dev/77/?&width=150) |  0/111 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |    **Rota**   |   **Tradução**  |                                                      |  **Revisão** |                                                     |
-| Chase (Intro) | 1846/2145 (86%) | ![Progress](https://progress-bar.dev/86/?&width=150) |  0/2145 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| Chase (Intro) | 1911/2145 (89%) | ![Progress](https://progress-bar.dev/89/?&width=150) |  0/2145 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |       TJ      |   0/6782 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150) |  0/6782 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Carl     |   0/9642 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150) |  0/9642 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Leo      |   0/10498 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150) | 0/10498 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
@@ -29,7 +35,7 @@
 |     Saturday     | 772/772 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/772 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 | 1-5 ("Saturday") | 114/114 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/114 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Sunday      | 960/960 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/960 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Monday      |   0/299 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/299 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Monday      |  65/299 (22%)  |  ![Progress](https://progress-bar.dev/22/?&width=150) |  0/299 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## TJ
 
