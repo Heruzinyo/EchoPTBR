@@ -7,26 +7,42 @@
 
 # Foi tomada a decisão da utilização do travessão já que o texto original usa aspas para descrever falas, e como Visual Novels são "novels" (livros), e mídias como Light Novels quando traduzidas para o português são tratadas como livros e usam o travessão, para mim, fez sentido utilizá-lo também em uma Visual Novel.
 
+## Os arquivos pertencem à estas pastas:
+    Fonts/Patched:
+    belligerent.ttf - game/ui ; game/images/credits
+
+    Graphics:
+    images - /game
+    ui - /game
+
+    Text:
+    Carl, Chase (Intro), Flynn,
+    Jenna, Leo, SideStory, TJ - /game (Todos os arquivos juntos na mesma pasta)
+    Scripts - _errorhandling, 00accessibility 00action_file,
+    00keymap, 00layout, 00library, 00preferences - renpy/common
+    Scripts - screens - /game
+    README.html - O mesmo diretório onde se encontra o .exe do jogo
+
 ## Progresso:<br><br>Geral
 
-|   **Pasta**   |   **Tradução**  |                                                      |  **Revisão** |                                                     |
-|:-------------:|:---------------:|:----------------------------------------------------:|:------------:|:---------------------------------------------------:|
-|    Gráficos   |   86/111 (77%)  | ![Progress](https://progress-bar.dev/77/?&width=150) |  0/111 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    **Rota**   |   **Tradução**  |                                                      |  **Revisão** |                                                     |
-| Chase (Intro) | 1911/2145 (89%) | ![Progress](https://progress-bar.dev/89/?&width=150) |  0/2145 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       TJ      |   0/6782 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150) |  0/6782 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Carl     |   0/9642 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150) |  0/9642 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Leo      |   0/10498 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150) | 0/10498 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     Jenna     |   0/12010 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150) | 0/12010 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     Flynn     |   0/15534 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150) | 0/15534 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   SideStory   |   0/2640 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150) |  0/2640 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   **Pasta**   |   **Tradução**   |                                                       |  **Revisão** |                                                      |
+|:-------------:|:----------------:|:-----------------------------------------------------:|:------------:|:----------------------------------------------------:|
+|    Gráficos   |   86/111 (77%)   |  ![Progress](https://progress-bar.dev/77/?&width=150) | 74/111 (66%) | ![Progress](https://progress-bar.dev/66/?&width=150) |
+|    **Rota**   |   **Tradução**   |                                                       |  **Revisão** |                                                      |
+| Chase (Intro) | 2145/2145 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/2145 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|       TJ      |   70/6782 (1%)   |  ![Progress](https://progress-bar.dev/1/?&width=150)  |  0/6782 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Carl     |    0/9642 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/9642 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Leo      |   0/10498 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/10498 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|     Jenna     |   0/12010 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/12010 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|     Flynn     |   0/15534 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/15534 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   SideStory   |    0/2640 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/2640 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## Gráficos
 
-| **Tipo** | **Tradução** |                                                       | **Revisão** |                                                     |
-|:--------:|:------------:|:-----------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|  images  | 62/62 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/62 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    ui    |  24/49 (49%) |  ![Progress](https://progress-bar.dev/49/?&width=150) |  0/49 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| **Tipo** | **Tradução** |                                                       | **Revisão** |                                                      |
+|:--------:|:------------:|:-----------------------------------------------------:|:-----------:|:----------------------------------------------------:|
+|  images  | 62/62 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 51/62 (82%) | ![Progress](https://progress-bar.dev/82/?&width=150) |
+|    ui    |  24/49 (49%) |  ![Progress](https://progress-bar.dev/49/?&width=150) | 23/49 (47%) | ![Progress](https://progress-bar.dev/47/?&width=150) |
 
 ## Chase (Intro)
 
@@ -35,19 +51,19 @@
 |     Saturday     | 772/772 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/772 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 | 1-5 ("Saturday") | 114/114 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/114 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Sunday      | 960/960 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/960 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Monday      |  65/299 (22%)  |  ![Progress](https://progress-bar.dev/22/?&width=150) |  0/299 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Monday      | 299/299 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/299 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## TJ
 
-|      **Dia**     | **Tradução** |                                                     | **Revisão** |                                                     |
-|:----------------:|:------------:|:---------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|     Monday-TJ    |  0/288 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/288 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| 3-TJ (Monday-TJ) |   0/7 (0%)   | ![Progress](https://progress-bar.dev/0/?&width=150) |   0/7 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    TJ-Tuesday    |  0/753 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/753 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   TJ-Wednesday   |  0/1159 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1159 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    TJ-Thursday   |  0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     TJ-Friday    |  0/895 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/895 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    TJ-Saturday   |  0/1849 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1849 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      **Dia**     | **Tradução** |                                                      | **Revisão** |                                                     |
+|:----------------:|:------------:|:----------------------------------------------------:|:-----------:|:---------------------------------------------------:|
+|     Monday-TJ    | 70/288 (24%) | ![Progress](https://progress-bar.dev/24/?&width=150) |  0/288 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| 3-TJ (Monday-TJ) |   0/7 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150) |   0/7 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    TJ-Tuesday    |  0/753 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150) |  0/753 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   TJ-Wednesday   |  0/1159 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1159 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    TJ-Thursday   |  0/1831 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|     TJ-Friday    |  0/895 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150) |  0/895 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    TJ-Saturday   |  0/1849 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1849 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## Carl
 

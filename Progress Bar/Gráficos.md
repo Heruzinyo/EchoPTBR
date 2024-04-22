@@ -1,4 +1,4 @@
-| **Tipo** | **Tradução** |                                                       | **Revisão** |                                                     |
-|:--------:|:------------:|:-----------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|  images  | 62/62 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/62 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    ui    |  24/49 (49%) |  ![Progress](https://progress-bar.dev/49/?&width=150) |  0/49 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| **Tipo** | **Tradução** |                                                       | **Revisão** |                                                      |
+|:--------:|:------------:|:-----------------------------------------------------:|:-----------:|:----------------------------------------------------:|
+|  images  | 62/62 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 51/62 (82%) | ![Progress](https://progress-bar.dev/82/?&width=150) |
+|    ui    |  24/49 (49%) |  ![Progress](https://progress-bar.dev/49/?&width=150) | 23/49 (47%) | ![Progress](https://progress-bar.dev/47/?&width=150) |
