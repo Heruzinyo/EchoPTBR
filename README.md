@@ -16,10 +16,8 @@
     ui - /game
 
     Text:
-    Carl, Chase (Intro), Flynn,
-    Jenna, Leo, SideStory, TJ - /game (Todos os arquivos juntos na mesma pasta)
-    Scripts - _errorhandling, 00accessibility 00action_file,
-    00keymap, 00layout, 00library, 00preferences - renpy/common
+    Carl, Chase (Intro), Flynn, Jenna, Leo, SideStory, TJ - /game (Todos os arquivos juntos na mesma pasta)
+    Scripts - _errorhandling, 00accessibility 00action_file, 00keymap, 00layout, 00library, 00preferences - renpy/common
     Scripts - screens - /game
     README.html - O mesmo diretório onde se encontra o .exe do jogo
 
