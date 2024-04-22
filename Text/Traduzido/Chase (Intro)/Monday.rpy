@@ -59,135 +59,135 @@ m "— Hum, sim, já..."
 "O silêncio ainda é constrangedor, e eu não tenho ideia do que fazer comigo mesmo."
 "Finalmente percebo que ainda estou segurando a câmera e decido guardá-la."
 m "— Ei, hum, eu vou ir dar um mergulho. Faz um tempo que eu não entro na água."
-"When we first got here I was completely disappointed to find that the motel didn't have its own swimming pool."
-"Being an otter, I usually like to swim at LEAST once a day, if not more."
-"It's been three days, and I'm feeling antsy as hell for it.."
-"Flynn finally turns around, a beer in his hand as he cracks it open."
-"It was true that he'd been acting a bit strange today."
-"He'd held the entire trip up by a few hours, and when he'd finally shown up his eyes were bleary, and he seemed sluggish, like he'd been up all night."
-"When we'd asked if he was alright, he brushed us off." 
+"Quando chegamos aqui eu fiquei completamente desapontado ao descobrir que o hotel não tinha sua própria piscina."
+"Por ser uma lontra, eu geralmente gosto de nadar PELO MENOS uma vez por dia, se não mais."
+"Já se passaram três dias, e estou me sentindo nervoso pra caramba pra isso..."
+"Flynn finalmente se vira, com uma cerveja na mão enquanto a abre."
+"Era verdade que ele estava agindo de forma um pouco estranha hoje."
+"Ele atrasou a viagem inteira por algumas horas, e quando ele finalmente apareceu seus olhos estavam cansados, e ele parecia sonolento, como se tivesse ficado acordado a noite toda." # "held the entire trip up"?
+"Quando perguntamos se ele estava bem, ele nos ignorou." 
 show Flynn at right
 with dissolve
-f "\"Yeah, thanks for the help setting up, Chase. You're about as useful as this fatass here.\""
-"He swings the paw holding the beer at Carl."
-l "\"Flynn.\""
-f "\"So enjoy that swim while I set everything out.\""
-m "\"Yeah, I will. Make my soda a diet, while you're at it.\""
-"I've had it with Flynn.  He's souring the trip with his need to be an asshole."
+f "— É, obrigado pela ajuda na montagem, Chase. Tu é tão útil quanto esse gordola aqui." # na montagem?
+"Ele balança a pata que está segurando a cerveja para Carl."
+l "— Flynn."
+f "— Então aproveita o mergulho enquanto eu preparo tudo."
+m "— Aham, vou sim. Não esquece de deixar um refri diet pra mim." # "Make my soda a diet, while you're at it"; eu mudei o texto, manter ou traduzir literal?
+"Eu cansei do Flynn. Ele tá estragando a viagem com sua necessidade de ser um cuzão."
 show Flynn Annoyed with dis
 f "— Vai te fuder."
-"I ignore him as I strip off my shirt and head to the river bank."
+"Eu o ignoro enquanto tiro minha camisa e vou para a margem do rio."
 hide Leo
 hide Flynn
 with dissolve
-"I pat TJ on the shoulder as I pass him before slipping into the water."
-"We're currently in the middle of a drought that has lasted the past three years, so the water is low...only about ten feet at its deepest."
-"It's enough though and God.. it feels good. It's spring, so the water is pretty cold."
+"Dou um tapinha no ombro do TJ quando passo por ele antes de entrar na água."
+"Atualmente estamos no meio de uma seca que já dura três anos, então a água está baixa... com apenas cerca de três metros de profundidade."
+"Mas é o suficiente e meu Deus... a sensação é ótima. É primavera, então a água está bem fria."
 stop background fadeout 3.0
-"I swim back and forth a few times before finally diving in."
+"Nado para frente e para trás algumas vezes antes de finalmente mergulhar."
 show chaseswim
 with dissolve
 play music "deadlybeauty.ogg" fadein 5.0
 #more monologue
-"Eventually I settle on drifting to the bottom, laying and gripping on to the rocky floor as I stare up at the shimmery light above me."
-"I feel the gentle current run over my body."
-"It's nice to be away from all that tension above me. I feel isolated, alone, and for now, that feels good." 
-"Only I could really come down this deep, the others not being able to hold their breath as long, or being too little."
-"I remember when we were younger I would give the others \"rides\" around the lake, able to swim for nearly half a mile and back."
-"Even Flynn the asshole had done it a few times. It was one skill I had that I was proud of, even if it was inherent to my species."
-"It still made me somehow useful or at least different from everyone else...in a good way."
-"I had always felt like the odd one out in the group, as strange as it sounds."
-"Where everyone else has a strong, distinct personality, I was just.. average?"
-"Sometimes I wonder if they were just friends with me because we all had to be when we were younger."
-"This whole trip has kinda forced me to think back on all the memories I have of this place, and my friends."
-"They were always doing the cool things, being different, while I just sort of blended into the background."
-"Even then I wanted to DO something, to stand out somehow..."
-"That's...that's what I'm trying to do here...I guess..."
-"It's been about seven minutes, and I only know that because that's about as long as I can hold my breath."
+"Eventualmente eu acabo me acomodando enquanto vou para o fundo, deitando e segurando ao chão rochoso enquanto olho para a luz reluzente acima de mim."
+"Sinto a correnteza suave percorrer meu corpo."
+"É bom estar longe de toda aquela tensão em cima de mim. Me sinto isolado, sozinho, e por enquanto, essa sensação é boa." 
+"Somente eu conseguia descer tão fundo, os outros não conseguiam segurar a respiração por tanto tempo, ou eram muito pequenos."
+"Eu me lembro que quando éramos mais jovens eu dava \"carona\" aos outros ao redor do lago, conseguindo nadar por quase oitocentos metros e voltar."
+"Até mesmo aquele cuzão chamado Flynn tinha ido algumas vezes. Essa era uma habilidade da qual eu me orgulhava, mesmo que fosse inerente à minha espécie."
+"Isso ainda me tornava útil de alguma forma ou pelo menos diferente dos outros... no bom sentido."
+"Eu sempre me senti o mais esquisito do grupo, por mais estranho que pareça."
+"Enquanto todos os outros tinham uma personalidade forte e distinta, eu era apenas... mediano?"
+"Às vezes eu me pergunto se eles só eram meus amigos porque todos nós tínhamos que ser quando éramos mais jovens."
+"Toda essa viagem me forçou a pensar em todas as memórias que tenho desse lugar, e dos meus amigos."
+"Eles estavam sempre fazendo as coisas legais, sendo diferentes, enquanto eu simplesmente meio que ficava misturado ao fundo."
+"Mesmo assim eu queria FAZER algo, para me destacar de alguma forma..."
+"É isso... é isso o que eu tô tentando fazer aqui... eu acho..."
+"Já se passaram cerca de sete minutos, e eu só sei disso porque esse é o tempo máximo que consigo segurar a respiração."
 stop music fadeout 10.0
-"I decide I should go back up and help out, so I slowly let myself float back up towards the surface, trying to stay in the same spot."
+"Eu decido que devo voltar para cima e ajudar, então lentamente me deixo flutuar de volta para a superfície, tentando ficar no mesmo lugar."
 play background "river.ogg" fadein 3.0
 scene bg yeeyaw
 with dissolve
-"When I surface it's pretty quiet."
-"For a second, I wonder if everyone is just gone."
-"Of course, that's ridiculous and, as I come over the embankment, everyone's there."
-"Predictably, Flynn didn't get my food out, so I go to the cooler to grab a sandwich and soda before sitting in an empty chair next to Leo."
-"Apparently it was a good idea to bring lawn chairs, considering the tables looked like they were covered in a year's worth of bird shit."
-f "\"How was the swim?\""
-"His tone is bitter and salty."
-"He's not in his usual grumpy, but good-natured mood. He's genuinely unhappy."
-"What the hell was his deal?"
-m "\"Amazing, I'm gonna have to come back here again sometime during the week.\""
-m "\"You lizard people don't understand, you hardly ever need water!\""
+"Quando chego à superfície está bem quieto."
+"Por um segundo, eu me pergunto se todos simplesmente foram embora."
+"É claro, isso é ridículo e, quando chego ao dique, todos estão lá." # dique?
+"Como era de se esperar, o Flynn não tirou minha comida, então vou até o cooler para pegar um sanduíche e um refrigerante antes de me sentar em uma cadeira vazia ao lado do Leo."
+"Aparentemente foi uma boa ideia trazer nossas cadeiras, considerando que as mesas pareciam ter sido cobertas por merda de pássaro equivalente a um ano." # lawn chairs?
+f "— Como foi o mergulho?"
+"Seu tom é amargo e salgado."
+"Ele não está em seu humor habitual ranzinza, mas bem-humorado. Ele tá genuinamente infeliz."
+"Que porra aconteceu com ele?" # What the hell was his deal? = mudar pro contexto do que ele perguntou?
+m "— Incrível, vou ter que voltar aqui de novo em algum dia da semana."
+m "— Vocês lagartos não entendem, cês quase nunca precisam de água!"
 show Leo Neutral at left
 show Jenna Neutralhips at right
 with dissolve
-l "\"It always scares the hell out of me when you're down there that long.\""
-m "\"I'm built for it.\""
+l "— Eu sempre fico muito assustado quando você fica lá embaixo por tanto tempo."
+m "— Eu fui feito pra isso."
 scene bg yeeyaw2
 show TJ at right
 show Carl at left
 with dissolve
-t "\"Remember when you'd give us rides? That was fun.\""
-c "\"Remember when you'd always scream like a girl when Chase would go out too far out?\""
-m "\"Oh wow, I remember that now.\""
-t "\"Hey! I've never really liked water.\""
-t "\"Anyway, Chase would do it on purpose. He knew I didn't like it out to a certain point.\""
-"Carl looks at me."
-c "\"You know what was really cool was when you'd take us down for a dive.\"" 
+t "— Se lembra de quando você nos dava caronas? Aquilo era divertido."
+c "— Se lembra quando cê sempre gritava igual uma menininha quando o Chase ia pra muito longe?" # ele tá falando de distancia ou de ir pro fundo da água?
+m "— Ah nossa, Eu lembro disso agora."
+t "— Ei! Eu nunca gostei muito de água."
+t "— Mas bem, o Chase fazia de propósito. Ele sabia que eu não gostava disso até certo ponto."
+"Carl olha para mim."
+c "— Sabe o que era muito legal, era quando cê nos levava pra dar um mergulho." # parace gramaticalmente errado esse começo
 scene bg yeeyaw
 show Jenna Smilinghips at right
 show Leo at left
 with dissolve
-j "\"Oh yeah! Chase was like our own little submarine.\""
-"I'm starting to get that \"otters are swimming clowns\" vibe again. Still, I kind of enjoy the attention."
-l "\"We'd get you to take us to the bottom so we could look for 'treasure'.\""
-"Leo makes air quotes around the last word."
-m "\"And you know, we probably would have found way more stuff if you guys hadn't been dragging me down. I remember when-\""
+j "— Ah é! O Chase era como nosso próprio submarinozinho."
+"Eu tô começando a sentir aquela vibe de \"lontras são palhaços nadadores\" de novo. Mesmo assim, eu até que gosto da atenção."
+l "— A gente pedia que você nos levasse até o fundo pra que pudéssemos procurar por \"tesouros\"."
+"Leo faz um gesto de aspas na última palavra."
+m "— E sabe, provavelmente teríamos encontrado muito mais coisas se vocês não estivessem me puxando pra baixo. Eu me lembro quando-"
 show Flynn Annoyed at center
 with dissolve
-f "\"Are we really fucking talking about this?\""
+f "— Porra a gente vai realmente falar disso?"
 show Jenna Neutralhips
 show Leo Neutral
 with dis
-"Everyone turns to look at Flynn."
-"His voice is low and dangerous."
-"There's a chill in the air because we all know what he means."
-"I was actually feeling pretty good about it at this point, like we crossed a bridge, being able to talk about it for once."
-"Apparently, we hadn't."
-l "\"Flynn.\""
-f "\"No, I'm serious.\""
-f "\"Do you think it's okay to fucking talk about this when the lake is just a quarter mile that way?\""
+"Todos se viram para olhar para o Flynn."
+"Sua voz está grave e ameaçadora." # low and dangerous?
+"Há um arrepio no ar porque todos nós sabemos o que ele quer dizer."
+"Na verdade eu estava me sentindo muito bem a esse ponto, como se tivéssemos atravessado uma ponte, estando capazes de falar sobre isso de uma vez." # for once?
+"Aparentemente, não estávamos."
+l "— Flynn."
+f "— Não, eu tô falando sério."
+f "— Vocês acham que tá tudo bem ter a porra dessa conversa quando o lago fica a apenas quatrocentos metros naquela direção?"
 show Jenna Annoyed with dis
-j "\"You know what, Flynn, I think we should. Isn't that part of the reason why we're here?\""
-f "\"NO! If that were the case, we'd be over THERE, but we're HERE! And why is that?\""
-"Everyone's quiet for a moment. I see TJ shrink into his chair, staring hard at his lap."
-l "\"Flynn, we came here because Chase needed footage.\""
+j "— Sabe de uma coisa, Flynn, eu acho que deveríamos. Isso não faz parte do motivo pelo qual estamos aqui?"
+f "— NÃO! Se fosse esse o caso, estaríamos LÁ, mas estamos AQUI! E por que tu acha isso?"
+"Todos ficam calados por um momento. Vejo o TJ se encolher em sua cadeira, olhando fixamente para seu colo."
+l "— Flynn, viemos pra cá porque o Chase precisava de filmagem."
 stop background fadeout 5.0
 play music "argument.ogg" fadein 10.0
-"A change comes over Flynn. His face darkens, and everyone senses it."
-"Flynn turns to me, and it takes some effort not to flinch back."
-f "\"Yeah, and why's that Chase? You gonna put THAT in your fuckin' documentary?\""
-m "\"No! I-I...Emma Lake is an important part of Echo's history, I just...\""
-f "\"Just what?\""
-"Flynn raises his brow ridge at me, and finally I just lower my eyes."
-f "\"This was a stupid fuckin' idea.\""
-j "\"You know what, Flynn? If you'd be a little more open, tell us what's on your mind, we'd be able to avoid a lot of this kind of stuff.\""
-f "\"Oh, you wanna know what's on my mind?\""
-"Flynn swivels and marches up to Carl."
+"A expressão do Flynn muda rapidamente. Seu rosto desvanece, e todos percebem isso." # A change comes over Flynn = traduzir literal?
+"Flynn se volta para mim, e eu me esforço para evitar meu reflexo de defesa." # tá traduzido correto isso?kkkkk
+f "— É, e por que ein Chase? Tu vai botar AQUILO na porra do teu documentário?"
+m "— Não! E-Eu... O Lago Emma é uma parte importante da história de Echo, Eu só..."
+f "— Só o quê?"
+"Flynn levanta a sobrancelha para mim, e por fim eu simplesmente baixo os olhos."
+f "— Essa foi uma ideia burra pra caralho."
+j "— Sabe de uma coisa, Flynn? Se você fosse um pouco mais aberto, nos dissesse o que você acha, poderíamos ter evitado muitas coisas assim."
+f "— Ah, tu quer sabe o que eu acho?"
+"Flynn se vira e vai até o Carl."
 hide Flynn with dissolve
 scene bg yeeyaw2
 show Carl Rejected at left
 with dissolve
 show Flynn Annoyed at right
 with dissolve
-f "\"Alright, let's start with you. You're fat, lazy, no motivation, no future.\""
-f "\"What the hell are you planning on doing with your life?\""
+f "— Tá legal, vamos começar com você. Tu é gordo, preguiçoso, sem motivação, sem futuro."
+f "— Que porra tu tá planejando fazer com a tua vida?"
 show Carl Depressed at left with dis
-f "\"Sit here, waste away in Echo, moochin' off your parents until you're dead?\""
-"Carl stares back up at Flynn impassively, though he hunches in on himself a bit further."
-j "\"Flynn, don't do this right now...\""
+f "— Sentar aqui, apodrecendo em Echo, sugando dos seus pais até morrer?"
+"Carl olha de volta para o Flynn impassivelmente, porém se encolhe um pouco mais."
+j "— Flynn, não começa..."
 hide Flynn with dissolve
 scene bg yeeyaw
 show Jenna Neutralhips at right
@@ -195,56 +195,56 @@ show Leo Neutral at left
 with dissolve
 show Flynn at center
 with dissolve
-f "\"And you, thinkin' you're better than everyone else. I can tell, you think everyone in Echo is trash.\""
-f "\"Just because me and the others haven't left you think we're lower than you. Just because we don't have an education, we're a bunch of retards.\""
-f "\"Yeah? Well you left your whole fuckin' family behind without even sayin' goodbye.\""
-f "\"You know what's even goin' on with 'em right now, what they're dealin' with?\""
-f "\"Yeah, real fuckin' hero you are.\""
+f "— E você, achando que é melhor que todo mundo. Eu já percebi, tu acha acha que todos em Echo são lixo."
+f "— Só porque eu e os outros não fomos embora tu acha que somos inferiores a você. Só porque não temos educação, somos um bando de retardados."
+f "— Ah, é? Bem tu deixou toda a tua família pra trás sem sequer se despedir."
+f "— Tu ao menos sabe o que tá rolando com eles agora, com o que eles tão lidando?"
+f "— É, olha só a grande heroina que você é ein."
 show Jenna Annoyed with dis
-j "\"You think I—\""
+j "— Você acha que eu-"
 show Leo Annoyed with dis
-l "\"Stop it, Flynn.\""
-f "\"Ah, our unquestionable leader. We wouldn't have been friends without you, would we?\""
-f "\"That's why you brought us here, right, so we could all bond?\""
-f "\"Or...wait, was it just because you wanted to get into Chase's pants?\""
+l "— Para, Flynn."
+f "— Ah, nosso líder inquestionável. Não teríamos sido amigos sem você, não é?"
+f "— Foi por isso que tu nos trouxe aqui, né, pra nos unirmos?"
+f "— Ou... espera, foi só porque tu queria se unir com o que tá embaixo das calças do Chase?"
 show Leo Rejected with dis
-"Leo's ears fall flat."
-f "\"Probably. You've been a mess ever since he left, so let me be the one to tell you:\""
-f "\"IT'S OVER.\""
-f "\"It's fuckin' unhealthy, you're obsessed with him!\""
-"Slowly, his head turns to me, and I brace myself."
-f "\"And I can't imagine why...\""
-f "\"You, Chase, have the personality of a fuckin' rock. I wish you could see yourself.\""
-f "\"You just sit there like a creep, watching everyone, weighing everything that we say.\""
-f "\"And don't think I haven't caught the way you stare at all of us, like we're all objects to be collected.\""
-f "\"What, are you just planning to cycle through all of us for sex?\""
-f "\"Sure seems like it.\""
-"Flynn stops, then exhales. It seems like it's over, I really hope it is."
-"That proves futile, though, as Flynn turns slowly on TJ."
+"As orelhas do Leo se abaixam completamente."
+f "— Provavelmente. Tu ficou todo fudido desde que ele foi embora, então deixa eu ser quem vai te falar:"
+f "— ACABOU."
+f "— Isso é doentio pra caralho, tu tá obcecado por ele!"
+"Lentamente, ele vira a cabeça para mim, e eu me preparo."
+f "— E eu não consigo imaginar o porquê..."
+f "— Você, Chase, têm a personalidade igualzinha à porra de uma pedra. Eu queria que tu pudesse se ver."
+f "— Tu fica sentado aí igual um maníaco, observando todos, avaliando tudo o que dizemos."
+f "— E não acha que eu não percebi a maneira que você olha pra todos nós, como se fôssemos objetos a serem coletados."
+f "— O quê, tu tá planejando passar o rodo em todos nós?"
+f "— É o que parece."
+"Flynn para, e depois expira. Parece que acabou, eu realmente espero que sim."
+"No entanto, isso se mostra fútil, pois o Flynn se dirige lentamente ao TJ."
 scene argument with dissolve
-"I had silently prayed that the lynx would make a run for it while Flynn had all his attention focused on us, but TJ looks apathetic."
-"Like a statue, like there's no soul in him."
-"Flynn pauses, though, as if he's at a loss for what to say."
-"Finally..."
-f "\"What happened, TJ?\""
-l "\"Flynn.\""
-"Leo stands up, and from his posture, I can tell the wolf is ready to fight."
-"Memories are starting to flow back...TJ, Flynn thinking he'd done something...something to—"
-"I stand up, as well."
-"Flynn may sound like a hardass, but physically Leo had him beat...easily."
-"Flynn can obviously tell that he might have a fight on his hands, though, and it's clear he doesn't want that."
-"He drops his shoulders, seeming to shrink, as if invisible strings that had been holding him up were cut. He turns to us, then gestures at TJ."
-f "\"I just want the truth. Can we just put a stop to this today, right now?\""
-f "\"I don't think you know how much of a  nightmare this has been for me, not really knowing...TJ—\""
-"TJ stares up at Flynn, muzzle set grimly."
-f "\"What happened to Sydney?\""
-"It's dead quiet. TJ stares at his lap, not moving."
-m "\"Come on, let's—\""
-"Flynn holds up a hand towards me, still staring at TJ."
-"Slowly, TJ looks up, his face still stoic, still made of stone."
-t "\"I already told you what happened...\""
-f "\"Bullshit!\""
-"Flynn steps forward, but Leo's there to grab the back of Flynn's shirt and swing him around."
+"Eu havia rezado silenciosamente para que o lince fugisse enquanto o Flynn estivesse com toda sua atenção voltada a nós, mas o TJ parece apático."
+"Como uma estátua, como se não houvesse alma nele."
+"No entanto, Flynn faz uma pausa, como se não soubesse o que dizer."
+"Por fim..."
+f "— O que aconteceu, TJ?"
+l "— Flynn."
+"Leo se levanta, e por sua postura, posso dizer que o lobo está pronto para brigar."
+"Memórias estão começando a voltar... TJ, Flynn pensando que ele tivesse feito algo... algo ao-"
+"Eu me levanto também."
+"Flynn pode parecer durão, mas fisicamente o Leo acaba com ele... facilmente."
+"No entanto, Flynn obviamente percebe que está prestes a começar uma briga, e está claro que ele não quer isso."
+"Ele abaixa os ombros, parecendo se encolher, como se as cordas invisíveis que o sustentavam tivessem sido cortadas. Ele se vira para nós, e depois faz um gesto ao TJ."
+f "— Eu só quero a verdade. Podemos dar um fim nisso hoje, aqui e agora?"
+f "— Eu não acho que vocês saibam o quanto isso tem sido um pesadelo pra mim, sem saber... TJ —"
+"TJ olha fixamente para Flynn, com o focinho fechado."
+f "—, o que aconteceu com o Sydney?"
+"Há um silêncio absoluto. TJ olha fixamente para seu colo, sem se mexer."
+m "— Olha, vamos-"
+"Flynn ergue a mão em minha direção, ainda olhando para o TJ."
+"Lentamente, TJ olha para cima, com o rosto ainda estoico, ainda feito de pedra."
+t "— Eu já te disse o que aconteceu..."
+f "— Mentira!"
+"Flynn dá um passo à frente, mas o Leo está lá para agarrar a parte de trás da camisa do Flynn e jogá-lo para trás."
 scene bg yeeyaw2 with dissolve
 show TJ Depressed1 at right
 show Leo Annoyed at left
@@ -254,37 +254,37 @@ $ renpy.pause(0.1, hard=True)
 hide Flynn
 play sound "mallet.mp3"
 with easeoutleft
-"I dodge out of the way as Flynn is flung back to land on his ass, kicking up a big cloud of dust."  
-f "\"Shit!\""
+"Eu saio do caminho enquanto o Flynn é jogado para trás e cai de bunda no chão, levantando uma grande nuvem de poeira."  
+f "— Merda!"
 show Leo Annoyed at center
 with moveinright
-l "\"Flynn, I swear to god, if you start a fight here I'll drop your stupid ass!\""
-"Everyone except TJ is standing now, staring at Flynn."
-"Flynn sits there, glaring up at Leo, obviously weighing his chances."
-"He seems to come up short, though, as he spits to the side and stands up, brushing off his pants as he turns away."
+l "— Flynn, eu juro por deus, se você começar uma briga aqui eu vou acabar contigo de vez!"
+"Todos exceto o TJ estão levantados agora, olhando para o Flynn."
+"Flynn fica sentado ali, olhando para o Leo, obviamente avaliando suas chances."
+"No entanto, ele parece não ter tido êxito, enquanto cospe para o lado e se levanta, limpando as calças enquanto vai embora."
 show Flynn Annoyed at farleft
 with dissolve
-f "\"You're all okay with not knowing? Fuck all of you.\""
-"He turns back around, hands in his pockets, a bitter look on his face."
-f "\"This whole thing was stupid, Leo. We're not even friends anymore.\""
+f "— Pra vocês tá de boa não saber? Vão se foder todos vocês."
+"Ele se vira para nós, com as mãos nos bolsos, e um olhar amargo no rosto."
+f "— Tudo isso foi burrice, Leo. Nós nem somos mais amigos."
 hide Flynn
 with moveoutleft
-"Flynn scuffs the ground before turning and walking towards the trail that goes back to Echo."
-l "\"Goddammit, Flynn!\""
-f "\"Fuck off...\""
-"Flynn keeps walking and it's pretty clear that he isn't coming back."
+"Flynn raspa o pé no chão antes de se virar e ir em direção à trilha que leva de volta à Echo."
+l "— Caralho, Flynn!"
+f "— Cai fora cacete..."
+"Flynn continua andando e está bem claro que ele não vai voltar."
 scene bg yeeyaw
 with dissolve
-"I raise a paw and rub it over my eyes. What was he doing?"
-"He's a...passionate guy that will sometimes just explode with all his insecurities before running away and hiding for a few days."
-"He's skewered us all like that before, that was classic Flynn."
-"But he was especially mean...dark."
-"And the part with TJ...I vaguely remember Flynn having some sort of suspicion, but that had been a long time ago."
-"Had he been sitting on that this whole time?"
-"I look to the left and see that TJ's gone."
-"Carl's still sitting down, but now it looks like he's pulling out a joint."
-"Leo's walking off down another trail, cursing while Jenna follows him."
-"I stand there, next to my chair, undecided..."
+"Levanto uma pata e a esfrego sobre meus olhos. O que ele tava fazendo?"
+"Ele é um cara... fervoroso que às vezes explode com todas suas inseguranças antes de fugir e desaparecer por alguns dias."
+"Ele já havia nos xingado dessa forma antes, esse foi o clássico Flynn."
+"Mas ele foi extremamente cruel... sinistro." # ele tá falando de agora ou de antes?
+"E a parte com o TJ... Eu me lembro vagamente do Flynn ter algum tipo de suspeita, mas isso foi há muito tempo atrás."
+"Será que ele tava carregando isso o tempo todo?"
+"Eu olho para a esquerda e vejo que o TJ se foi."
+"O Carl ainda está sentado, mas agora parece que ele está sacando um baseado."
+"Leo está andando por outra trilha, xingando enquanto a Jenna vai atrás dele."
+"Eu fico levantado, ao lado de minha cadeira, indeciso..."
 scene bg yeeyaw
 with dissolve
 
