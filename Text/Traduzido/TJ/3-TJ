@@ -1,0 +1,7 @@
+label findtj
+stop music 5.0
+play background "river.ogg" fadein 5.0
+"Eu estou realmente preocupado com o TJ."
+"Ele é um cara sensível e, depois de uma chicotada daquelas de alguém como o Flynn... Eu não consigo imaginar o estado em que ele está."
+
+return
