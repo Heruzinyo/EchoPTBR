@@ -33,12 +33,12 @@ scene bg route93 with opening_fade
 
 window show
 m "— Sim mãe, eu trouxe."  
-m "— Não, não eu peguei tudo."
+m "— Não, não, eu peguei tudo."
 m "— Não, o TJ tá com a gente, a gente foi buscar ele ontem..."
-m "— Não eu... Eu te {i}liguei{/i} ontem sim, mas você não atendeu."
+m "— Não, eu... Eu te {i}liguei{/i} ontem sim, mas você não atendeu."
 m "— Tá. Ok, eu vou tentar ligar de novo na próxima vez."
 m "— Então eu... É claro que elas estão limpas!"
-m "— Escuta, eu tô dirigindo agora, então-"
+m "— Escuta, eu tô dirigindo agora, então–"
 m "— É, então eu não deveria estar no celular, né? Eu vou desligar."
 m "— Ok, também te amo... tchau."
 "Suspiro e finalmente desligo a chamada, deixando o celular no meu colo."
@@ -47,7 +47,7 @@ t "— Ai, que amorzinha. Já faz um tempo que não vejo sua mãe. Como ela tá?
 "Levanto os ombros."
 m "— Tá bem, eu acho. Ela não me diria se não estivesse, de qualquer forma."
 "TJ encosta o pé no painel antes de bocejar."
-t "— Nossa, parece que estamos dirigindo há diiias."
+t "— Nossa, parece que estamos dirigindo faz diiias."
 "Normalmente o TJ não era de reclamar, mas a longa viagem estava obviamente começando a incomodá-lo."
 "Honestamente, isso já estava começando a incomodar todos nós."
 "Olho para ele."
@@ -66,7 +66,7 @@ m "— Por que você não escuta o rádio?"
 j "— Nem tenta, só tem música de velho por aqui. Mas eu tenho algumas músicas no meu celular."
 j "— Cê tem um cabo P2, Chase?"
 m "— Nesse trambolho? Não, mas como eu disse, tamo quase chegando."
-"Ter apenas nós três aqui é meio vergonhoso... desequilibradamente."  
+"Só nós três aqui é meio vergonhoso... mais do que o normal."  
 "Me pergunto se quando nosso grupinho estiver junto de novo, aquela velha química voltará."
 "Só de pensar em ver o Carl, o Flynn e o Leo de novo faz meu coração bater mais forte."
 play sound "gps.wav"
@@ -79,7 +79,7 @@ t "— Nossa!"
 m "— Desculpa! Desculpa..."
 # Swerve sound and image change
 t "— Chase! Meu deus, presta atenção."
-"TJ dá uma risadinha para aliviar o castigo, mas meu rosto fica avermelhado mesmo assim."
+"TJ dá uma risadinha para aliviar a bronca, mas meu rosto fica avermelhado mesmo assim."
 m "— Ei, eu e a Jenna saímos três horas do trajeto pra te buscar na CCU, cê poderia ter pego o ônibus." # CCU?
 t "— Não, não, eu fico agradecido. É só que eu prefiro que esse não seja o lugar onde eu morra, haha."
 "Continuamos pela rua Flint por cerca de quinze minutos em silêncio enquanto eu evito o número cada vez maior de buracos na estrada." # Eu acho que existe um outro termo melhor do que "buracos" mas eu não me lembro agora
@@ -119,8 +119,8 @@ play sound "gps.wav"
 j "— Entãão, essa reportagem que você tá fazendo, do que exatamente é ela?"
 "Desvio um pouco para evitar outro buraco."
 m "— Um dossiê de notícias."
-m "— Se você se lembra teve uma coisa absurda que aconteceu aqui no início de 1900."
-m "— Eu li um pouco sobre o assunto e é fudido pra caralho."
+m "— Se você se lembra, teve uma coisa absurda que aconteceu aqui no início da decada de 1900."
+m "— Eu li um pouco sobre o assunto e é fodido pra caralho."
 t "— Ei, Chase, olha a boca."
 m "— Então eu pensei em investigar um pouco mais."
 m "— Mas olha, honestamente, eu só preciso fazer algo que pareça bom o suficiente pra ser aprovado."
@@ -147,12 +147,12 @@ play sound "engineoff.mp3"
 m "— Aaagh. Eu espero que você esteja agradecido, TJ. Nunca mais quero dirigir por tanto tempo assim."
 t "— Obrigadoooo, Chase!"
 play sound "cardoor.mp3"
-"TJ sai do carro, claramente feliz por estar fora."
+"TJ sai do carro, claramente feliz por sair dele."
 play music "neutral.ogg"
 show TJ Sheepish with dissolve
 t "— Aaauuuuugghhh!"
 "TJ coloca as patas para trás e se estica dos pés às orelhas, e eu ouço alguns estalos."
-t "— Nossa, é muito bom estar fora."
+t "— Nossa, é muito bom estar do lado de fora."
 "Eu sorrio enquanto sigo ele e também me espreguiço, embora de forma menos extravagante. É bom ver o TJ voltando ao seu eu feliz."
 show Jenna Neutralhips behind TJ at right
 with easeinright
@@ -166,7 +166,7 @@ with dissolve
 
 scene bg motelfull with fade
 
-"Fiquei felizmente surpreso."
+"Fiquei surpreso."
 "Embora seja um pouco úmido, o quarto é espaçoso e em geral limpo, muito mais do que eu esperava de uma cidade como Echo."
 "Embora eu tenha vivido na cidade durante a maior parte de minha vida, eu nunca estive no hotel."
 show TJ at left with dissolve
@@ -182,11 +182,11 @@ t "— Então, quando a gente vai comer? Eu tô morrendo de fome!"
 "Meu estômago ronca. Não comemos desde o café da manhã e já tá no fim da tarde."
 "Pego meu celular, verificando minhas mensagens com o Leo."
 m "— O Leo disse que vai comprar sanduíches pra nós da lanchonete."
-t "— Você falou-"
+t "— Você falou–"
 m "— Sim, eu falei pra ele pedir pra substituírem pão por alface no seu, TJ."
 t "— Boa!"
 j "— Beleza, bem, já mandei mensagem pra todo mundo dizendo que estamos aqui. Vamos pelo menos arrumar as malas."
-j "— Vai ficar começar a ficar cheio e eu não quero todas as nossas coisas no meio."
+j "— Vai começar a ficar cheio e eu não quero todas as nossas coisas no meio."
 hide Jenna
 hide TJ
 with dissolve
@@ -260,7 +260,7 @@ show Carl Annoyed with dis
 c "— Cara, não mata a minha vibe."
 j "— E quanto à faculdade, tá pensando em voltar?"
 show Carl Rejected with dis
-c "— N-não muito, talvez..."
+c "— N–não muito, talvez..."
 "Carl está começando a perder aquele olhar distante ao baixar os olhos."
 show Jenna Smiling with dis
 j "— Você deveria! Você foi por quanto tempo, um semestre?"
@@ -269,9 +269,9 @@ j "— As aulas começam a ficar mais fáceis de lidar quando você se acostuma.
 c "— É, bem, não era exatamente o trabalho escolar que era o problema."
 t "— Você podeeriiia tentar fumar menos maconha, isso pode ajudar."
 show Carl Surprised with dis
-c "— Q-quê…?"
+c "— Q–quê…?"
 show Carl Surprised at farright with easeinright
-c "— Isso é-era um plano pra me botar em reabilitação, ou algo assim?"
+c "— Isso é–... era um plano pra me botar em reabilitação, ou algo assim?"
 "Carl olha para mim, como se estivesse pedindo ajuda."
 m "— Ei, não olha pra mim. Eu tive que lidar com eles pelas últimas dez horas."
 c "— É, acho que me esqueci de como eles podem ser meio chatinhos."
@@ -361,7 +361,7 @@ f "— A essa altura a maconha já deve tá saindo dos seus poros."
 "Flynn comicamente tapa as narinas enquanto abre a janela um pouco."
 show Carl Neutral at right with dissolve
 "Carl revira os olhos, se inclinando ainda mais e enfiando as patas nos bolsos."
-c "— Ai cala a boca. Acho que todos aqui concordam que meu cheiro é muito melhor do que a sua troca de pele." # "shedding" ?
+c "— Ah, cala a boca. Acho que todos aqui concordam que meu cheiro é muito melhor do que a sua troca de pele." # "shedding" ?
 c "— Nada como deixar uma grande pilha de pó de lagarto no sofá para a próxima pessoa."
 c "— E só pra te avisar, mano, o comentário sobre gambá foi especista."
 f "— E o comentário sobre lagarto não foi?"
@@ -397,12 +397,12 @@ f "— Ah, cala boca frescurento, eu tô só brincando!"
 "TJ luta hesitantemente contra o aperto."
 "Acho que o TJ pensava que teria um pouco de respeito, agora que somos todos adultos."
 t "— Ei, ai!"
-t "— Vo-você ainda falou!"
+t "— Vo–você ainda falou!"
 "Normalmente eu interviria para ajudar, mas já faz um tempo que não vejo o Flynn e o TJ brigando."
 "É engraçado demais pra parar."
-f "— Olha, sem pegar leve! Tanto pro seu deus todo-podero-AAGH!" # tá certo isso?
+f "— Olha, sem pegar leve! Tanto pro seu deus todo-podero–AAGH!" # tá certo isso?
 "TJ dá uma cotovelada no estômago do Flynn, tirando vantagem do lagarto por um segundo."
-t "— Ha! Viu? Deus trabalha de maneiras misteriosa-AI!"
+t "— Ha! Viu? Deus trabalha de maneiras misteriosa–AI!"
 "Flynn estende a mão e agarra um dos tufos das orelhas do TJ e da um puxão, fazendo com que o felino uive."
 c "— Falta! Aspectos das espécies!"
 "Aspectos das espécies foi algo que inventamos para tornar nossas brigas um pouco mais justas."
@@ -422,7 +422,7 @@ f "— Ah, nem tenta me falar sobre maciez, cuzão. Parece que você engoliu uma
 c "— Falando nisso, comida!"
 stop music fadeout 3.0
 scene bg motelbeds with fade
-"Todos nós passamos as malas para pegar nossa comida."
+"Todos nós passamos pelas malas para pegar nossa comida."
 "Um sanduíche de frango pra Jenna e o TJ, carne assada pra mim e o Leo, e três hambúrgueres vegetarianos grandes que quase ocupam sua própria sacola pro Carl."
 play music "neutral.ogg" fadein 3.0
 "Flynn, como sempre, não está comendo nada. Acho que é uma coisa de lagartos."
@@ -455,7 +455,7 @@ l "— Não engasga, Carl."
 "Eu decido manter a conversa sobre o trabalho do Leo, já que essa é a razão pela qual ele ainda está aqui."
 m "— Os negócios ainda tão indo bem?"
 l "— Aham! Payton tá crescendo, assim como o número de clientes."
-m "— Acho que foi bom seu pai ter mudado pra Echo, né?"
+m "— Acho que foi bom seu pai ter se mudado pra fora de Echo, né?"
 l "— Com certeza. Aqui tá virando uma cidade fantasma."
 l "— Provavelmente será em uma ou duas décadas."
 m "— De acordo com alguns padrões, já é."
@@ -472,12 +472,12 @@ t "— É que... deixa, não importa."
 j "— Tem certeza?"
 t "— É só a maionese, esqueci que eles colocam em tudo aqui, hehe."
 "Jenna levanta o pão do seu sanduíche, inspecionando seu conteúdo."
-j "— Hmm, a maionese não chegou a entrar no meu frango. Toma-"
-t "— Não, não precisa-"
+j "— Hmm, a maionese não chegou a entrar no meu frango. Toma–"
+t "— Não, não precisa–"
 "Jenna pega o sanduíche do TJ e troca seu frango grelhado."
 "Ela arranca a camada de alface com maionese do pão de alface dele antes de colocar o frango."
 j "— Pronto! Que tal?"
-t "— O-obrigado..."
+t "— O–obrigado..."
 show TJ Sheepish with dis
 "Foi então que o TJ subiu o olhar e viu o Leo e eu olhando para ele. Vejo suas orelhas se abaixarem de vergonha."
 t "— Que foi!?"
@@ -592,7 +592,7 @@ with dissolve
 "Você não o vê assim com frequência."
 "Flynn, por outro lado, está com sua cara \"tentando-não-sorrir\"."
 show Leo Embarassed with dis
-l "— Que-E-Eu..."
+l "— Que–E–Eu..."
 "Leo hesita, pressionado pelos olhares de todos na sala, e então ele suspira frustrado."
 l "— As pessoas não podem ficar tristes às vezes? Sim, as coisas têm sido mais... têm sido mais difíceis, mas tô bem."
 l "— Eu acho que tá bem claro que o FLYNN —"
@@ -677,7 +677,7 @@ show Carl Neutral at center
 show Flynn at farright
 show TJ at farleft
 with dissolve
-t "— N-não, eu só gosto da história."
+t "— N–não, eu só gosto da história."
 t "— É realmente meio profundo, se você pensar bem."
 f "— Era difícil pensar nisso quando metade das cenas eram em câmera lenta e ela tava dando saltos pra lá e pra cá."
 scene bg motelbeds
@@ -750,10 +750,10 @@ play loop "crickets.ogg" fadein 1.0
 window show
 "Nas duas horas seguintes assistimos um filme na TV, sem realmente prestar atenção, na maior parte do tempo conversando uns com os outros sobre como estávamos."
 "É bom estar de volta e parece que estamos continuando de onde paramos há três anos."
-"É bem bom."
+"É ótimo."
 "Finalmente, por volta das 22:00, Leo, Carl e Flynn vão embora."
 "Eu passo os próximos vinte minutos mexendo no equipamento, garantindo que tudo esteja em ordem para as filmagens do dia seguinte."
-"Quando o TJ termina de se arrumar para dormir no banheiro, eu também me arrumo antes de ir para a cama, da cabeça aos pés com o TJ."
+"Quando o TJ termina de se arrumar para dormir no banheiro, eu também me arrumo antes de ir para a cama, deitado da cabeça aos pés com o TJ."
 "Há um brilho suave no canto enquanto a Jenna está sentada à mesa lendo alguma coisa."
 "Deito na cama, olhando para o teto, esperando ela ir dormir..."
 stop loop fadeout 10.0

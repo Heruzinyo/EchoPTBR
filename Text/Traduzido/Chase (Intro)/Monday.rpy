@@ -40,7 +40,7 @@ stop background fadeout 2.0
 play background "river.ogg" fadein 3.0
 scene bg yeeyaw
 with dissolve
-l "— -tá sendo insuportável o dia todo."
+l "— –tá sendo insuportável o dia todo."
 f "— Só fica feliz por eu ter aceitado vir aqui."
 j "— Aparentemente teria sido melhor se você não tivesse."
 f "— Então eu deveria ir embora, porra?"
@@ -53,7 +53,7 @@ f "— Então eu deveria ir embora, porra?"
 m "— Ei, O que foi?"
 show Leo Annoyed at left
 with dissolve
-"Leo sighs."
+"Leo suspira."
 l "— Nada, já terminou com a filmagem?"
 m "— Hum, sim, já..."
 "O silêncio ainda é constrangedor, e eu não tenho ideia do que fazer comigo mesmo."
@@ -144,7 +144,7 @@ j "— Ah é! O Chase era como nosso próprio submarinozinho."
 "Eu tô começando a sentir aquela vibe de \"lontras são palhaços nadadores\" de novo. Mesmo assim, eu até que gosto da atenção."
 l "— A gente pedia que você nos levasse até o fundo pra que pudéssemos procurar por \"tesouros\"."
 "Leo faz um gesto de aspas na última palavra."
-m "— E sabe, provavelmente teríamos encontrado muito mais coisas se vocês não estivessem me puxando pra baixo. Eu me lembro quando-"
+m "— E sabe, provavelmente teríamos encontrado muito mais coisas se vocês não estivessem me puxando pra baixo. Eu me lembro quando–"
 show Flynn Annoyed at center
 with dissolve
 f "— Porra a gente vai realmente falar disso?"
@@ -169,7 +169,7 @@ play music "argument.ogg" fadein 10.0
 "A expressão do Flynn muda rapidamente. Seu rosto desvanece, e todos percebem isso." # A change comes over Flynn = traduzir literal?
 "Flynn se volta para mim, e eu me esforço para evitar meu reflexo de defesa." # tá traduzido correto isso?kkkkk
 f "— É, e por que ein Chase? Tu vai botar AQUILO na porra do teu documentário?"
-m "— Não! E-Eu... O Lago Emma é uma parte importante da história de Echo, Eu só..."
+m "— Não! E–Eu... O Lago Emma é uma parte importante da história de Echo, Eu só..."
 f "— Só o quê?"
 "Flynn levanta a sobrancelha para mim, e por fim eu simplesmente baixo os olhos."
 f "— Essa foi uma ideia burra pra caralho."
@@ -201,7 +201,7 @@ f "— Ah, é? Bem tu deixou toda a tua família pra trás sem sequer se despedi
 f "— Tu ao menos sabe o que tá rolando com eles agora, com o que eles tão lidando?"
 f "— É, olha só a grande heroina que você é ein."
 show Jenna Annoyed with dis
-j "— Você acha que eu-"
+j "— Você acha que eu–"
 show Leo Annoyed with dis
 l "— Para, Flynn."
 f "— Ah, nosso líder inquestionável. Não teríamos sido amigos sem você, não é?"
@@ -229,7 +229,7 @@ scene argument with dissolve
 f "— O que aconteceu, TJ?"
 l "— Flynn."
 "Leo se levanta, e por sua postura, posso dizer que o lobo está pronto para brigar."
-"Memórias estão começando a voltar... TJ, Flynn pensando que ele tivesse feito algo... algo ao-"
+"Memórias estão começando a voltar... TJ, Flynn pensando que ele tivesse feito algo... algo ao–"
 "Eu me levanto também."
 "Flynn pode parecer durão, mas fisicamente o Leo acaba com ele... facilmente."
 "No entanto, Flynn obviamente percebe que está prestes a começar uma briga, e está claro que ele não quer isso."
@@ -239,7 +239,7 @@ f "— Eu não acho que vocês saibam o quanto isso tem sido um pesadelo pra mim
 "TJ olha fixamente para Flynn, com o focinho fechado."
 f "—, o que aconteceu com o Sydney?"
 "Há um silêncio absoluto. TJ olha fixamente para seu colo, sem se mexer."
-m "— Olha, vamos-"
+m "— Olha, vamos–"
 "Flynn ergue a mão em minha direção, ainda olhando para o TJ."
 "Lentamente, TJ olha para cima, com o rosto ainda estoico, ainda feito de pedra."
 t "— Eu já te disse o que aconteceu..."
