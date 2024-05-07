@@ -1,33 +1,37 @@
-
+![](/Promotional/GitHub/Social&#32;Preview.jpg)
 # Esse projeto visa traduzir o jogo [Echo](https://echoproject.itch.io/echo) criado por [Echo Project](https://echoproject.itch.io) para Português Brasileiro.
 
-# Esse projeto encontra-se licenciado sob a licença [Creative Commons Atribuição-NãoComercial 4.0 Internacional. (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br).
+Esse projeto encontra-se licenciado sob a licença **[Creative Commons Atribuição-NãoComercial 4.0 Internacional. (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br)**.
 
-# É necessário baixar o [jogo original](https://echoproject.itch.io/echo) na versão 1.01 (1 Year Anniversary Version) antes de aplicar esse Patch.
+É necessário baixar o **[jogo original](https://echoproject.itch.io/echo)** na **versão 1.01 (1 Year Anniversary Version)** antes de aplicar esse Patch.
 
-# Por favor, leia o Manual da Tradução dentro dos arquivos do Patch.
+Por favor, leia o **Manual da Tradução** dentro dos arquivos do Patch.
 
-# Você pode criar um fork, clonar o repositório ou utilizar os arquivos no qual traduzi (os arquivos PSD ou a fonte corrigida para o português, por exemplo) como base para outros projetos, mas por favor não esqueça de me creditar.
+Você pode criar um fork, clonar o repositório ou utilizar os arquivos no qual traduzi (os arquivos PSD ou a fonte corrigida para o português, por exemplo) como base para outros projetos, mas por favor não esqueça de me creditar.
 
-# Foi tomada a decisão da utilização do travessão já que o texto original usa aspas para descrever falas, e como Visual Novels são "novels" (livros), e mídias como Light Novels quando traduzidas para o português são tratadas como livros e usam o travessão, para mim, fez sentido utilizá-lo também em uma Visual Novel.
+Foi tomada a decisão da utilização do travessão já que o texto original usa aspas para descrever falas, e como Visual Novels são "novels" (livros), e mídias como Light Novels quando traduzidas para o português são tratadas como livros e usam o travessão, para mim, fez sentido utilizá-lo também em uma Visual Novel.
 
 ## Instalação:<br><br>PC:
-### 1. Baixe e extraia o .7z do Patch (PC) e jogue os arquivos dentro da pasta do jogo.
+1. Baixe e extraia o .7z do Patch (PC) e jogue os arquivos dentro da pasta do jogo.
 ## Android:
-### Em respeito aos desenvolvedores, eu não distribuo o jogo completo, apenas o Patch, porém, é impossivel criar um APK que apenas contenha o Patch, então você precisará montar o APK manualmente.
-### ※ Eu recomendo que você veja o [vídeo tutorial (ainda não disponível)](https://github.com/Heruzinyo/EchoPTBR) de como instalar, pois é um pouco complicado.
-### ※ Observação: Caso você tenha alguma versão do jogo instalada que não esteja com esse Patch, você precisará desinstalá-la.
-### 1. Baixe e extraia o .7z do Patch (Android).
-### 2. Baixe o [APK original](https://echoproject.itch.io/echo) do jogo.
-### 3. Baixe o aplicativo [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) e [APK Explorer & Editor](https://github.com/apk-editor/APK-Explorer-Editor/releases).
-### 4. No ZArchiver, selecione o APK do jogo e escolha a opção: "Extrair para .<Nome arquivo>".
-### 5. Copie e cole os arquivos do Patch (Pasta: "EchoPTBR") na pasta extraida do APK.
-### 6. Selecione tudo dentro da pasta extraida do APK e aperte no botão para criar um arquivo: Selecione o formato zip; altere a extensão no nome de .zip para .apk; e coloque o nível de compressão em: "Sem compressão".
-### 7. No APK Explorer & Editor, aperte nos pontinhos no canto inferior direito e aperte em: "Assinar APKs com" e escolha: "Chave personalizada" e insira as chaves da pasta "EchoPTBR Keys" (1º private.pk8; 2º X509Certificate).
-### 8. Vá no menu APKs e aperte em: "Selecione de Armazenamento" e selecione o APK criado.
-### 9. Aperte em: "Instalar", e escolha a opção: "Apenas Reassinar".
-### 10. Quando o processo terminar, faça os passos 7 e 8 novamente, e então aperte em: "Instalar", e escolha a opção: "Reassinar & Instalar" e o APK será instalado!
-### ※ Observação: Caso você precise atualizar o Patch, você terá que fazer tudo isso de novo (exceto os passos 7 e 9, caso você não tenha desinstalado o aplicativo ignore eles, até mesmo no passo 10).
+Em respeito aos desenvolvedores, eu não distribuo o jogo completo, apenas o Patch, porém, é impossivel criar um APK que apenas contenha o Patch, então você precisará montar o APK manualmente.
+
+※ Eu recomendo que você veja o **[vídeo tutorial (ainda não disponível)](https://github.com/Heruzinyo/EchoPTBR)** de como instalar, pois é um pouco complicado.
+
+※ **Observação:** Caso você tenha alguma versão do jogo instalada que não esteja com esse Patch, você precisará desinstalá-la.
+
+1. Baixe e extraia o .7z do Patch (Android).
+2. Baixe o [APK original](https://echoproject.itch.io/echo) do jogo.
+3. Baixe o aplicativo [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) e [APK Explorer & Editor](https://github.com/apk-editor/APK-Explorer-Editor/releases).
+4. No ZArchiver, selecione o APK do jogo e escolha a opção: "Extrair para .\<Nome arquivo>".
+5. Copie e cole os arquivos do Patch (Pasta: "EchoPTBR") na pasta extraida do APK.
+6. Selecione tudo dentro da pasta extraida do APK e aperte no botão para criar um arquivo: Selecione o formato zip; altere a extensão no nome de .zip para .apk; e coloque o nível de compressão em: "Sem compressão".
+7. No APK Explorer & Editor, aperte nos pontinhos no canto inferior direito e aperte em: "Assinar APKs com" e escolha: "Chave personalizada" e insira as chaves da pasta "EchoPTBR Keys" (1º private.pk8; 2º X509Certificate).
+8. Vá no menu APKs e aperte em: "Selecione de Armazenamento" e selecione o APK criado.
+9. Aperte em: "Instalar", e escolha a opção: "Apenas Reassinar".
+10. Quando o processo terminar, faça os passos 7 e 8 novamente, e então aperte em: "Instalar", e escolha a opção: "Reassinar & Instalar" e o APK será instalado!
+
+※ **Observação:** Caso você precise atualizar o Patch, você terá que fazer tudo isso de novo (exceto os passos 7 e 9, caso você não tenha desinstalado o aplicativo ignore eles, até mesmo no passo 10).
 
 ## 【Desenvolvedores】 Os arquivos pertencem à estas pastas:
     Fonts/Patched:
@@ -44,6 +48,17 @@
     Scripts - _errorhandling, 00accessibility 00action_file, 00keymap, 00layout, 00library, 00preferences - renpy/common
     Scripts - screens - /game
     README.html - O mesmo diretório onde se encontra o .exe do jogo
+
+## 【Desenvolvedores】 Ferramentas utilizadas:
+Edição de Imagem: **[Adobe Photoshop](https://www.reddit.com/r/GenP/)**
+
+Edição de Texto: **[Visual Studio Code](https://code.visualstudio.com)**
+
+Edição de Fonte: **[FontForge](https://fontforge.org/en-US/)**
+
+Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/APKToolGUI)**
+
+※ Não é necessário descriptografar os arquivos do jogo, eles não são criptografados.
 
 ## Progresso:<br><br>Geral
 

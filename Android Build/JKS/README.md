@@ -1,7 +1,6 @@
+# JKS para assinar o APK. O alias é "EchoPTBR" e todas as senhas são "EchoPTBR".
 
-# JKS para assinar o APK. O alias é "EchoPTBR" e todas as senhas são "EchoPTBR"
-
-### PK8:
+## PK8:
 
 `EchoPTBR.keystore criado com o Android Studio.`
 
@@ -11,6 +10,6 @@
 
 `openssl pkcs8 -topk8 -outform DER -in intermediate.rsa.pem -inform PEM -out private.pk8 -nocrypt`
 
-### X509Certificate:
+## X509Certificate:
 
 `keytool -list -rfc -keystore EchoPTBR.keystore -alias EchoPTBR -storepass EchoPTBR`
