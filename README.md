@@ -67,7 +67,7 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 |    Gráficos   |   86/111 (77%)   |  ![Progress](https://progress-bar.dev/77/?&width=150) | 74/111 (66%) | ![Progress](https://progress-bar.dev/66/?&width=150) |
 |    **Rota**   |   **Tradução**   |                                                       |  **Revisão** |                                                      |
 | Chase (Intro) | 2145/2145 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/2145 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       TJ      |  1048/6782 (15%) |  ![Progress](https://progress-bar.dev/15/?&width=150) |  0/6782 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|       TJ      |  1350/6782 (20%) |  ![Progress](https://progress-bar.dev/20/?&width=150) |  0/6782 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Carl     |    0/9642 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/9642 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Leo      |   0/10498 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/10498 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 |     Jenna     |   0/12010 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/12010 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
@@ -97,7 +97,7 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 |     Monday-TJ    | 288/288 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/288 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 | 3-TJ (Monday-TJ) |   7/7 (100%)   | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/7 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |    TJ-Tuesday    | 753/753 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/753 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   TJ-Wednesday   |   0/1159 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1159 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   TJ-Wednesday   | 302/1159 (26%) |  ![Progress](https://progress-bar.dev/26/?&width=150) | 0/1159 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |    TJ-Thursday   |   0/1831 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |     TJ-Friday    |   0/895 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/895 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |    TJ-Saturday   |   0/1849 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1849 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |

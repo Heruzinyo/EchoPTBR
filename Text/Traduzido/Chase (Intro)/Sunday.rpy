@@ -883,7 +883,7 @@ m "— Eu sei que ela era pra simbolizar o fato de sermos as pedras... um do out
 l "— Mas muitas coisas boas também aconteceram aqui! Ninguém deve se esquecer de onde vieram."
 m "— Às vezes eu gostaria que sim."
 "A essa altura o Leo se afrouxou um pouco, ficando meio caído, com as orelhas abaixadas."
-l "— Espera, cê disse 'era'. Voce não... cê não jogou ela–"
+l "— Espera, cê disse \"era\". Você não... cê não jogou ela–"
 m "— Não... não eu ainda tenho ela. Tá guardada em uma gaveta no meu dormitório."
 m "— Honestamente, se fosse outra coisa, tipo uma daqueles pulseiras infinito que vimos, eu não me incomodaria em usar..."
 l "— Então porra, por que cê não falou nada quando estávamos comprando?"

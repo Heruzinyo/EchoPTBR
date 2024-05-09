@@ -2,7 +2,7 @@
 
 ## PK8:
 
-`EchoPTBR.keystore criado com o Android Studio.`
+`EchoPTBR.keystore (EchoPTBR.jks) criado com o Android Studio.`
 
 `keytool -importkeystore -srckeystore EchoPTBR.keystore -destkeystore intermediate.p12 -srcstoretype JKS -deststoretype PKCS12`
 
