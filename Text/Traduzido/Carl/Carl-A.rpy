@@ -2704,7 +2704,7 @@ screen credits_text():
             vbox:
                 label " " text_style "cred3_text"
                 label "Revisão da Tradução" text_style "cred2_text"
-                text "dementos"
+                text "mementos"
 
             vbox:
                 label " " text_style "cred3_text"

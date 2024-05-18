@@ -15,7 +15,7 @@ play background "river.ogg" fadein 2.5
 "Ao sairmos da van do Leo, eu decido fazer algumas filmagens do lago imediatamente."
 "Ela não terá muita presença no final, então acho que vou narrar sobre ela mais tarde." # no final?
 "O verdadeiro lago fica a apenas alguns minutos a pé daqui."
-"É um pouco difícil navegar entre os arbustos de sálvia, e eu sei que terei que verificar por carrapatos mais tarde."
+"É um pouco difícil navegar entre os arbustos, e eu sei que terei que verificar por carrapatos mais tarde."
 stop background fadeout 2.0
 scene bg lakeemma
 with dissolve

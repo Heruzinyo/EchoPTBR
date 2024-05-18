@@ -11,6 +11,8 @@ Você pode criar um fork, clonar o repositório ou utilizar os arquivos no qual 
 
 Foi tomada a decisão da utilização do travessão já que o texto original usa aspas para descrever falas, e como Visual Novels são "novels" (livros), e mídias como Light Novels quando traduzidas para o português são tratadas como livros e usam o travessão, para mim, fez sentido utilizá-lo também em uma Visual Novel.
 
+A tradução é totalmente gratuita, porém, caso você queira me dar um apoio:<br>**PIX: dea8d54b-cf74-4c13-bf7f-8b0aa52f0b94**<br>Ou scaneie o QR Code abaixo:<br><img width="300" src="https://raw.githubusercontent.com/Heruzinyo/Heruzinyo/main/Images/PIX%20QR%20Code.png">
+
 ## Instalação:<br><br>PC:
 1. Baixe e extraia o .7z do Patch (PC) e jogue os arquivos dentro da pasta do jogo.
 ## Android:
@@ -22,16 +24,14 @@ Em respeito aos desenvolvedores, eu não distribuo o jogo completo, apenas o Pat
 
 1. Baixe e extraia o .7z do Patch (Android).
 2. Baixe o [APK original](https://echoproject.itch.io/echo) do jogo.
-3. Baixe o aplicativo [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) e [APK Explorer & Editor](https://github.com/apk-editor/APK-Explorer-Editor/releases).
+3. Baixe o aplicativo [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) e [apk-signer](https://play.google.com/store/apps/details?id=com.haibison.apksigner).
 4. No ZArchiver, selecione o APK do jogo e escolha a opção: "Extrair para .\<Nome arquivo>".
 5. Copie e cole os arquivos do Patch (Pasta: "EchoPTBR") na pasta extraida do APK.
 6. Selecione tudo dentro da pasta extraida do APK e aperte no botão para criar um arquivo: Selecione o formato zip; altere a extensão no nome de .zip para .apk; e coloque o nível de compressão em: "Sem compressão".
-7. No APK Explorer & Editor, aperte nos pontinhos no canto inferior direito e aperte em: "Assinar APKs com" e escolha: "Chave personalizada" e insira as chaves da pasta "EchoPTBR Keys" (1º private.pk8; 2º X509Certificate).
-8. Vá no menu APKs e aperte em: "Selecione de Armazenamento" e selecione o APK criado.
-9. Aperte em: "Instalar", e escolha a opção: "Apenas Reassinar".
-10. Quando o processo terminar, faça os passos 7 e 8 novamente, e então aperte em: "Instalar", e escolha a opção: "Reassinar & Instalar" e o APK será instalado!
+7. No apk-signer, vá em: "Chaves", aperte no clipe no canto superior direito e escolha: "Importar dos arquivos locais" e selecione o arquivo: "EchoPTBR.jks". Insira "EchoPTBR" nas duas senhas e aperte em confirmar.
+8. Vá em: "Assinatura", aperte em: "Assinar um arquivo", escolha: "EchoPTBR.jks", selecione o APK criado e o diretório onde o APK assinado será inserido. Espere o APK ser assinado e depois disso instale-o!
 
-※ **Observação:** Caso você precise atualizar o Patch, você terá que fazer tudo isso de novo (exceto os passos 7 e 9, caso você não tenha desinstalado o aplicativo ignore eles, até mesmo no passo 10).
+※ **Observação:** Caso você precise atualizar o Patch, você terá que fazer tudo isso de novo (exceto o passo 7 caso você não tenha desinstalado o aplicativo).
 
 ## 【Desenvolvedores】 Os arquivos pertencem à estas pastas:
     Fonts/Patched:
@@ -64,10 +64,10 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 
 |   **Pasta**   |   **Tradução**   |                                                       |  **Revisão** |                                                      |
 |:-------------:|:----------------:|:-----------------------------------------------------:|:------------:|:----------------------------------------------------:|
-|    Gráficos   |   86/111 (77%)   |  ![Progress](https://progress-bar.dev/77/?&width=150) | 74/111 (66%) | ![Progress](https://progress-bar.dev/66/?&width=150) |
+|    Gráficos   |   107/111 (96%)  |  ![Progress](https://progress-bar.dev/96/?&width=150) | 80/111 (72%) | ![Progress](https://progress-bar.dev/72/?&width=150) |
 |    **Rota**   |   **Tradução**   |                                                       |  **Revisão** |                                                      |
 | Chase (Intro) | 2145/2145 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/2145 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       TJ      |  1350/6782 (20%) |  ![Progress](https://progress-bar.dev/20/?&width=150) |  0/6782 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|       TJ      |  2207/6782 (32%) |  ![Progress](https://progress-bar.dev/32/?&width=150) |  0/6782 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Carl     |    0/9642 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/9642 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 |      Leo      |   0/10498 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/10498 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 |     Jenna     |   0/12010 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/12010 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
@@ -79,7 +79,7 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 | **Tipo** | **Tradução** |                                                       | **Revisão** |                                                      |
 |:--------:|:------------:|:-----------------------------------------------------:|:-----------:|:----------------------------------------------------:|
 |  images  | 62/62 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 51/62 (82%) | ![Progress](https://progress-bar.dev/82/?&width=150) |
-|    ui    |  24/49 (49%) |  ![Progress](https://progress-bar.dev/49/?&width=150) | 23/49 (47%) | ![Progress](https://progress-bar.dev/47/?&width=150) |
+|    ui    |  45/49 (91%) |  ![Progress](https://progress-bar.dev/91/?&width=150) | 29/49 (59%) | ![Progress](https://progress-bar.dev/59/?&width=150) |
 
 ## Chase (Intro)
 
@@ -92,15 +92,15 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 
 ## TJ
 
-|      **Dia**     |  **Tradução**  |                                                       | **Revisão** |                                                     |
-|:----------------:|:--------------:|:-----------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|     Monday-TJ    | 288/288 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/288 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| 3-TJ (Monday-TJ) |   7/7 (100%)   | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/7 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    TJ-Tuesday    | 753/753 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/753 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   TJ-Wednesday   | 302/1159 (26%) |  ![Progress](https://progress-bar.dev/26/?&width=150) | 0/1159 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    TJ-Thursday   |   0/1831 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     TJ-Friday    |   0/895 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/895 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    TJ-Saturday   |   0/1849 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1849 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      **Dia**     |   **Tradução**   |                                                       | **Revisão** |                                                     |
+|:----------------:|:----------------:|:-----------------------------------------------------:|:-----------:|:---------------------------------------------------:|
+|     Monday-TJ    |  288/288 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/288 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| 3-TJ (Monday-TJ) |    7/7 (100%)    | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/7 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    TJ-Tuesday    |  753/753 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/753 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   TJ-Wednesday   | 1159/1159 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/1159 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    TJ-Thursday   |    0/1831 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|     TJ-Friday    |    0/895 (0%)    |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/895 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    TJ-Saturday   |    0/1849 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1849 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## Carl
 
