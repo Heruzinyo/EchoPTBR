@@ -2699,11 +2699,16 @@ screen credits_text():
             vbox:
                 label " " text_style "cred3_text"
                 label "Tradução em Português Brasileiro" text_style "cred2_text"
+                image "images/credits/kurage_studio.png"
+
+            vbox:
+                label " " text_style "cred3_text"
+                label "KURAGE STUDIO | Tradução" text_style "cred2_text"
                 text "Heruzinyo"
 
             vbox:
                 label " " text_style "cred3_text"
-                label "Revisão da Tradução" text_style "cred2_text"
+                label "KURAGE STUDIO | Revisão" text_style "cred2_text"
                 text "mementos"
 
             vbox:
@@ -2975,7 +2980,7 @@ screen credits_text():
                 text "\"Because for Everything...\" Patches"
                 text "(http://www.youtube.com/c/NCALIB)"
                 text "Cortesia de:"
-                text "pATCHES e {i}NCALIB/i}"
+                text "pATCHES e {i}NCALIB{/i}"
 
 
             vbox:
@@ -3243,7 +3248,7 @@ screen credits_text():
                 text "\"The Wasteland\" Ross Bugden"
                 text "(https://instagram.com/rossbugden/​)"
                 text "Licenciado sob Creative Commons:"
-                text "By Attribution 4.0 International License"
+                text "Por Licença de Atribuição 4.0 Internacional"
                 text "https://creativecommons.org/licenses/by/4.0/"
 
             vbox:
@@ -3290,7 +3295,8 @@ screen credits_text():
 
             vbox:
                 label " " text_style "cred3_text"
-                text "Todas as incríveis pessoas que nos apoiaram no Patreon nos últimos sete anos."
+                text "Todas as incríveis pessoas que nos apoiaram"
+                text "no Patreon nos últimos sete anos."
 
 
 

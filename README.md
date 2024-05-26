@@ -33,6 +33,14 @@ Em respeito aos desenvolvedores, eu não distribuo o jogo completo, apenas o Pat
 
 ※ **Observação:** Caso você precise atualizar o Patch, você terá que fazer tudo isso de novo (exceto o passo 7 caso você não tenha desinstalado o aplicativo).
 
+## Créditos
+![](/Promotional/KURAGE&#32;STUDIO/KURAGE&#32;STUDIO&#32;Logo&#32;Horizontal.png)
+
+| **Função** | **Membros** |
+| :--------: | :---------: |
+|  Tradução  |  Heruzinyo  |
+|  Revisão   |  mementos   |
+
 ## 【Desenvolvedores】 Os arquivos pertencem à estas pastas:
     Fonts/Patched:
     belligerent.ttf - game/ui ; game/images/credits
@@ -52,6 +60,8 @@ Em respeito aos desenvolvedores, eu não distribuo o jogo completo, apenas o Pat
 ## 【Desenvolvedores】 Ferramentas utilizadas:
 Edição de Imagem: **[Adobe Photoshop](https://www.reddit.com/r/GenP/)**
 
+Edição de Vídeo: **[Adobe Premiere Pro](https://www.reddit.com/r/GenP/)**
+
 Edição de Texto: **[Visual Studio Code](https://code.visualstudio.com)**
 
 Edição de Fonte: **[FontForge](https://fontforge.org/en-US/)**
@@ -62,101 +72,101 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 
 ## Progresso:<br><br>Geral
 
-|   **Pasta**   |   **Tradução**   |                                                       |  **Revisão** |                                                      |
-|:-------------:|:----------------:|:-----------------------------------------------------:|:------------:|:----------------------------------------------------:|
-|    Gráficos   |   107/111 (96%)  |  ![Progress](https://progress-bar.dev/96/?&width=150) | 80/111 (72%) | ![Progress](https://progress-bar.dev/72/?&width=150) |
-|    **Rota**   |   **Tradução**   |                                                       |  **Revisão** |                                                      |
-| Chase (Intro) | 2145/2145 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/2145 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       TJ      |  2207/6782 (32%) |  ![Progress](https://progress-bar.dev/32/?&width=150) |  0/6782 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Carl     |    0/9642 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/9642 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Leo      |   0/10498 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/10498 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     Jenna     |   0/12010 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/12010 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     Flynn     |   0/15534 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/15534 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   SideStory   |    0/2640 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/2640 (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   **Pasta**   |   **Tradução**   |                                                       | **Revisão**  |                                                      |
+| :-----------: | :--------------: | :---------------------------------------------------: | :----------: | :--------------------------------------------------: |
+|   Gráficos    |  109/113 (96%)   | ![Progress](https://progress-bar.dev/96/?&width=150)  | 80/113 (70%) | ![Progress](https://progress-bar.dev/70/?&width=150) |
+|   **Rota**    |   **Tradução**   |                                                       | **Revisão**  |                                                      |
+| Chase (Intro) | 2145/2145 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/2145 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|      TJ       | 2304/6782 (33%)  | ![Progress](https://progress-bar.dev/33/?&width=150)  | 0/6782 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|     Carl      |   0/9642 (0%)    |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/9642 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|      Leo      |   0/10498 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/10498 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|     Jenna     |   0/12010 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/12010 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|     Flynn     |   0/15534 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/15534 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|   SideStory   |   0/2640 (0%)    |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/2640 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150)  |
 
 ## Gráficos
 
 | **Tipo** | **Tradução** |                                                       | **Revisão** |                                                      |
-|:--------:|:------------:|:-----------------------------------------------------:|:-----------:|:----------------------------------------------------:|
-|  images  | 62/62 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 51/62 (82%) | ![Progress](https://progress-bar.dev/82/?&width=150) |
-|    ui    |  45/49 (91%) |  ![Progress](https://progress-bar.dev/91/?&width=150) | 29/49 (59%) | ![Progress](https://progress-bar.dev/59/?&width=150) |
+| :------: | :----------: | :---------------------------------------------------: | :---------: | :--------------------------------------------------: |
+|  images  | 64/64 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 51/64 (79%) | ![Progress](https://progress-bar.dev/79/?&width=150) |
+|    ui    | 45/49 (91%)  | ![Progress](https://progress-bar.dev/91/?&width=150)  | 29/49 (59%) | ![Progress](https://progress-bar.dev/59/?&width=150) |
 
 ## Chase (Intro)
 
-|      **Dia**     |  **Tradução**  |                                                       | **Revisão** |                                                     |
-|:----------------:|:--------------:|:-----------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|     Saturday     | 772/772 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/772 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| 1-5 ("Saturday") | 114/114 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/114 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Sunday      | 960/960 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/960 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Monday      | 299/299 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/299 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|     **Dia**      |  **Tradução**  |                                                       | **Revisão** |                                                     |
+| :--------------: | :------------: | :---------------------------------------------------: | :---------: | :-------------------------------------------------: |
+|     Saturday     | 772/772 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/772 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| 1-5 ("Saturday") | 114/114 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/114 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Sunday      | 960/960 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/960 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Monday      | 299/299 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/299 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## TJ
 
-|      **Dia**     |   **Tradução**   |                                                       | **Revisão** |                                                     |
-|:----------------:|:----------------:|:-----------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|     Monday-TJ    |  288/288 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/288 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| 3-TJ (Monday-TJ) |    7/7 (100%)    | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/7 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    TJ-Tuesday    |  753/753 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/753 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|     **Dia**      |   **Tradução**   |                                                       | **Revisão** |                                                     |
+| :--------------: | :--------------: | :---------------------------------------------------: | :---------: | :-------------------------------------------------: |
+|    Monday-TJ     |  288/288 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/288 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| 3-TJ (Monday-TJ) |    7/7 (100%)    | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/7 (0%)   | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    TJ-Tuesday    |  753/753 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/753 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |   TJ-Wednesday   | 1159/1159 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/1159 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    TJ-Thursday   |    0/1831 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     TJ-Friday    |    0/895 (0%)    |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/895 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    TJ-Saturday   |    0/1849 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1849 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   TJ-Thursday    |   97/1831 (5%)   |  ![Progress](https://progress-bar.dev/5/?&width=150)  | 0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    TJ-Friday     |    0/895 (0%)    |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/895 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   TJ-Saturday    |   0/1849 (0%)    |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1849 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## Carl
 
-|          **Dia**         | **Tradução** |                                                     | **Revisão** |                                                     |
-|:------------------------:|:------------:|:---------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|        Monday-Carl       |  0/160 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/160 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       Carl-Tuesday       |  0/692 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/692 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Carl-Wednesday      |  0/909 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/909 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       Carl-Thursday      |  0/553 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/553 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|        Carl-Friday       |  0/219 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/219 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       Carl-Saturday      |  0/538 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/538 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       Carl-Mansion1      |  0/934 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/934 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       Carl-Mansion2      |  0/788 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/788 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| transfer (Carl-Mansion2) |   0/78 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/78 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|          Carl-A          |  0/2653 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/2653 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|          Carl-B          |  0/2118 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/2118 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|         **Dia**          | **Tradução** |                                                     | **Revisão** |                                                     |
+| :----------------------: | :----------: | :-------------------------------------------------: | :---------: | :-------------------------------------------------: |
+|       Monday-Carl        |  0/160 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/160 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|       Carl-Tuesday       |  0/692 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/692 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Carl-Wednesday      |  0/909 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/909 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Carl-Thursday       |  0/553 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/553 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|       Carl-Friday        |  0/219 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/219 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Carl-Saturday       |  0/538 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/538 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Carl-Mansion1       |  0/934 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/934 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|      Carl-Mansion2       |  0/788 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/788 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| transfer (Carl-Mansion2) |  0/78 (0%)   | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/78 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|          Carl-A          | 0/2653 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/2653 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|          Carl-B          | 0/2118 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/2118 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## Leo
 
 |    **Dia**    | **Tradução** |                                                     | **Revisão** |                                                     |
-|:-------------:|:------------:|:---------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|      Leo      |  0/856 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/856 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| Leo-Wednesday |  0/865 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/865 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|  Leo-Thursday |  0/706 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/706 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   Leo-Friday  |  0/290 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/290 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| Leo-SaturdayA |  0/1002 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1002 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| Leo-SaturdayB |  0/1028 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1028 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   Leo_act_2   |  0/5744 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/5744 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     leoend    |   0/7 (0%)   | ![Progress](https://progress-bar.dev/0/?&width=150) |   0/7 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| :-----------: | :----------: | :-------------------------------------------------: | :---------: | :-------------------------------------------------: |
+|      Leo      |  0/856 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/856 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| Leo-Wednesday |  0/865 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/865 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| Leo-Thursday  |  0/706 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/706 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|  Leo-Friday   |  0/290 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/290 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| Leo-SaturdayA | 0/1002 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1002 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| Leo-SaturdayB | 0/1028 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/1028 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   Leo_act_2   | 0/5744 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/5744 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    leoend     |   0/7 (0%)   | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/7 (0%)   | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## Jenna
 
-|         **Dia**        | **Tradução** |                                                     |  **Revisão** |                                                     |
-|:----------------------:|:------------:|:---------------------------------------------------:|:------------:|:---------------------------------------------------:|
+|        **Dia**         | **Tradução** |                                                     | **Revisão**  |                                                     |
+| :--------------------: | :----------: | :-------------------------------------------------: | :----------: | :-------------------------------------------------: |
 |      Monday-Jenna      |  0/157 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/157 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| 3-Jenna (Monday-Jenna) |   0/37 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |   0/37 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      Jenna-Tuesday     |  0/691 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/691 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     Jenna-Wednesday    | 0/11125 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/11125 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| 3-Jenna (Monday-Jenna) |  0/37 (0%)   | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/37 (0%)   | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|     Jenna-Tuesday      |  0/691 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/691 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|    Jenna-Wednesday     | 0/11125 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/11125 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## Flynn
 
-|     **Dia**     | **Tradução** |                                                     |  **Revisão** |                                                     |
-|:---------------:|:------------:|:---------------------------------------------------:|:------------:|:---------------------------------------------------:|
-|   Monday-Flynn  |  0/353 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/353 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|     **Dia**     | **Tradução** |                                                     | **Revisão**  |                                                     |
+| :-------------: | :----------: | :-------------------------------------------------: | :----------: | :-------------------------------------------------: |
+|  Monday-Flynn   |  0/353 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/353 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |  Flynn-Tuesday  |  0/612 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/612 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
 | Flynn-Wednesday |  0/801 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/801 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|  Flynn-Thursday | 0/13768 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/13768 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| Flynn-Thursday  | 0/13768 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/13768 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 ## SideStory
 
-|  **Dia** | **Tradução** |                                                     | **Revisão** |                                                     |
-|:--------:|:------------:|:---------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|   Date   |  0/248 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/248 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|  Runaway |  0/508 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/508 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|  Lights  |  0/463 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/463 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   Phone  |  0/309 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/309 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   Party  |  0/450 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/450 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| Metaphor |  0/251 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/251 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   Trip   |  0/411 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |  0/411 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| **Dia**  | **Tradução** |                                                     | **Revisão** |                                                     |
+| :------: | :----------: | :-------------------------------------------------: | :---------: | :-------------------------------------------------: |
+|   Date   |  0/248 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/248 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| Runaway  |  0/508 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/508 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|  Lights  |  0/463 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/463 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|  Phone   |  0/309 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/309 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|  Party   |  0/450 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/450 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| Metaphor |  0/251 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/251 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   Trip   |  0/411 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) | 0/411 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
