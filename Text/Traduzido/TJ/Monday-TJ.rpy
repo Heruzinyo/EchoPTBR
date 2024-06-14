@@ -74,7 +74,7 @@ m "— Tipo, Eu não acredito que ele tá fazendo isso..."
 m "— Eu acho que é só porque ele era um grande amigo do Sydney, e ele só quer mais do que a verdade."
 "Eu olho de lado para o TJ."
 "Ele só está sentado ali, olhando para o chão."
-m "— E eu acho que você foi o único viu ele... viu o que aconteceu... então ele só tem você como alvo."
+m "— E eu acho que você foi o único que viu ele... viu o que aconteceu... então ele só tem você como alvo."
 t "— Eu vi ele afogando."
 "Eu não falo nada, mas me sinto retraído internamente." 
 "Rapidamente lágrimas estão escorrendo pelo rosto do TJ, mas ele não se preocupa em enxugá-las."
@@ -122,10 +122,10 @@ play music "drone.ogg" fadein 3.0
 "TJ sentado em choque, Jenna correndo de volta para a cidade, Flynn me puxando para a água..."
 "... Eu, segurado pela nuca, puxado para a costa..." # tá certo isso?kkkkk
 "Carl sentado em uma pedra, chorando, Leo começando a fazer uma reanimação cardíaca..."
-"E Sydney... Sydney apenas encara."
+"E Sydney... Sydney apenas encara o céu."
 "Sirenes, rotores de helicóptero, adultos em todo lugar."
 "Estou em casa, mamãe está me abraçando. Papai coloca meu filme favorito. Eu assisto."
-"Mas mesmo assim... Sydney encara."
+"Mas mesmo assim... Sydney encara o céu."
 scene bg riverbank
 show TJ Rejected at center
 with opening_fade
@@ -145,7 +145,7 @@ t "— Ele estragou toda a viagem..."
 m "— O Flynn? Não estragou não."
 "TJ finalmente olha para mim, e fico espantado como ele parece acabado e triste."
 "Eu sinto raiva florescer em meu peito, tudo direcionado ao Flynn."
-"Que fudido egoísta, achando que tinha o direito de estragar a diversão de todos só porque estava se sentindo um merda."
+"Que fodido egoísta, achando que tinha o direito de estragar a diversão de todos só porque estava se sentindo um merda."
 "Se ele estivesse aqui agora eu tenho certeza de que eu daria um soco nele bem no estômago."
 m "— Escuta, a gente não precisa sair todos juntos pra se divertir. Nós nos divertimos no parque só com você, eu e o Carl, lembra?"
 m "— Se o Flynn quer ser um babaca então deixa ele, vamos fazer nossas próprias coisas."
@@ -162,7 +162,7 @@ show TJ with dis
 t "— E podemos levar água! É só jogar ela em você a cada meia hora."
 t "— É assim que eu aguento, além de fazer muitas pausas."
 "TJ se encosta e afasta as pernas."
-"Eu vejo que ele está começando a ficar animado com a perspectiva irmos em uma trilha, e isso faz me sentir melhor."
+"Eu vejo que ele está começando a ficar animado com a perspectiva de irmos em uma trilha, e isso faz me sentir melhor."
 m "— Bem, se {i}você{/i} consegue, acho que não devo reclamar."
 "Eu olho para sua forma felpuda que, por si só, é suficiente para me fazer suar ainda mais do que já estou."
 m "— Sabe, eu sempre achei que você voltaria depois que terminasse o ensino médio."
@@ -179,7 +179,7 @@ t "— Ha, isso eu acho... e neve."
 "No entanto, muita neve realmente parecia interessante para mim. Teríamos sorte se víssemos um único floco por ano aqui."
 t "— Entãooo, você tava falando sério sobre ir numa trilha comigo?"
 m "— É claro! Eu vou levar alguns dos meus equipamentos também. Acho que quero tirar algumas filmagens do cânion."
-t "— Okei!"
+t "— Okay!"
 "Ele agita seus pézinhos felpudos para frente e para trás, e eu escondo um sorrisinho diante seu entusiasmo."
 t "— Tá bom, então vamos ter que nos levantar por volta das seis."
 m "— Ah..."
@@ -203,14 +203,14 @@ t "— Tá sim."
 "TJ responde antes de mim, e independentemente dele estar bem ou não, ele soa bastante feliz."
 l "— Bem, beleza então."
 hide Leo with dissolve
-"Entramos na van nesse momento, ninguém diz nada enquanto fazíamos a curta viagem de volta ao mhtel."
+"Entramos na van nesse momento, ninguém diz nada enquanto fazíamos a curta viagem de volta ao hotel."
 stop background fadeout 3.0
 scene bg parkingloteve
 with fade
 play music "neutral.ogg"
 "Enquanto saímos Leo diz a todos que vai ter uma conversa com o Flynn e, que apesar da tarde estragada, ainda tínhamos coisas para fazer durante a semana."
 "Eu mesmo não estou muito convencido de que isso acontecerá. Tenho certeza de que será vergonhoso pra cacete se isso acontecer."
-"Leo sai para trabalhar nesse momento, porém o Carl acabe entrando conosco no quarto do hotel."
+"Leo sai para trabalhar nesse momento, porém o Carl acaba entrando conosco no quarto do hotel."
 scene bg motelfull
 with dissolve
 "O resto do dia é bem monótono; assistimos alguns filmes e depois fomos jantar na lanchonete."
@@ -229,7 +229,7 @@ t "— Ei! Por que a gente não vai tomar sorvete? Eu tô querendo ir no Ray des
 c "— Heh, se você quiser dirigir meia hora até Payton, beleza."
 show TJ Surprised with dis
 t "— Quê, por quê?"
-c "— Eles mudaram pra lá. É horrível, já faz um ano que eu não comi o estrada rochosa deles."
+c "— Eles mudaram pra lá. É horrível, já faz um ano que eu não comi o \"estrada rochosa\" deles."
 show TJ Rejected with dis
 t "— Awww..."
 j "— Bem, vamos dar uma passada lá quando formos à Payton na próxima. Eu acho que não ficaremos em Echo pelo resto da viagem."

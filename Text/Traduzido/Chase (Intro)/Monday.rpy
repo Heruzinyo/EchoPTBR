@@ -209,7 +209,7 @@ f "— Foi por isso que tu nos trouxe aqui, né, pra nos unirmos?"
 f "— Ou... espera, foi só porque tu queria se unir com o que tá embaixo das calças do Chase?"
 show Leo Rejected with dis
 "As orelhas do Leo se abaixam completamente."
-f "— Provavelmente. Tu ficou todo fudido desde que ele foi embora, então deixa eu ser quem vai te falar:"
+f "— Provavelmente. Tu ficou todo fodido desde que ele foi embora, então deixa eu ser quem vai te falar:"
 f "— ACABOU."
 f "— Isso é doentio pra caralho, tu tá obcecado por ele!"
 "Lentamente, ele vira a cabeça para mim, e eu me preparo."

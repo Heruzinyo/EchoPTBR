@@ -3,27 +3,33 @@
 
 Esse projeto encontra-se licenciado sob a licença **[Creative Commons Atribuição-NãoComercial 4.0 Internacional. (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br)**.
 
-É necessário baixar o **[jogo original](https://echoproject.itch.io/echo)** na **versão 1.01 (1 Year Anniversary Version)** antes de aplicar esse Patch.
-
 Por favor, leia o **Manual da Tradução** dentro dos arquivos do Patch.
 
 Você pode criar um fork, clonar o repositório ou utilizar os arquivos no qual traduzi (os arquivos PSD ou a fonte corrigida para o português, por exemplo) como base para outros projetos, mas por favor não esqueça de me creditar.
 
 Foi tomada a decisão da utilização do travessão já que o texto original usa aspas para descrever falas, e como Visual Novels são "novels" (livros), e mídias como Light Novels quando traduzidas para o português são tratadas como livros e usam o travessão, para mim, fez sentido utilizá-lo também em uma Visual Novel.
 
-A tradução é totalmente gratuita, porém, caso você queira me dar um apoio:<br>**PIX: dea8d54b-cf74-4c13-bf7f-8b0aa52f0b94**<br>Ou scaneie o QR Code abaixo:<br><img width="300" src="https://raw.githubusercontent.com/Heruzinyo/Heruzinyo/main/Images/PIX%20QR%20Code.png">
-
 ## Instalação:<br><br>PC:
-1. Baixe e extraia o .7z do Patch (PC) e jogue os arquivos dentro da pasta do jogo.
-## Android:
-Em respeito aos desenvolvedores, eu não distribuo o jogo completo, apenas o Patch, porém, é impossivel criar um APK que apenas contenha o Patch, então você precisará montar o APK manualmente.
+1. Baixe o [jogo original](https://echoproject.itch.io/echo) para PC na **versão 1.01 (1 Year Anniversary Version)**.
+2. Baixe e extraia o .7z do Patch (PC) e jogue os arquivos dentro da pasta do jogo.
 
-※ Eu recomendo que você veja o **[vídeo tutorial (ainda não disponível)](https://github.com/Heruzinyo/EchoPTBR)** de como instalar, pois é um pouco complicado.
+## Android:
+Em respeito aos desenvolvedores, eu QUERIA não distribuir o jogo completo, apenas o Patch, porém, é impossivel criar um APK que apenas contenha o Patch. Então, a única forma de fazer isso sem distribuir o jogo completo seria distribuir os arquivos para montar o APK, só que a forma de montá-lo é complicada demais para o usuário comum.
+
+Por isso, eu disponibilizo duas versões para Android, uma com o APK já feito e uma Manual com os arquivos para montar o APK. Recomendo que você baixe a versão com o APK já feito por facilidade, mas caso seja necessário, baixe a versão APKManual e monte o APK seguindo as instruções na seção "APK Manual".
 
 ※ **Observação:** Caso você tenha alguma versão do jogo instalada que não esteja com esse Patch, você precisará desinstalá-la.
 
-1. Baixe e extraia o .7z do Patch (Android).
-2. Baixe o [APK original](https://echoproject.itch.io/echo) do jogo.
+※ Caso você seja um desenvolvedor do jogo, e queira a remoção do APK completo, entre em contato comigo.
+
+## APK:
+1. Baixe e extraia o .7z do Patch (APK) e instale o APK.
+
+## APK Manual:
+※ Eu recomendo que você veja o **[vídeo tutorial (ainda não disponível)](https://github.com/Heruzinyo/EchoPTBR)** de como instalar manualmente, pois é um pouco complicado.
+
+1. Baixe o [APK original](https://echoproject.itch.io/echo) do jogo na **versão 1.01 (1 Year Anniversary Version)**.
+2. Baixe e extraia o .7z do Patch (Android_Manual).
 3. Baixe o aplicativo [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) e [apk-signer](https://play.google.com/store/apps/details?id=com.haibison.apksigner).
 4. No ZArchiver, selecione o APK do jogo e escolha a opção: "Extrair para .\<Nome arquivo>".
 5. Copie e cole os arquivos do Patch (Pasta: "EchoPTBR") na pasta extraida do APK.
@@ -36,25 +42,27 @@ Em respeito aos desenvolvedores, eu não distribuo o jogo completo, apenas o Pat
 ## Créditos
 ![](/Promotional/KURAGE&#32;STUDIO/KURAGE&#32;STUDIO&#32;Logo&#32;Horizontal.png)
 
-| **Função** | **Membros** |
-| :--------: | :---------: |
-|  Tradução  |  Heruzinyo  |
-|  Revisão   |  mementos   |
+|                     **Função**                     | **Membros** |
+| :------------------------------------------------: | :---------: |
+| Tradução, Edição Gráfica, Modificações de Arquivos |  Heruzinyo  |
+|                      Revisão                       |  mementos   |
 
 ## 【Desenvolvedores】 Os arquivos pertencem à estas pastas:
     Fonts/Patched:
     belligerent.ttf - game/ui ; game/images/credits
-    Daubmark.ttf - game
+    Daubmark.ttf - game/
     forbid.ttf - game/ui
 
     Graphics:
-    images - /game
-    ui - /game
+    images - game/
+    ui - game/
 
     Text:
-    Carl, Chase (Intro), Flynn, Jenna, Leo, SideStory, TJ - /game (Todos os arquivos juntos na mesma pasta)
-    Scripts - _errorhandling, 00accessibility 00action_file, 00keymap, 00layout, 00library, 00preferences - renpy/common
-    Scripts - screens - /game
+    Carl, Chase (Intro), Flynn, Jenna, Leo, SideStory, TJ - game/ (Todos os arquivos juntos na mesma pasta)
+    Scripts - _errorhandling, 00accessibility, 00action_file, 00console, 00director, 00gamepad, 00gltest, 00keymap, 00layout, 00library, 00preferences - renpy/common
+    Scripts - developer, inspector - renpy/common/_developer
+    Scripts - core - renpy/display
+    Scripts - screens - game/
     README.html - O mesmo diretório onde se encontra o .exe do jogo
 
 ## 【Desenvolvedores】 Ferramentas utilizadas:
@@ -77,7 +85,7 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 |   Gráficos    |  109/113 (96%)   | ![Progress](https://progress-bar.dev/96/?&width=150)  | 80/113 (70%) | ![Progress](https://progress-bar.dev/70/?&width=150) |
 |   **Rota**    |   **Tradução**   |                                                       | **Revisão**  |                                                      |
 | Chase (Intro) | 2145/2145 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/2145 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150)  |
-|      TJ       | 2304/6782 (33%)  | ![Progress](https://progress-bar.dev/33/?&width=150)  | 0/6782 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|      TJ       | 4038/6782 (59%)  | ![Progress](https://progress-bar.dev/59/?&width=150)  | 0/6782 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |     Carl      |   0/9642 (0%)    |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/9642 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |      Leo      |   0/10498 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/10498 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |     Jenna     |   0/12010 (0%)   |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/12010 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150)  |
@@ -108,7 +116,7 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 | 3-TJ (Monday-TJ) |    7/7 (100%)    | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/7 (0%)   | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |    TJ-Tuesday    |  753/753 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/753 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |   TJ-Wednesday   | 1159/1159 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/1159 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   TJ-Thursday    |   97/1831 (5%)   |  ![Progress](https://progress-bar.dev/5/?&width=150)  | 0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   TJ-Thursday    | 1831/1831 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 0/1831 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |    TJ-Friday     |    0/895 (0%)    |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/895 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
 |   TJ-Saturday    |   0/1849 (0%)    |  ![Progress](https://progress-bar.dev/0/?&width=150)  | 0/1849 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 

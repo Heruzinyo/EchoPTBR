@@ -871,7 +871,7 @@ with slow_dissolve
 m "— O quê, eu tenho que falar?"
 l "— ..."
 m "— Beleza, tá..."
-m "— Eu odeio esse lugar pra caralho, tudo sobre ele. É o lugar mais fudido e miserável em que eu já estive."
+m "— Eu odeio esse lugar pra caralho, tudo sobre ele. É o lugar mais fodido e miserável em que eu já estive."
 l "— A quantos lugares você já foi?"
 m "— O suficiente pra saber que é miserável. A maioria das pessoas são velhas, obesas, recebem assistência social... metade delas provavelmente usam metanfetamina."
 "Leo respira fundo e sopra sobre minha cabeça. Posso sentir o cheiro de pimentão em seu hálito."

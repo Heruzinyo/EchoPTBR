@@ -425,7 +425,7 @@ label _save_reload_game:
         renpy.take_screenshot((config.thumbnail_width, config.thumbnail_height))
 
         ui.add(Solid((0, 0, 0, 255)))
-        ui.text("Saving game...",
+        ui.text("Salvando jogo...",
                 size=32, xalign=0.5, yalign=0.5, color="#fff", style="_text")
 
         ui.pausebehavior(0)
@@ -434,7 +434,7 @@ label _save_reload_game:
         renpy.save("_reload-1", "reload save game")
 
         ui.add(Solid((0, 0, 0, 255)))
-        ui.text("Reloading script...",
+        ui.text("Recarregando script...",
                 size=32, xalign=0.5, yalign=0.5, color="#fff", style="_text")
 
         ui.pausebehavior(0)
@@ -451,7 +451,7 @@ label _load_reload_game:
         renpy.rename_save("_reload-1", "_reload-2")
 
         ui.add(Solid((0, 0, 0, 255)))
-        ui.text("Reloading game...",
+        ui.text("Recarregando jogo...",
                 size=32, xalign=0.5, yalign=0.5, color="#fff", style="_text")
 
         ui.pausebehavior(0)
