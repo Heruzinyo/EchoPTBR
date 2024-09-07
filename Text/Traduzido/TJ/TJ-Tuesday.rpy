@@ -88,7 +88,7 @@ t "— Você tem certeza?"
 m "— Sim!"
 "TJ parece incrivelmente preocupado agora, olhando para mim enquanto eu me sento contra a rocha."
 m "— Cara, eu tô bem, só tô cansado... Eu não sei como você aguenta isso."
-"TJ continua me olhando e quando me sento ele se ajoelha ao meu lado, então passa a pata no pelo da minha testa, sentindo-a com suas almofadas das patas."
+"TJ continua me olhando e quando me sento ele se ajoelha ao meu lado, então passa a pata no pelo da minha testa, sentindo-a com suas almofadas das patas." # paw pads = almofadas das patas ?
 t "— Você tá um pouco quente. Deveríamos descansar um pouquinho aqui."
 "Ele pega outra garrafa de água. Parece que ele trouxe cinquenta dessas porras."
 t "— É melhor molharmos suas roupas–"

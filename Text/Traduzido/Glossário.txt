@@ -1,0 +1,71 @@
+(?) = Revisar decisão
+
+[Personagens]
+
+Carl:
+"Cê" (Majoritariamente)
+
+Chase:
+"Cê" (Majoritariamente)
+"Tu" (Quando criança, majoritariamente)
+
+Flynn:
+"Tu" (Majoritariamente)
+
+Janice:
+(Revisão: Não consegui transmitir na tradução o jeito que ela fala.)
+
+Jenna:
+"Cê" (Majoritariamente)
+
+Julian:
+"Cê" (Majoritariamente)
+
+Leo:
+"Você/Cê"
+Algumas palavras que se assemelham com a pronúncia espanhol serem escritas em espanhol com itálico (Exemplo: Enfim > {i}En fin{/i}) (?)
+Fazer ele falar algumas coisas básicas em espanhol em momentos mais próximo com o Chase (?)
+
+Sydney:
+"Tu" (Majoritariamente)
+
+TJ:
+"Você"
+Ok = Okay (Majoritariamente em momentos mais alegres, não usar em momentos bastante tensos.)
+
+[Termos]
+
+Em momentos de conversas o diálogo deve ser informal igual como falamos no dia a dia.
+
+Em momentos em que o termo é originalmente em espanhol adicionar itálico mesmo se não tivesse originalmente.
+
+Em sonhos (e momentos interpretativos), fazer uma escrita mais culta, deixando o sujeito oculto, como a escrita em livros clássicos.
+Nesses momentos, a escrita pode desviar um pouco para a escrita informal.
+
+You're only moving in circles... = Você só está andando em círculos...
+
+Teej = Tejinho
+
+CCU = UCC (Presumindo que CCU é "Colorado Christian University" > "Universidade Cristã de Colorado")
+Crawlspace = Vão entre a fundação e o piso (?)
+Hiss/Hissing = Chiado/Chiando (?)
+Huh = Uhm (?)
+Oh = Ah
+Ok = Na maioria das vezes: beleza, certo, etc.
+Overrals = Quando se referido ao personagem de TSR (Raposa), usar "Suspensório", já que não é muito comum em português um macacão como o estilo dele (?)
+Ranch-style house = Casa estilo americano de um só andar (?)
+Rebar Grid = Grade de Aço
+Scavenger Hunt = Gincana (?)
+Shakes head = Discorda com a cabeça (?)
+Stare = Na maioria das vezes: Olhar. Em momentos de tensão/suspense: Encarar + Objeto (Mesmo se não tiver originalmente) (Exemplo: Sydney stares > Sydney encara o céu)
+Treasure Hunt = Caça ao Tesouro
+Um = Hum
+
+[Locais]
+
+Southwest Adventures = Aventuras Sudoeste
+Yeeyah River = Rio Yeeyah
+
+[Revisar]
+
+Chase - (camera) bag = mochila ou bolsa?

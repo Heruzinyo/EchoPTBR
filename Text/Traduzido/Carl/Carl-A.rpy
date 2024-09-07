@@ -2703,13 +2703,19 @@ screen credits_text():
 
             vbox:
                 label " " text_style "cred3_text"
-                label "KURAGE STUDIO | Tradução, Edição Gráfica,\nModificações de Arquivos" text_style "cred2_text"
+                label "KURAGE STUDIO | Tradução" text_style "cred2_text"
                 text "Heruzinyo"
+                text "Jenna"
 
             vbox:
                 label " " text_style "cred3_text"
                 label "KURAGE STUDIO | Revisão" text_style "cred2_text"
                 text "mementos"
+
+            vbox:
+                label " " text_style "cred3_text"
+                label "KURAGE STUDIO | Edição Gráfica, Modificações de Arquivos" text_style "cred2_text"
+                text "Heruzinyo"
 
             vbox:
                 label " " text_style "cred3_text"

@@ -13,3 +13,7 @@
 ## X509Certificate:
 
 `keytool -list -rfc -keystore EchoPTBR.keystore -alias EchoPTBR -storepass EchoPTBR`
+
+## Assinar APK (com [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer))
+
+`java -jar uber-apk-signer.jar -a Echo.apk --ks EchoPTBR.jks --ksAlias EchoPTBR --ksKeyPass EchoPTBR -ksPass EchoPTBR`

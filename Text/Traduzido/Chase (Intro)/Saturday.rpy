@@ -80,7 +80,7 @@ m "— Desculpa! Desculpa..."
 # Swerve sound and image change
 t "— Chase! Meu deus, presta atenção."
 "TJ dá uma risadinha para aliviar a bronca, mas meu rosto fica avermelhado mesmo assim."
-m "— Ei, eu e a Jenna saímos três horas do trajeto pra te buscar na CCU, cê poderia ter pego o ônibus." # CCU?
+m "— Ei, eu e a Jenna saímos três horas do trajeto pra te buscar na UCC, cê poderia ter pego o ônibus." # CCU = Colorado Christian University = Universidade Cristã de Colorado = UCC
 t "— Não, não, eu fico agradecido. É só que eu prefiro que esse não seja o lugar onde eu morra, haha."
 "Continuamos pela rua Flint por cerca de quinze minutos em silêncio enquanto eu evito o número cada vez maior de buracos na estrada." # Eu acho que existe um outro termo melhor do que "buracos" mas eu não me lembro agora
 "Acho que estamos todos um pouco nervosos agora que estamos nos aproximando do nosso destino."

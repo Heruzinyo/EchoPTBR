@@ -95,9 +95,8 @@ t "— Aonde ele tava? O Leo disse que vocês acharam ele."
 j "— É."
 "Jenna pausa, olhando para a tela de seu notebook."
 m "— O que rolou?"
-j "— Eu realmente não sei. O Flynn achou ele no vão embaixo do piso, aparentemente." # The crawl space = no vão?
+j "— Eu realmente não sei. O Flynn achou ele no vão entre a fundação e o piso, aparentemente." # The crawl space = no vão?
 t "— No vão?" # The crawl space = no vão?
-"Esse \"vão\" que a Jenna se refere é um espaço vazio embaixo do primeiro piso com espaço suficiente para se rastejar." # Diálogo explicativo adicionado
 "Por algum motivo eu sinto um arrepio subindo pelos braços."
 t "— Mas o que ele tava fazendo lá embaixo?"
 "Jenna discorda com a cabeça."
