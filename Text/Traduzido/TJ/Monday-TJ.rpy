@@ -151,7 +151,7 @@ m "— Escuta, a gente não precisa sair todos juntos pra se divertir. Nós nos 
 m "— Se o Flynn quer ser um babaca então deixa ele, vamos fazer nossas próprias coisas."
 stop background fadeout 3.0
 play music "comeover.ogg" fadein 3.0
-"TJ funga e vejo que suas orelhas tufadas subirem um pouco."
+"TJ funga e vejo que suas orelhas pontiagudas subirem um pouco."
 m "— Cê não queria fazer uma trilha?"
 show TJ Sheepish with dis
 "Ele sorri ao ouvir isso e olha para mim."

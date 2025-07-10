@@ -11,7 +11,7 @@ Foi tomada a decisão da utilização do travessão já que o texto original usa
 
 ## Instalação:<br><br>PC:
 1. Baixe o [jogo original](https://echoproject.itch.io/echo) para PC na **versão 1.01 (1 Year Anniversary Version)**.
-2. Baixe e extraia o .7z do Patch (PC) e jogue os arquivos dentro da pasta do jogo.
+2. Baixe e extraia o .zip do Patch (PC) e jogue os arquivos dentro da pasta do jogo.
 
 ## Android:
 Em respeito aos desenvolvedores, eu QUERIA não distribuir o jogo completo, apenas o Patch, porém, é impossivel criar um APK que apenas contenha o Patch. Então, a única forma de fazer isso sem distribuir o jogo completo seria distribuir os arquivos para montar o APK, só que a forma de montá-lo é complicada demais para o usuário comum.
@@ -23,13 +23,13 @@ Por isso, eu disponibilizo duas versões para Android, uma com o APK já feito e
 ※ Caso você seja um desenvolvedor do jogo, e queira a remoção do APK completo, entre em contato comigo.
 
 ## APK:
-1. Baixe e extraia o .7z do Patch (APK) e instale o APK.
+1. Baixe e extraia o .zip do Patch (APK) e instale o APK.
 
 ## APK Manual:
 ※ Eu recomendo que você veja o **[vídeo tutorial (ainda não disponível)](https://github.com/Heruzinyo/EchoPTBR)** de como instalar manualmente, pois é um pouco complicado.
 
 1. Baixe o [APK original](https://echoproject.itch.io/echo) do jogo na **versão 1.01 (1 Year Anniversary Version)**.
-2. Baixe e extraia o .7z do Patch (Android_Manual).
+2. Baixe e extraia o .zip do Patch (Android_Manual).
 3. Baixe o aplicativo [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) e [apk-signer](https://play.google.com/store/apps/details?id=com.haibison.apksigner).
 4. No ZArchiver, selecione o APK do jogo e escolha a opção: "Extrair para .\<Nome arquivo>".
 5. Copie e cole os arquivos do Patch (Pasta: "EchoPTBR") na pasta extraida do APK.
@@ -86,12 +86,12 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 |   Gráficos    |  109/113 (96%)   | ![Progress](https://progress-bar.xyz/96/?&width=150)  | 80/113 (70%) | ![Progress](https://progress-bar.xyz/70/?&width=150) |
 |   **Rota**    |   **Tradução**   |                                                       | **Revisão**  |                                                      |
 | Chase (Intro) | 2137/2137 (100%) | ![Progress](https://progress-bar.xyz/100/?&width=150) | 0/2137 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150)  |
-|      TJ       | 4916/6742 (72%)  | ![Progress](https://progress-bar.xyz/72/?&width=150)  | 0/6742 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150)  |
+|      TJ       | 6742/6742 (100%) | ![Progress](https://progress-bar.xyz/100/?&width=150) | 0/6742 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150)  |
 |     Carl      |  322/8520 (3%)   |  ![Progress](https://progress-bar.xyz/3/?&width=150)  | 0/8520 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150)  |
 |      Leo      |   0/9549 (0%)    |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/9549 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150)  |
 |     Jenna     |   0/11750 (0%)   |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/11750 (0%) | ![Progress](https://progress-bar.xyz/0/?&width=150)  |
 |     Flynn     |   0/15501 (0%)   |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/15501 (0%) | ![Progress](https://progress-bar.xyz/0/?&width=150)  |
-|   SideStory   |   0/2502 (0%)    |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/2502 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150)  |
+|   SideStory   |  692/2502 (27%)  | ![Progress](https://progress-bar.xyz/27/?&width=150)  | 0/2502 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150)  |
 
 ## Gráficos
 
@@ -119,7 +119,7 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 |   TJ-Wednesday   | 1154/1154 (100%) | ![Progress](https://progress-bar.xyz/100/?&width=150) | 0/1154 (0%) | ![Progress](https://progress-bar.xyz/0/?&width=150) |
 |   TJ-Thursday    | 1829/1829 (100%) | ![Progress](https://progress-bar.xyz/100/?&width=150) | 0/1829 (0%) | ![Progress](https://progress-bar.xyz/0/?&width=150) |
 |    TJ-Friday     |  891/891 (100%)  | ![Progress](https://progress-bar.xyz/100/?&width=150) | 0/891 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
-|   TJ-Saturday    |   0/1826 (0%)    |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/1826 (0%) | ![Progress](https://progress-bar.xyz/0/?&width=150) |
+|   TJ-Saturday    | 1826/1826 (100%) | ![Progress](https://progress-bar.xyz/100/?&width=150) | 0/1826 (0%) | ![Progress](https://progress-bar.xyz/0/?&width=150) |
 
 ## Carl
 
@@ -175,12 +175,12 @@ Descompilação/Compilação de APK: **[APKToolGUI](https://github.com/AndnixSH/
 
 ## SideStory
 
-| **Dia**  | **Tradução** |                                                     | **Revisão** |                                                     |
-| :------: | :----------: | :-------------------------------------------------: | :---------: | :-------------------------------------------------: |
-|   Date   |  0/242 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) | 0/242 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
-| Runaway  |  0/502 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) | 0/502 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
-|  Lights  |  0/450 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) | 0/450 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
-|  Phone   |  0/299 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) | 0/299 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
-|  Party   |  0/443 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) | 0/443 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
-| Metaphor |  0/161 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) | 0/161 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
-|   Trip   |  0/405 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) | 0/405 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
+| **Dia**  |  **Tradução**  |                                                       | **Revisão** |                                                     |
+| :------: | :------------: | :---------------------------------------------------: | :---------: | :-------------------------------------------------: |
+|   Date   | 242/242 (100%) | ![Progress](https://progress-bar.xyz/100/?&width=150) | 0/242 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
+| Runaway  |   0/502 (0%)   |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/502 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
+|  Lights  | 450/450 (100%) | ![Progress](https://progress-bar.xyz/100/?&width=150) | 0/450 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
+|  Phone   |   0/299 (0%)   |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/299 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
+|  Party   |   0/443 (0%)   |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/443 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
+| Metaphor |   0/161 (0%)   |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/161 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |
+|   Trip   |   0/405 (0%)   |  ![Progress](https://progress-bar.xyz/0/?&width=150)  | 0/405 (0%)  | ![Progress](https://progress-bar.xyz/0/?&width=150) |

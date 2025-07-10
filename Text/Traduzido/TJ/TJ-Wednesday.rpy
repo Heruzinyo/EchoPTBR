@@ -563,7 +563,7 @@ hide Janice with dissolve
 show TJ at center with moveinright
 t "— Parece que ela tá bem!"
 "Eu me agacho na terra, colocando a cabeça nas mãos."
-t "— Acho que ela só teve um momento constrangedor e ficou sem jeito. Eu sou assim o toda hora!"
+t "— Acho que ela só teve um momento constrangedor e ficou sem jeito. Eu sou assim toda hora!"
 "Eu não digo nada."
 show TJ Neutral with dis
 t "— Chase, você tá bem?"
@@ -587,13 +587,13 @@ play music "comeover.ogg"
 "Então começamos a trabalhar."
 "A Janice pelo menos deixou algumas luvas para nós para que não precisássemos nos preocupar com alguma coisa pontiaguda passando pelas nossas mãos."
 "Eu ainda sou espetado através da minha camisa ou até mesmo no rosto se eu puxar sem jeito."
-"TJ, não posso deixar de notar, é muito mais rápido do que eu."
+"TJ, não consigo deixar de notar, é muito mais rápido do que eu."
 "Ele está trabalhando em um ritmo rápido e constante, não se importando nem um pouco quando uma bola de feno o atinge no rosto."
 "Eu recebo mais algumas mensagens do Leo perguntando onde estamos."
 "Quando eu lhe falo, ele não responde."
 "Não demora muito, estou suando pra caramba, com círculos escuros se formando sob meus braços e ao redor do meu pescoço."
 "Dez minutos depois eu preciso tirar a camisa, deixando-a pendurada em um suporte de metal enferrujado sob a janela."
-"Percebo que o TJ me olhando de lado depois que faço isso." # I notice TJ giving me sidelong glances after I do.
+"Percebo o TJ me olhando de lado depois que faço isso." # I notice TJ giving me sidelong glances after I do.
 "Eu sorrio para ele."
 m "— Que foi, tá gostando?"
 show TJ Surprised with dis

@@ -111,7 +111,7 @@ scene bg yeeyaw
 with dissolve
 "Quando chego à superfície está bem quieto."
 "Por um segundo, eu me pergunto se todos simplesmente foram embora."
-"É claro, isso é ridículo e, quando chego ao dique, todos estão lá." # dique?
+"É claro, isso é ridículo e, quando chego à ribanceira, todos estão lá." # ribanceira?
 "Como era de se esperar, o Flynn não tirou minha comida, então vou até o cooler para pegar um sanduíche e um refrigerante antes de me sentar em uma cadeira vazia ao lado do Leo."
 "Aparentemente foi uma boa ideia trazer nossas cadeiras, considerando que as mesas pareciam ter sido cobertas por merda de pássaro equivalente a um ano." # lawn chairs?
 f "— Como foi o mergulho?"

@@ -2,20 +2,20 @@ label sitwithcarl:
 stop music fadeout 3.0
 play loop "reststop.ogg" fadein 3.0
 "Eu tô cansado, e me sinto horrível. Eu só não tenho a energia pra ficar procurando todo mundo agora."
-"O Flynn voltou pra Echo, e parece que o Leo foi atrás do TJ, mas eu não acho que o lince quer nós todos ao redor dele agora."
+"O Flynn voltou pra Echo, e parece que o Leo foi atrás do TJ, mas eu não acho que o lince quer nós todos ao redor dele no momento."
 "Suspiro, esfregando meu rosto antes de sentar na cadeira ao lado do Carl."
 show Carl Rejected at center with dissolve
 "Ele olha para mim, lentamente abaixando o que é definitivamente um baseado da mão dele."
 m "— O quê? Eu não ligo."
 "Eu faço um gesto de \"pode ir\" com minha pata."
 "Porém Carl discorda com a cabeça, enfiando o baseado descascado no bolso da frente." # disheveled tube = baseado descascado ?
-c "— Nah, eu sempre meio que me sinto um cuzão quando o outro cara não gosta." #isn't into it = não gosta
+c "— Nah, eu sempre meio que me sinto um cuzão quando o outro cara não tá afim."
 m "— Quer que eu saia?"
 "Ele nega com a cabeça rapidamente mexendo os chifres."
 c "— Não mano. Eu só fumo quando não tem mais nada pra fazer."
 m "— Ah."
 "Temos um momento de silêncio e eu sinto uma pequena pressão de quebrá-lo já que fui eu quem interrompeu sua sessão de bolagem." # bake session = sessão de bolagem ?
-m "— Na verdade eu experimentei alguns anos atrás."
+m "— Na verdade eu já experimentei um desses há alguns anos atrás."
 show Carl Neutral with dis
 "Carl parece surpreso."
 c "— Ah sério? Como foi?"
@@ -28,7 +28,7 @@ m "— É, bem, eu acabei comendo um, não senti nada por um tempo. Quando me de
 c "— Nossa, que merda."
 m "— Foi meio engraçado, mas eu não acho que vou experimentar de novo na minha vida inteira."
 "Carl tira o baseado de volta do bolso e o ergue."
-c "— É por isso que você devia usar um desses. É mais leve no cérebro"
+c "— É por isso que você devia usar um desses. É mais leve no cérebro."
 m "— É, bem, acho que eu só não gosto da ideia de botar fumaça nos meus pulmões."
 show Carl Rejected with dis
 "Carl coloca o baseado de volta no bolso."
@@ -94,9 +94,9 @@ m "— Uh, pra não morrer?"
 c "— Acontece com todos mais cedo ou mais tarde. Pra que não sair mais cedo o possível?"
 "Ele deixa a voz leve durante essa frase pesada."
 "Não tenho ideia do que responder a isso, então não respondo, mas ele quebra o silêncio de novo em pouco tempo."
-c "— Então como tá indo Pueblo, cê chegou a ver a Chelsea?" # gênero?
+c "— Então como tá indo Pueblo, cê chegou a ver Chelsea?"
 "Às vezes eu esqueço que o Carl foi para Pueblo comigo. Foi só por um semestre, mas nos divertimos muito."
-m "— É de boa, mas eu não cheguei a ver ela." # gênero?
+m "— É de boa, mas eu não cheguei a ver ela."
 c "— É uma faculdade grande né. Enfim, o que é esse projeto que cê tá fazendo?"
 m "— É só um dossiê de notícias sobre Echo, sério. Meio sobre como ela decaindo."
 c "— Huh."
