@@ -8,6 +8,698 @@ $ renpy.pause(3.0, hard=True)
 scene bg motelfull with fade
 window show
 "Aparentemente foi uma boa ideia sair com o Carl hoje."
+"Após mandar algumas mensagens pro Leo, Eu descobri que ele planejou um aniversário pro Bode."
+"É meio estranho, pois o aniversário do Carl é só mês que vem, mas talvez é só uma desculpa pra ter uma festa."
+"Leo me disse pra distrair o Carl pelo dia enquanto eles compram decorações e presentes."
+"Ele também me disse que vai pegar meu presente pro Carl, no qual eu aceitei."
+"Porém, o TJ tá meio decepcionado, considerando que isso cancela os planos de caminhar com ele-" 
+"...Mas a Jenna prometeu que eles iriam caminhar pelo menos metade da trilha."
+"Eu quero falar com ele, mas ele tá agindo meio frio comigo, provavelmente porque eu tô escapando dos meus planos de ir com ele."
+
+scene bg mansion with fade
+play music "oldwinds.ogg"
+"Eu dirijo até a casa do Carl, pois é meio longe e separada do resto de echo, no sopé da serra da {i}Casa Demonio.{/i}"
+"Provavelmente me duraria quinze minutos para chegar lá á pé, E não tem jeito nenhum que eu faria isso, nesse calor, subindo, quando eu tenho um carro."
+"O motivo principal de porque a casa dele é separada assim é porquê é uma mansão."
+"A familia do Carl é gigante. Um legado que os acompanha desde que o Tatara-vô de Carl ficou rico, há mais de cem anos."
+"O James Hendricks eventualmente criou uma empresa de sorvete, na qual, nesse momento, espalhou pela maior parte do oeste desse país."
+"A mãe do Carl é a CEO, eu acho."
+"Pera, parando pra pensar, Eu provavelmente deveria bater fotos da Mansão, considerando a sua história na cidade."
+"Maioria da mansão antiga foi demolida, mas eu acho que ainda existem partes feitas da construção original."
+"Mas, seria melhor perguntar antes..."
+"Eu ando até a porta e toco a campainha, escutando o toque chique."
+"Eu espero por um minuto, me perguntando se o Carl tá dormindo, ou só chapado, quando eu escuto vozes vindo do quintal."
+"Definitivamente, estou reconhecendo o timbre de voz rouco do Carl junto com o tenor agudo de Flynn."
+"Dou a volta na casa, passando cuidadosamente pelo jardim desértico e entrando no quintal."
+stop music fadeout 5.0
+play loop "reststop.ogg" fadein 3.0
+f "— Porque tu quer beijar ele?"
+c "— Não, porque cê gosta de deixar constrangedor, Eu só quero que seja relaxado—"
+scene bg backyard with dissolve
+play music "comeover.ogg"
+"Nesse momento o Carl me nota quando eu viro do canto, deixando minha bolsa de câmera de lado." #Não era exatamente assim, mas deixei o mais perto que podia do original.
+show Carl Neutral at right
+show Flynn Annoyed at left
+with dissolve
+"Ele tá encima de um arbusto com tesouras gigantes enquanto o Flynn tá apoiado em uma parede, assistindo ele."#tive que ir no dicionário pra essa linha, é dificil descrever onde exatamente eles ficam nessas cenas
+show Carl with dis
+c "— Opa, Chase!"
+show Flynn Surprised with dis
+$ renpy.pause(0.5, hard=False)
+show Flynn Depressed with dissolve
+"As orelhas de Carl se animam e ele sorri."
+show Carl Teasing with dis
+c "— Desculpa, O Flynn—"
+"Carl se vira pro Lagarto."
+c "— Devia estar cuidando de você."
+"Flynn não me olha diretamente, em vez disso, escolheu tirar o palito de dente que estava mastigando do focinho para olhar para ele."
+"Ele ainda tá envergonhado sobre ontem."
+"Ótimo."
+m "— É de boa. Não foi dificil escutar vocês lá na entrada."
+show Carl with dis
+c "— É, uh, só fazendo jardinagem... Óbviamente."
+"Ele coça atrás da cabeça."
+c "— Prometi meus pais que terminaria isso antes que voltassem."
+"Carl volta a cortar o arbusto."
+"Ele tá estranhamente focado agora, Suponho que ele não tenha fumado nada."
+"De qualquer forma, é abrupto ver ele assim."
+m "— Bem, parece que Cê tá fazendo um ótimo trabalho."
+show Flynn with dis
+f "— Ah, ele só tá sendo rápido assim porque ele quer passar tempo com você, Chase."
+"Apesar dessa frase tecnicamente ser dita pra mim, É como se o Flynn estivesse direcionando isso ao Carl."
+show Carl Annoyed with dis
+"Carl mexe a sobrancelha."
+c "— Chase, você pode entrar na casa se quiser. A porta tá aberta."
+"Eu acredito que isso seja uma Ótima idéia pois eu notei que entrei durante uma briga."
+f "— Cê devia ter visto ele alguns minutos atrás; era como se tivesse uma namorada vindo."
+"Carl suspira em voz alta e os cortes da tesoura dele ficam cada vez mais violentos."
+c "— Não, eu só tô feliz em falar com alguém alem de você, Flynn."
+show Flynn Annoyed with dis
+"Flynn parece irritado e isso me deixa bravo."
+"Ele não tem o direito de se frustrar com ninguém após o que ele fez ontem."
+f "— Sério? Sempre parecia ser o suficiente pra Tu no passado."
+show Flynn Teasing1 with dis
+"Flynn faz um rosto de beijinho."
+"Eu não sei se isso é uma das piadas internas deles ou não."
+"Carl para de cortar por um instante, depois continua, mas lentamente."
+show Carl Teasing with dis
+c "— Bem, Cê sabe, lagartos podem ser divertidos, mas eles não tem TODAS as partes que eu gosto, se você entende."
+"Carl sorri de lado para o Flynn."
+"Flynn zomba de volta e, apesar de decidir que eles ainda estão zuando, definitivamente tem algo entre eles."
+f "— Tá falando o quê, Carl?"
+"Carl para de cortar e enfia a ponta da tesoura no Arbusto. Enquanto se apoiando nela, ele se vira para o Flynn."
+c "— Oque eu tô dizendo é que você não tem-"
+show Flynn Teasing1 F with dis
+"Antes do Carl terminar sua frase, o Flynn vira para a direita, longe dele."
+"Isso também traz a cauda grossa dele à bater na virilha do Carl, com um som que me faz sentir vergonha."
+show Carl Surprised with dis
+$ renpy.pause(0.1, hard=False)
+hide Carl
+with dissolve
+play sound "fall.ogg"
+with vpunch
+"Carl pula, depois grunhe, antes de cair no chão."
+c "— Ai, minhas BOLAS!!"
+f "— É, com certeza queria ter elas; Moles e vulneráveis. Enfim, vou deixar vocês vadias a sós."
+"Flynn coloca o Palito-de-dente de volta no focinho dele e eu inconscientemente cubro minha virilha enquanto ele passa por mim."
+hide Flynn with dissolve
+"Ele não olhou pra mim esse tempo todo."
+"Quando o Flynn some eu vou pro Carl, que ainda tá no chão, se segurando enquanto resmunga."
+m "— Uh, cê tá bem?"
+c "— Pooooorra, não..."
+m "— Uh..."
+"Tem nada que eu possa fazer, então eu esfrego seu ombro com meu pé, e ele congela, olhando pro meu pé."
+c "— Uh, mas eu tô de boa."
+"Ele se levanta lentamente, ficando com as pernas arqueadas."
+m "— Eu esqueci o tanto que o Flynn gosta de bater nas bolas dos outros;"
+show Carl Annoyed at center with dissolve
+c "— Eu vou me vingar. Ainda machuca ele se você bater com força o suficiente."
+"Enquanto ele fica lá, dobrado com suas patas nos joelhos, Eu olho ao redor."
+"A casa do Carl tem grama real no quintal, que é raro em Echo; maioria ou paisagisam ou deixam a escova de sálvia dominar."
+"Uma outra raridade são as duas árvores altas no quintal."
+"É aí onde eu noto que uma delas parece estranhamente vazia."
+m "— Ei, cadê a casa de árvore?"
+show Carl Neutral with dis
+"Carl segue minha vista."
+c "— Ah sim, meu pai tirou alguns anos atrás. Tava desmoronando."
+"O pai dele também construiu a casa de árvore. Eu me lembro de brincar lá, jogando nos consoles portáteis com um ventilador no máximo."
+"Mesmo assim, era quase quente demais pra brincar lá."
+"Eu ando até a base da árvore, sorrindo."
+m "— Cara, se lembra de todas as coisas que jogavamos lá em cima?"
+show Carl with dis
+"Carl fica ao meu lado, ainda com as pernas arqueadas, e sorri também."
+c "— É, bons tempos."
+"Eu penso em subir, mas eu noto que o galho que eu usava como apoio foi cortado."
+m "— Seu pai arruinou isso."
+"Carl toca no canto onde o galho ficava com sua pata."
+c "— É, Acho que deixava a jardinagem mais difícil, e a gente não usava mais, então ele só cortou."
+"Eu vejo que o Carl tá procurando uma forma de subir, e logo, ele encontra um galho encima de sua cabeça."
+m "— Eu não sei se-"
+"O Carl Já tá pulando pra subir com as patas. Não parece muito estável."
+m "— Cara, isso vai quebrar."
+c "— E daí? Eu sou gordo porra, eu vou quicar."
+scene carltree with dissolve
+"Eu tô prestes a avisar ele de novo que o galho vai quebrar, até que eu noto a camisa dele, subindo em sua barriga."
+"Porém, Não é como se ele fosse um saco de feijão. é tipo um estômago controlado, apertada com os músculos abaixo puxando pra dentro quando ele flexiona." #22/05/25, troquei "saco de banha" por "saco de feijão".
+"Ele me nota encarando e me chuta na brincadeira."
+c "— Tarado! Primeiro meus peitos, e agora isso."
+"Eu ando pra trás, e ele tenta fazer o mesmo, balançando as pernas, até que o galho quebra, barulhentamente."
+"Carl desce mais uma vez, caindo de costas."
+scene bg backyard with dissolve
+hide Carl
+with dissolve
+play sound "fall.ogg"
+with vpunch
+c "— Ooomph!"
+stop music fadeout 3.0
+"Eu cubro meu rosto instintivamente, mas eu ainda escuto ele caindo, seguido pelo ar saindo de seus pulmões."
+"Eu lentamente abaixo minhas patas e vejo o bode gordinho, rolando pra frente e pra trás no chão, olhos abertos, assim como sua boca."
+"Isso me lembra de uma memória distante, quando nós ambos tinhamos 10 anos e o Carl quis me mostrar um truque com sua nova rampa de bicicleta."
+"O guidão acabou na sua barriga quando ele caiu, e ele passou o próximo minuto rolando no chão desse mesmo jeito."
+"Bons tempos."
+m "— Pooorra!"
+"Eu respiro pelos meus dentes e me abaixo dele, dando carinho inútilmente."
+"Após alguns segundos de hesitar, Eu pego a frente da cintura de seus shorts e puxo pra baixo."
+"Apesar de estar completamente murcho, ele olha pra mim de um jeito estranho e bate na minha pata, ofegando ao tentar rir."
+m "— Ei, É pra te ajudar a respirar! Eu vi os treinadores fazerem isso na escola."
+"Tô percebendo que o Carl é Pesado demais pra Pra se levantar assim, então eu desisto e só dou carinho na barriga dele, querendo ajudar."
+m "— Então... Só se Estica, tá?"
+"A Respiração dele já volta, mas ele enfim se estica, e ficamos ali por um tempinho, O silêncio pontuado por sua respiração arfa."
+"Eu comecei a rir."
+m "Jesus amado, Carl. Dá pra você passar um dia sem se machucar?"
+"Ele gargalha, também, sua barriga tremendo abaixo da minha pata."
+c "— Agora você sabe porque eu mal saio de casa."
+"Ele cai por um momento, respirando fundo antes de se levantar novamente."
+"Ele olha pra minha pata e sorri."
+c "— Parece que você não consegue tirar suas patas de mim, né?"
+"Eu movo minha pata, deixando ele abaixar sua camisa enquanto grunhe e se levanta."
+m "— Que tal eu só deixar você sufocar, na próxima?"
+c "— Foi quase, rindo enquanto eu não conseguia respirar. Achei que cê tava tentando pegar minha pica."
+"Eu boto minhas patas na cintura."
+m "— É por que eu sou gay?"
+c "— Talvez é exatamente isso."
+"Carl pega o galho que foi arrancado da Árvore e corrige o canto de sua boca."
+c "— Ugh, meu pai não vai ficar feliz sobre isso."
+m "— Quem se importa? É só um galho."
+c "— Cê conhece meu pai."
+"Ele se levanta e arremessa o galho acima da cerca no deserto, e se vira pra mim."
+c "— Agora que eu sinto como se o Lucha Lobo me deu a porra da {i}Quebradora Con Giro{/i}, Acho que já terminei por hoje."
+c "— Agora, quer fazer seu projeto?"
+"Eu sinceramente iria preferir ficar aqui com o Carl, mas o calor é o suficiente pra me mudar de ideia."
+stop loop fadeout 3.0
+
+scene bg livingroom
+with dissolve
+play music "neutral.ogg"
+"A casa do Carl é tipo um labirinto."
+"Acho que ele já me disse que tem mais de 30 salas, no qual é insano pra caralho."
+"A sala é mais de 5 vezes maior que a na casa dos meus pais, E é dificil ignorar o que parece uma TV de 100 polegadas na parede."
+"De acordo com o Carl, era ainda maior."
+"Após me dar uma bebida, ele me leva diretamente pra baixo, pro porão."
+"Além do corredor, nós passamos por um pequeno cinema de casa, algo que aparenta ser uma sala de entretenimento com um bar, e uma pequena academia."
+"A Vista breve me entrega pelo menos 10 dispositivos."
+"Após isso, tudo fica mas escurecido, E consigo notar como porções da casa podem ter décadas de idade."
+scene bg basement with dissolve
+"Finalmente, ao fim do corredor, O Carl abre uma porta, e consigo notar que tá logo abaixo das escadas que descemos."
+"Carl acena sua pata brevemente e finalmente segura algo antes de puxar pra baixo."
+"Uma antiga lâmprada se acende, e eu vejo que tem uma portinha com uma fechadura nela."
+stop music fadeout 5.0
+"Ele abre e Eu sou introduzido à um aroma mofento enquanto o Carl desliza pela entrada."
+scene bg black
+with dissolve
+"Eu sigo timidamente, tendo cuidado pra não me encarar com nenhuma das teias."
+m "— Tem muitas Aranhas aqui?"
+c "— Eu não acho. Pulverizamos algumas semanas atrás."
+"Tá extremamente escuro e eu escuto o Carl grunhir."
+c "— Ugh, Tem um holofote por aqui... Ah! Achei."
+play sound "switch.ogg"
+play loop "floodlight.ogg" fadein 3.0
+scene bg crawlspace with dissolve
+"Assim como o resto da casa, é bem grande pra um espaço de rastejo."
+"Pilares sobem do chão em duas fileiras que se levam até a escuridão."
+"O chão é coberto em um musgo e eu vejo dúzias de barris plásticos alinhados na parede."
+m "— Isso é... muita coisa."
+c "— Mhm, vai até algumas gerações de coisas."
+"Eu ando acima do musgo pra olhar dentro de um dos barris, mas tudo que encontro é só tufos de pano e toalhas atrás do plástico nublado."
+"Carl me ultrapassa, até o fundo do espaço de rastejo, seus cascos batendo alto."
+c "— Na verdade eu ajudei meus pais a organizar tudo isso ano passado, então Eu acho que sei onde tá;"
+"Eu o sigo, mas é difícil ver na escuridão."
+m "— Será que nós devemos pegar uma lanterna?"
+c "— Nem, são só dois barris, Eu acho. Vamos só puxar eles pra frente."
+"Eu me movo pro lado enquanto observo ele mover barris, olhando os rótulos."
+"Focando mais nos barris, eu noto um deles é rotulado filmes e vejo que é cheio de cassettes."
+show Carl at center with dissolve
+c "— Ugh, não me lembre."
+"I look up and see that Carl's noticed me staring at the bin."
+m "— Quê?"
+"Carl grunhe ao levantar um barril e derruba bem descuidadamente pro chão. Tenho quase certeza que escutei algo quebrar."
+c "— Minha Mãe me fez converter tudo aquilo pro digital. Durou o ano inteiro."
+m "— Uau..."
+c "— É, tá na nuvem agora. E você tá em um monte daqueles vídeos."
+m "— Hum, sério?"
+c "— Sim, Festas, aniversários e tal."
+"Claro que eu estaria."
+"O pai do Carl praticamente tinha uma câmera de video colada ao seu olho antigamente."
+"Eu costumava passar tempo com o Carl tanto quanto eu passava com o Leo no início."
+"Eu até fui nas férias de família com eles algumas vezes."
+"Mas ao namorar o Leo, isso tinha mudado. Parando pra pensar, acho que o Carl Odiava isso."
+c "— Dá pra assistir alguns, se cê quiser."
+m "— Uh, tá bom."
+"Parece algo de idoso pra fazer, mas eu tô curioso."
+c "— Achei!"
+"Carl arrasta alguns baldes de plástico, e Eu vejo 'História' escrito na tampa."
+c "— Me ajuda a carregar um."
+"Carl levanta o balde em cima, e sai andando de volta pra entrada." #waddling tem tradução (?)
+hide Carl with dissolve
+"Eu me reviro e levanto o segundo e fico surpreso com o QUÃO pesado é." #originalmente "fucking heavy", não achei tradução correta.
+"Me preocupo que nem vou conseguir levantar do chão por uns segundos, mas eu aguento logo depois."
+"Se o balde do Carl é tão pesado quanto o meu, ele deve ser uma fera, conseguindo levantar e carregar daquele jeito."
+"Eu cambaleio atrás dele, quase com certeza que vou bater logo na parede."
+"Quando chegamos de volta ás escadas, Eu me dobro pra reduzir o balde pro chão, e é aí onde eu noto."
+"Uma aranha gigante sentada na tampa."
+"Me levou meio segundo pra perceber a forma preta e pernas afiadas."
+m "—Ái PORRA!"
+play sound "mallet.mp3"
+"Eu grito e jogo o balde, antes de perceber que estou metade do caminho de onde viemos, arfando e tremendo."
+show Carl Surprised at center with dissolve
+c "— Eita porra, o que aconteceu?"
+"Eu tremo e tento balancear minha voz."
+m "— Uma maldita Aranha!"
+show Carl with dis
+c "— Quê? Cê ainda tem medo delas? Cara, Por um instante achei que minha Irmã chegou em casa e mataram ela."
+m "— Cê acabou de me dizer que não teria nenhuma!"
+c "— Eu não disse isso. Eu só disse que nós pulverizamos."
+m "— Só se livra dela!"
+"Nesse momento eu me aproximei um pouco mais para a luz, e consigo ver o Carl sorrindo ao se abaixar, analizando a tampa."
+c "— Eita! Isso tem bebês nas costas!"
+"Meu corpo tem um Espasmo violento e involuntário, E tremo minhas patas que nem uma garotinha."
+m "— Para!"
+"Ele olha brevemente pra mim, ainda com aquele sorriso besta no seu rosto."
+c "— Uau, isso foi gay. Mas sério, tem um monte de filhotes pequenos nas costas. Acho que é uma Aranha-Lobo?"
+"Eu juro que vou desmaiar se ele continuar."
+"Eu cobri meu rosto."
+m "{i}— Por favoooor.{/i}."
+c "— Tá bom, tá bom. Eu não sabia que Cê tinha tanto medo delas assim. Cê provavelmente devia tratar isso."
+"Considerando que eu quase bati meu carro na garagem dos meus pais quando uma aranha saiu do AC, ele provavelmente tava certo."
+m "— Só mata logo."
+c "— Porque eu faria isso?"
+"Eu observo ele virar o balde de lado."
+c "— Não vai machucar ninguém."
+"Eu quero dizer pra ele que aqueles filhotes só vão crescer em mais uma centena de aranhas-lobo gigantes."
+"Mas percebo que só vou parecer um Cuzão Cruel, Então mordo meu lábio ao ver o ponto escuro sumir na escuridão."
+"Eu ando de volta pro Carl, abraçando meus ombros ao controlar os meus arrepios."
+"Agora vou ficar paranoico o tempo todo que vai voltar pra me matar."
+"Carl esfrega nas minhas costas quando eu fico do lado dele."
+c "You know, they actually clean up a lot of other bugs that get into the house."
+m "Yeeah, well, I'd rather be covered in ants than spiders."
+"It's clear he's trying not to laugh at me as he starts popping the lid off his bin."
+"On the top are a few framed pictures and under those are a few more cardboard boxes."
+"I release the latches on the other bin, keeping my eye out for any black spots that might jump out at me."
+"This one is filled with bundles wrapped in cloth or paper."
+"Carl drags his bin to the steps so that he can sit on them, and I follow suit."
+c "So how do you think you'll use this stuff?"
+m "Um..."
+"I unwrap a smaller bundle and look at the gold pocket watch underneath."
+m "Wow. Uh, well, not totally sure. Depends on what we find. Might film a few things."
+stop loop fadeout 5.0
+play sound "mitt.ogg" fadein 10.0
+"There's a paper tag attached to the chain with Robert Hendricks written on it."
+m "Who's this?"
+"Carl gives it a glance."
+c "No idea. Probably a great uncle, or something."
+"I wrap the pocket watch and reach back into the bin to pull out the next item."
+"There's something really cool about old stuff. My mind wanders to who might have made it, who bought it, and how much shit it must have seen."
+"History was my first choice to major in, but dad put a stop to that pretty quick..."
+"I pull out various other things: dolls, a pipe, coins, and another pocket watch."
+m "I feel like this is worth a lot of money. Why don't they sell it?"
+c "Probably, but it's family stuff, and I still think they wanna do the museum."
+"He gives an awkward cough."
+c "'Sides, we already got plenty of money."
+"He's got the binder open, looking at black and white photos behind the plastic."
+c "Hey, this is him, right?"
+"He points at a picture of a very dignified looking ram, thumbs in his vest, wearing one of those big top hats. A fox stands next to him in a similar pose."
+"I can see a piece of yellowed paper set behind the photo and tug it out."
+m "James Hendricks. Yep, definitely him. And John Begay...huh."
+"That's Jenna's last name."
+stop sound fadeout 10.0
+play loop "floodlight.ogg" fadein 5.0
+show Carl Neutral with dis
+"Carl's phone starts buzzing and he grunts as he leans back to pull it out of his pocket."
+c "Hey mom...helping Chase with his project."
+c "No, I—of course not."
+"I look over at him, but he gets up and clops back up the steps."
+hide Carl with dissolve
+"Looking back down at the picture I wonder if it's just coincidence, but I don't think so."
+"Jenna's family has been in Echo since the beginning, too, so this guy definitely has to be a relative of some kind."
+play sound "camera.ogg"
+"I take a picture of the photograph with my phone. I'll show it to Jenna later and ask if she knows anything about it."
+c "—to do that without a car!?"
+"Carl raises his voice so I look back up the steps, wondering if I should close the door. Hearing him angry like that didn't feel right."
+"His parents were always hard on him, but I guess they had their reasons."
+"I spend the next twenty minutes shuffling through the bins, trying to be careful not to break anything."
+"I decide I have enough and put the lids back on the bins, lining the stuff I picked out along one of the steps since I don't have anywhere else to put them."
+stop loop fadeout 3.0
+"By the time I head back up into the actual basement, Carl's gone."
+
+scene bg carlsroom
+with fade
+"As I approach Carl's room I smell it before I even open the door."
+"He's reclined on his bed, an arm thrown over his face, the big window above him open."
+"Clothes are scattered all over the floor, along with a few empty water bottles and bowls."
+"Every inch of the walls are covered in posters like I remember, along with a few on the ceiling."
+"Bookcases line the opposite wall, filled to the brim with comics and toys."
+"He raises up his arm as I walk in and smiles."
+show Carl at center with dissolve
+c "Sorry about the mess, dude. It's hard to keep everything clean when my parents aren't here to yell at me about it."
+"The lazy, crackly sound in his voice has returned full force. His eyes are distant."
+m "It's okay...Are you okay?"
+"He grins toothily."
+c "Dude, I'm MORE than okay."
+"Since there's no where else to sit I end up sitting down on the foot of his bed."
+m "Do they...do they let you smoke in here?"
+"The smell in his room is layered and old, like the walls had been blanketed in the smell several times before."
+c "Eeeyup. They gave up trying to stop me."
+c "Better to be in the house rather than getting caught by some cop outside. They just made me promise that I wouldn't ever try something harder."
+c "Heh, good thing they don't know I've already tried dick."
+"He puts a lot of emphasis on the 'K' as the bad joke seems to just dribble out his muzzle."
+m "Hmm."
+"I lean back on the bed and that's when I notice his flat screen (just a 48 inch) is on, a list of video files displayed on it."
+m "Wat'cha watching?"
+c "Hmm? Oh!"
+"Carl grunts as he sits up and reaches for a game controller."
+c "Our old home movies. Was gonna show you some of 'em."
+c "How about...a birthday?"
+m "Sure."
+"He scrolls down the list, then stops when Carl's 8th is highlighted and presses play."
+hide Carl with dissolve
+play music "carefree.ogg" fadein 10.0
+"The backyard I was in an hour earlier pops up on the screen."
+"Now a long table sits in the middle of the lawn, along with a massive bounce house."
+"And not just any bounce house, but a giant, two-story one you'd find at the state fair."
+"The video is timestamped Apr. 19 2002."
+m "Fuck, I remember this."
+"There are about twenty kids, mostly in the bounce house and most of whom I've forgotten."
+"Right now, though, the camera's zooming in on an eight year old Carl."
+"He's messing with a giant Nerf gun, the kind that no kid ever gets because they're so damn expensive."
+"And that's when eight year old me enters the picture, holding a much smaller Nerf gun."
+"His parents gave everyone a goodie bag that day. It had toys in it that I might not have been able to get on my own birthday."
+"My kid self puts the gun to Carl's head and pulls the trigger, the dart bouncing off one of his horns."
+"I specifically remember that moment. I had thought the suction end of the dart was going to stick, but of course it didn't."
+"The audio is filled with a deep chuckle; Carl's dad behind the camera."
+c "You were a dick back then."
+m "What? I was eight!"
+c "Still, you blew out my candles."
+m "Oh yeah..."
+"He got so mad about that."
+"I start to settle back and smile."
+"It's been a long time since I've watched a home movie and I've forgotten how nice it is to have this method of looking back."
+"Kind of like when I get stuck on scrolling through all the old images on my phone."
+"My younger self is trying to help Carl with the gun, lifting up the barrel and looking into the opening."
+"Jim" "Careful!"
+"Kid Chase pulls his head back with a jolt as Carl's dad yells, then mutters behind the camera."
+"Jim" "Let's see how long it takes him to trick Carl into trading with him."
+"Carl's dad sounds exasperated, but good-natured."
+"It still makes me blush a bit, now knowing how aware Jim was of my taking advantage of his son."
+"Our struggles with the Nerf gun gets the attention of another kid, though."
+"My breath catches in my throat as Sydney bounces into frame."
+stop music fadeout 5.0
+"I can feel Carl tensing up next to me, too, and he starts to lean for the game controller."
+"Jim" "And here comes the Mormon boy."
+"The disgust in Carl's dad's voice shocks me and I hear Carl whisper a curse next to me as he fumbles for the controller."
+"Sydney reaches out and pulls the gun away from Carl as he looks it over, grinning."
+"Jim" "HEY!"
+"Suddenly, the screen switches back to the file menu and we both sit there in silence for a few seconds."
+show Carl Sad at center with dissolve
+c "Sorry, I—I guess I forgot that..."
+"Of course Sydney was going to be at that party, but I'd honestly forgotten, too."
+"If there was any way to perfectly ruin the mood, that had been it."
+"I glance over at Carl and see him looking down at the game pad, ears lowered, the insides red."
+m "Hey, it's okay. I mean, maybe it's a good thing to watch—"
+c "My dad, I didn't know he'd say that. I'd rather not find out what else he's said."
+m "Oh, yeah..."
+"I look around, trying to find something, anything to distract us from what just happened."
+"My eyes fall on the shelves holding Carl's game library."
+m "...Wanna play a game?"
+
+scene bg carlsroom with fade
+play music "comeover.ogg"
+"It's just like old times as we co-op through Winter Castle."
+"The fact that he still has the old save files from when he was in college makes it all the more nostalgic."
+"I get so into it that it gets dark outside without me even knowing, and pretty soon I'm looking out at the purple sky reluctantly."
+m "About time I go back."
+"Carl sighs and pauses the game before stretching and dropping the controller onto his bed."
+show Carl Rejected at center with dissolve
+c "Aww, come on. Sure you can't stick around?"
+m "I dunno. I don't have any clothes, or toothbrush..."
+c "We can walk over and get them."
+"Carl seems pretty determined to make me stay, and there's not one reason why I can't, so I relent."
+m "Alright...Yeah, this could be fun."
+show Carl with dis
+c "Yes!"
+"Carl looks happy and almost relieved."
+c "It'll be just like old times!"
+"He rolls to his hooves."
+c "And speaking of old times, let's make a pizza!"
+"I've suddenly caught Carl's enthusiasm."
+scene bg kitchen with dissolve
+"We go into the massive kitchen and pull a big frozen pizza from the fridge and, while it bakes, we sit at the counter and talk."
+"At this point the haze of pot has lifted from Carl's face and he's animated and excited again, swiveling on one of the counter stools."
+"For the first time in almost ten years I'm giddy and excited in the way you only get when you're at a sleepover."
+"That makes it a little jarring when he pulls out some beers, but I'm happy to have a few and we guzzle them down as we talk about past sleepovers."
+"Pretty soon our reminiscing drifts into the present and that's when the conversation slows a bit, Carl having less to say."
+"I try to change the subject and tell him that he should come back to school."
+"He just smiles and shakes his head."
+stop music fadeout 3.0
+
+scene bg carlsroomnight 
+show nightoverlay 
+with transition_fade
+"Three hours later, we're both laying back on Carl's bed, head to toe, having just watched a shitty action movie."
+"We didn't end up going out to get my stuff, so I'm just in my boxers, pleasantly drowsy and buzzed."
+"I hear Carl snuffle and look down my chest at him."
+m "What's up?"
+"He looks over at me and shrugs."
+show Carlu Neutral behind nightoverlay at center with dissolve
+c "Nothin', just thinkin'"
+m "What about?"
+play music "intimate.ogg" fadein 15.0
+"During our past sleepovers Carl had always been afraid to be the last to fall asleep."
+"He'd try to keep me up by talking, rolling over on top of me...and sometimes by just throwing shit at me."
+"I wonder if that's what he's doing now."
+c "I dunno...life?"
+m "That's a lot to think about."
+c "Not for me, heh."
+"I look over at him again."
+"He's holding one paw up, looking through his fingers at the ceiling fan."
+m "You're just figuring things out."
+show Carlu Rejected behind nightoverlay with dis
+"Carl lets his arm flop back down over his head, blowing out a sigh."
+c "I'm not figuring things out, man."
+"I don't say anything. It's cool that he's reaching out to me, but I'm not sure I can offer any advice that he hasn't heard before."
+c "I just...I just wish I could be doing something."
+"I think for a moment."
+m "You've done a lot more than some people I know."
+m "I mean, your art is great, you did go to school even if you dropped out, and you were working while you could."
+m "There are a lot of people out there who can't even say that."
+"Carl laughs, but it's a sad kind of laugh."
+c "Try saying that to my mom. She's always got something to do, always WANTS to do something."
+c "I just...I just don't feel that."
+show Carlu Depressed behind nightoverlay with dis
+"He turns his head towards me."
+c "I {i}wish{/i} I did, Chase, but I just {i}can't{/i}."
+"His voice catches in his throat, and I shrink a bit into the bed and pretend not to notice."
+"The beer we've had is definitely partly to blame for this."
+"He turns his head towards the wall, though, and I'm guiltily relieved that when he talks again his voice is under control."
+c "I just wish it wasn't such a goddamn chore for me to just go outside, ya know?"
+"I didn't know, but I nod anyway, even if he can't see."
+"He's waiting for me to say something, though, so I clear my throat."
+menu:
+    "You have a problem.":
+        $ Ask_About_Carl = True
+        m "Don't take this the wrong way, but maybe you should see a therapist?"
+        show Carlu Annoyed behind nightoverlay with dis
+        "He snorts and finally turns his head to look back at me, his horns bumping the wall loudly."
+        c "Ha! I already do. I thought they'd just give me a pill to make things better, but apparently I have to actually make an effort, too."
+        show Carlu with dis
+        c "And I'm like, isn't that why I'm seeing you, for the whole 'making an effort' thing?"
+        "I laugh along with him."
+        m "Yeah, I can remember what that's like."
+    "It's fine.":
+        m "You know, Carl, some people are just like that."
+        show Carlu Neutral behind nightoverlay with dis
+        "He looks down at me, but doesn't say anything."
+        m "If it's so hard to get out, then just don't."
+        m "People figure things out, eventually. And if you always just want to stay home then do that."
+        m "Just, uh, try to figure out a way to sustain yourself. That's pretty much the gist of what my therapist told me; do what makes you happy."
+show Carlu Rejected behind nightoverlay with dis        
+"He watches me for a few seconds."
+c "So is all that.. are all those problems you had taken care of now?"
+m "I hope so."
+"We lay in silence for a little while, before I finally speak up."
+m "Listen, I'll probably come back a few times this week to work with that history stuff."
+m "Well, why don't we go out and {i}do{/i} something?"
+show Carlu Neutral behind nightoverlay with dis
+c "That would be nice..."
+"I grin, glad at making Carl feel better."
+m "Cool, let's plan on it."
+show Carlu Sheepish with dis
+"Carl puts his paws behind his head and smiles."
+c "It's cool that you're here, Chase."
+m "It's cool to be here, Carl."
+stop music fadeout 5.0
+c "And not just because it's nice to have someone to talk to."
+m "Oh?"
+show Carlu Rejected behind nightoverlay with dis 
+c "No. This house is fucking haunted."
+
+scene bg black
+with transition_fade
+$ renpy.pause(2.0, hard=True)
+scene bg carlsroomnight 
+show nightoverlay 
+with dissolve
+play sound "scrape.ogg" 
+"I don't remember falling asleep, but it's at that moment that something wakes me up."
+"I jolt, then lay there, trying to remember where I am."
+"Carl's house, that's right."
+"I stare at the ceiling, wondering what time it is."
+"I don't bother to look my phone, though, because I'm already starting to fall back asleep."
+play sound "scrape.ogg" fadeout 2.0
+"A scraping noise from beneath me makes me jump and I prop myself up on my elbows, listening."
+"Looking over, I see Carl's staring at the ceiling, eyes wide."
+m "Carl?"
+"I whisper it, and I'm not sure why."
+"He jumps, then looks at me, confused, like he'd just woken up."
+show Carlu Surprised behind nightoverlay with dissolve
+c "Huh?"
+m "Are you okay?"
+c "Yeah, what's wrong?"
+m "I—I think I hear something."
+"His floppy ears perk up."
+c "I don't—"
+"Then his eyes widen."
+"Although I didn't hear anything right then, he definitely did."
+m "You hear it?"
+c "Yeah, like a scraping noise I told you about?"
+m "Yeah!"
+show Carlu behind nightoverlay with dis
+"He looks happy."
+c "Ha! So I'm not fucking crazy!"
+"We both sit there and listen for a while, but it sounds like it stopped."
+c "Wanna go see what—"
+show Carlu Surprised behind nightoverlay with dis
+"Suddenly, his eyes widen and his muzzle drops open in shock."
+"I stare back."
+m "What!?"
+c "Did you fucking hear that!?"
+"I listen, feeling my heartbeat pick up now that Carl looks fucking terrified...but I don't hear anything."
+m "What!?"
+play music "creep.ogg" fadein 3.0
+c "A fucking voice!"
+"The fur raises up all over my body as I listen."
+"But nothing. Carl definitely seems convinced, though, so I listen harder."
+"I just start to make out what might be a voice when Carl sits up next to me and gets out of bed."
+"I feel myself start to panic. Did some crazy hobo break into the house?"
+show Carlu Neutral with dis
+"Carl gets off the couch."
+c "Come on."
+m "What? What the fuck are we gonna do!? Let's call the cops!"
+c "No, let's make sure, first. This has happened before."
+m "What? What do you mean?"
+"He puts a finger up to his lips."
+c "Grab something."
+m "What?"
+scene bg kitchennight with dissolve
+"I follow Carl out into the kitchen and he starts rummaging through the drawers."
+"I follow him, hugging my shoulders, feeling a lot colder right now."
+"With the sound of metal sliding against metal Carl pulls out a giant steak knife."
+m "What. The. Fuck!?"
+c "Dude, I've been hearing this shit for the past month and I've been too scared to go down there, but now with you here—"
+"He flashes me a smile."
+c "I'm gonna find out what the fuck this is."
+c "Here."
+"He reaches into a spot between the fridge and the wall and pulls out a broom before sticking it out to me."
+"I take it slowly."
+m "What the hell am I supposed to do with this?"
+c "Hit him. Come on!"
+"Carl starts down the stairs and I follow behind, holding the broomstick in front of me like a sword."
+"I've never had to hit anyone with a stick before. I have no idea what I'm doing."
+scene bg basement with dissolve
+stop music fadeout 5.0
+"Once we get to the small door leading down to the crawl space, Carl pauses and we both listen."
+"It's silent for a while, then—"
+play sound "scrape2.ogg"
+"..."
+m "Shit!"
+"Carl looks at me like I'm crazy, not reacting to the noise at all."
+c "Shh!"
+"He leans down, a paw on the handle."
+"Looking back at me, he signals me with his eyes to be ready."
+"I grip onto the broom like a lifeline as I wait for him to swing the door open and, when he does—"
+scene bg black 
+show nightoverlay
+with dissolve
+"..."
+"Darkness."
+show Carlu Surprised behind nightoverlay at center with dissolve
+c "Shit."
+"So whatever's down here is just slinking around in complete darkness?"
+c "H-hey!"
+"Carl says it unconvincingly, the fear clear in his voice."
+show Carlu Neutral behind nightoverlay with dis
+"Then, after looking back at me-"
+c "Fuck it."
+hide Carlu with dissolve
+"He jumps down into the crawl space, disappearing into the dark."
+m "Carl!"
+"I stumble up to the edge of the steps, trying to squint into the black."
+"I hear Carl to the right, rustling around and cursing."
+play sound "switch.ogg"
+play loop "floodlight.ogg" fadein 3.0
+scene bg crawlspace
+"That's when light floods the crawl space."
+"I quickly wobble down the steps, knowing that if whatever is down here is gonna try to escape, it would be running right into me."
+"Finally, I have a moment to catch my breath, standing several feet behind Carl as I look around, broom at the ready."
+c "There's nothing here...what the fuck?"
+"Sure enough, the crawl space looks empty. There aren't many places to hide, either."
+m "What the hell's going on, Carl?"
+"But he doesn't answer me. He's staring at the bins."
+c "Did you put the bins back?"
+"I look down, and the bins are gone."
+"I look back at where they were originally, and sure enough, they're neatly stacked right where we found them."
+m "I—"
+"I honestly don't remember. Did I move them back? Maybe, it would be something I might do. I try, but I just can't remember."
+m "Maybe..."
+c "Dude, come on."
+m "I really don't remember!"
+"Carl walks further towards the back, ears perked, looking left and right as he clutches his knife."
+"I start to follow, but that's when I notice something at the left of my vision, on the ground."
+"Looking down, I see something fat and hairy ambling slowly over the tarp."
+"A giant fucking tarantula."
+"The following few moments are a blur, but the next thing I know I'm going up the stairs on my feet and paws, grabbing at the door frame to pull myself up."
+scene bg basement with dissolve
+c "Chase, what happened!?"
+show Carlu Surprised at center with dissolve
+"I can hear him running up behind me, so I turn to warn him."
+m "L—look out. A big-a big spider!"
+"The breath keeps catching in my throat. I think I'm hyperventilating."
+"I'm still clutching at the door frame as Carl follows up behind me, his eyes wide."
+c "Wha-come on Chase, this is crazy."
+m "No, huge—a blond!"
+c "No fucking way!"
+"Now he looks excited and he turns back to the crawl space."
+"I feel numb right now. This is all too much to handle. What the fuck is even going on?"
+c "Which way!?"
+"Shakily, I point towards where the spider was crawling."
+"Carl squints, then walks down the steps, looking around."
+hide Carlu with dissolve
+m "Careful!"
+c "If it was really a blond there's not much to worry about. I hear they're actually pretty gentle."
+"I gulp and don't say anything."
+"My head is pounding and buzzing which, for some reason, doesn't exactly feel like it has anything to do with the adrenaline rush."
+"It's more like a bad headache."
+"Carl looks around a while longer while I focus on the steps, making sure nothing starts crawling up them."
+"I don't even care about the possible hobo anymore."
+show Carlu Rejected with dissolve
+"Finally, Carl comes back, looking confused."
+c "Well, there's nothing there. You know, sometimes I see shit when I'm really tired. Wanna go back upstairs?"
+"There's nothing there."
+"This can't be happening again..."
+
+window hide
+stop music fadeout 6.0
+stop loop fadeout 6.0
+
+jump carlwednesdayabel carltuesday:
+
+stop music fadeout 3.0
+window hide
+scene bg CarlTuesday
+with transition_fade
+$ renpy.pause(3.0, hard=True)
+scene bg motelfull with fade
+window show
+"Aparentemente foi uma boa ideia sair com o Carl hoje."
 #chat history
 "Após falar um pouquinho com o Leo eu aprendi que ele tá planejando um aniversário para o Carneiro."
 "É meio estranho pois o aniversário do Carl é só mês que vem, mas suponho que é só uma desculpa pra ter uma festa."
