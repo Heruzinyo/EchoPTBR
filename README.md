@@ -1,7 +1,7 @@
 ![](/Promotional/GitHub/Social&#32;Preview.jpg)
 # Esse projeto visa traduzir o jogo [Echo](https://echoproject.itch.io/echo) criado por [Echo Project](https://echoproject.itch.io) para Português Brasileiro.
 
-Esse projeto encontra-se licenciado sob a licença **[Creative Commons Atribuição-NãoComercial 4.0 Internacional. (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br)**.
+Esse projeto encontra-se licenciado sob a licença **[Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br)**.
 
 Por favor, leia o **Manual da Tradução** dentro dos arquivos do Patch.
 
